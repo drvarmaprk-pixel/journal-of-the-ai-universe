@@ -1,0 +1,6263 @@
+{
+ "week": "2026-10-19",
+ "count": 312,
+ "curated_by": "Dr.P.R.K.Varma",
+ "events": [
+  {
+   "start": "2026-10-18",
+   "end": "2026-10-21",
+   "dates": "18–21 Oct 2026",
+   "name": "Money20/20 USA 2026",
+   "url": "https://us.money2020.com/",
+   "city": "Las Vegas",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Money20/20",
+   "note": "Fintech flagship under way; agenda on agentic AI, fraud and payments.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-10"
+   ]
+  },
+  {
+   "start": "2026-10-19",
+   "end": "2026-10-21",
+   "dates": "19–21 Oct 2026",
+   "name": "LocWorld56 Vancouver",
+   "url": "https://locworld.com/events/locworld56-vancouver-2026/",
+   "city": "Vancouver",
+   "country": "Canada",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "LocWorld",
+   "note": "Under way: AI at scale and human governance of AI localisation workflows.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-10"
+   ]
+  },
+  {
+   "start": "2026-10-22",
+   "end": "2026-10-22",
+   "dates": "22 Oct 2026",
+   "name": "Formula E GEN4 Creators Challenge premiere",
+   "url": "https://gen4challenge.com/",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Formula E",
+   "note": "Shortlisted AI-made films premiere on the BFI IMAX screen.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-10"
+   ]
+  },
+  {
+   "start": "2026-10-22",
+   "end": "2026-10-28",
+   "dates": "22–28 Oct 2026",
+   "name": "ICAR-IASRI training: AI-driven genomic prediction in plant breeding",
+   "url": "https://www.iasri.res.in/trainings.aspx",
+   "city": "New Delhi (ICAR-IASRI)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "ICAR-IASRI",
+   "note": "AI-driven statistical and bioinformatics approaches for genomic prediction.",
+   "project": "02",
+   "project_name": "AI Agriculture",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-10"
+   ]
+  },
+  {
+   "start": "2026-10-24",
+   "end": "2026-10-29",
+   "dates": "24–29 Oct 2026",
+   "name": "EMNLP 2026",
+   "url": "https://2026.emnlp.org/",
+   "city": "Budapest",
+   "country": "Hungary",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "ACL SIGDAT",
+   "note": "Major conference on empirical methods in NLP.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-10"
+   ]
+  },
+  {
+   "start": "2026-10-29",
+   "end": "2026-10-31",
+   "dates": "29–31 Oct 2026",
+   "name": "AI for Healthcare 3.0 (executive programme)",
+   "url": "https://www.jioinstitute.edu.in/executive-education/ai-healthcare-30",
+   "city": "Navi Mumbai (Jio Institute)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Jio Institute",
+   "note": "Residential programme for healthcare leaders; ₹50,000 + GST.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-10"
+   ]
+  },
+  {
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "dates": "31 Oct – 3 Nov 2026",
+   "name": "TCT 2026",
+   "url": "https://www.tctconference.com/faq",
+   "city": "San Diego Convention Center",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "CRF (TCT)",
+   "note": "Interventional cardiology meeting; the TCT AI Lab returns.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-10",
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "dates": "1 Nov 2026",
+   "name": "Big Scary Tech",
+   "url": "https://www.bluemountainswritersfestival.com.au/events/big-scary-tech",
+   "city": "Blue Mountains, NSW (The Carrington Hotel)",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Blue Mountains Writers' Festival",
+   "note": "Conversation on AI, authorship and how afraid writers should be.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "dates": "1 Nov 2026",
+   "name": "JournalismAI Festival 2026 – in-person application deadline",
+   "url": "https://www.journalismai.info/festival",
+   "city": "London and online",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "hybrid",
+   "organiser": "JournalismAI (LSE Polis)",
+   "note": "The journalism-and-AI festival returns in November; apply by 1 Nov to attend in London.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-01",
+   "end": "2026-11-04",
+   "dates": "1–4 Nov 2026",
+   "name": "ICA 2026 – AI Meets Farm",
+   "url": "https://ica26.annam.ai/",
+   "city": "Rupnagar, Punjab (IIT Ropar)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "ANNAM.AI, IIT Ropar",
+   "note": "Digital agriculture conference: workshops 1 Nov, keynotes and papers 2–4 Nov.",
+   "project": "02",
+   "project_name": "AI Agriculture",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-01",
+   "end": "2026-11-04",
+   "dates": "1–4 Nov 2026",
+   "name": "IEEE A-SSCC 2026 – 'I C the Future of AI'",
+   "url": "https://www.a-sscc2026.org/",
+   "city": "Taichung, Taiwan",
+   "country": "Taiwan",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "IEEE Solid-State Circuits Society",
+   "note": "AI processors, memory for AI inference, GenAI-at-the-edge circuits.",
+   "project": "36",
+   "project_name": "AI Semiconductors",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "dates": "2–3 Nov 2026",
+   "name": "CIRED 2026 Seoul Workshop",
+   "url": "https://2026seoul.cired.net/",
+   "city": "Seoul (JW Marriott Dongdaemun)",
+   "country": "South Korea",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "CIRED",
+   "note": "Digital disruption: AI and the next generation of distribution grids.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "dates": "2–3 Nov 2026",
+   "name": "Future of Utilities: Smart Energy 2026",
+   "url": "https://ukerc.ac.uk/events/future-of-utilities-smart-energy/",
+   "city": "London (Convene 133 Houndsditch)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Future of Utilities (listed by UKERC)",
+   "note": "Smart grids, artificial intelligence, flexibility and grid modernisation.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "dates": "2–3 Nov 2026",
+   "name": "SANS AI/SI Cybersecurity Summit Fall 2026",
+   "url": "https://www.sans.org/cyber-security-training-events/ai-summit-fall-2026",
+   "city": "Arlington, VA (Hilton) and online",
+   "country": "United States",
+   "region": "North America",
+   "format": "hybrid",
+   "organiser": "SANS Institute",
+   "note": "AI security summit with training.",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-02",
+   "end": "2026-11-04",
+   "dates": "2–4 Nov 2026",
+   "name": "AI DevCon 2026",
+   "url": "https://tessl.io/devcon",
+   "city": "Brooklyn, NY (Industry City)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Tessl",
+   "note": "For people putting coding agents to work in real codebases.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-02",
+   "end": "2026-11-04",
+   "dates": "2–4 Nov 2026",
+   "name": "EuroMed 2026 – Digital Cultural Heritage",
+   "url": "https://euromed2026.eu/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "EuroMed",
+   "note": "11th conference; AI and 3D technologies transforming heritage. Free.",
+   "project": "22",
+   "project_name": "AI Mythology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "dates": "3 Nov 2026",
+   "name": "10th CSR Conference: AI & Innovation in CSR",
+   "url": "https://amchamindia.com/3rd-november-2026-10th-csr-conference-shaping-the-future-ai-innovation-in-csr-new-delhi/",
+   "city": "New Delhi",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "AMCHAM India",
+   "note": "Shaping the future of CSR with AI.",
+   "project": "44",
+   "project_name": "AI Social Impact",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "21st Advanced Building Skins Conference & Expo",
+   "url": "https://abs.green/home",
+   "city": "Bern",
+   "country": "Switzerland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Advanced Building Skins",
+   "note": "Keynote by Neil Leach on AI and the future of architectural design.",
+   "project": "09",
+   "project_name": "AI Architecture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "DCD Connect Virginia 2026",
+   "url": "https://www.datacenterdynamics.com/en/dcdconnect-live/virginia/2026/",
+   "city": "Lansdowne, Virginia (Lansdowne Resort)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "DatacenterDynamics",
+   "note": "Designing, building and operating data centres for the AI age.",
+   "project": "39",
+   "project_name": "AI Cloud & Data Centres",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "Delhi Defence Dialogue 2026",
+   "url": "https://idsa.in/delhi-defence-dialogue-2026",
+   "city": "New Delhi",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "MP-IDSA",
+   "note": "Defence self-reliance, collaborations and exports; AI and quantum among emerging tech in focus.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "Future PropTech Summit Dubai 2026",
+   "url": "https://futureproptechsummit.com/",
+   "city": "Dubai (Mövenpick Grand Al Bustan)",
+   "country": "United Arab Emirates",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "Future PropTech Summit",
+   "note": "PropTech founders, investors and AI innovators.",
+   "project": "46",
+   "project_name": "AI Smart Cities & Real Estate",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "Journées thématiques IA pour l'architecture",
+   "url": "https://www.univ-grenoble-alpes.fr/actualites/agenda/sciences-et-innovation/journees-thematiques-ia-pour-l-architecture-1833506.kjsp",
+   "city": "Grenoble",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Université Grenoble Alpes",
+   "note": "Research study days on AI for architecture.",
+   "project": "09",
+   "project_name": "AI Architecture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "Next-Gen AI for Energy Summit 2026",
+   "url": "https://www.ai4energysummit.com/",
+   "city": "Houston",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AI4Energy Summit",
+   "note": "AI for oil & gas, utilities and grid infrastructure.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-04",
+   "dates": "3–4 Nov 2026",
+   "name": "The Future Factory Expo 2026",
+   "url": "https://thefuturefactoryexpo.com/",
+   "city": "Mumbai (NESCO, Goregaon)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "The Future Factory Expo",
+   "note": "AI, robotics, MES, IIoT and digital twins for manufacturing.",
+   "project": "14",
+   "project_name": "AI Manufacturing",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-05",
+   "dates": "3–5 Nov 2026",
+   "name": "Brooklyn 6G Summit 2026",
+   "url": "https://www.b6gs.com/",
+   "city": "Brooklyn, NY",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Nokia & NYU WIRELESS",
+   "note": "AI-native 6G: networks at the dawn of the AI supercycle.",
+   "project": "40",
+   "project_name": "AI Telecom & Connectivity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-05",
+   "dates": "3–5 Nov 2026",
+   "name": "FOLIO DIGITAL Symposium: Generating New Narratives",
+   "url": "https://www4.uib.no/en/research/research-centres/center-for-digital-narrative/events/folio-digital-symposium-generating-new-narratives",
+   "city": "Mexico City (Casa de la Primera Imprenta de América)",
+   "country": "Mexico",
+   "region": "Latin America",
+   "format": "in-person",
+   "organiser": "UiB Center for Digital Narrative & UAM",
+   "note": "How artificial intelligence is reshaping the book.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-05",
+   "dates": "3–5 Nov 2026",
+   "name": "FYUZ 2026",
+   "url": "https://www.fyuz.org/",
+   "city": "Seattle (The Westin)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Telecom Infra Project",
+   "note": "Open telecom; hackathon on AI-powered networks.",
+   "project": "40",
+   "project_name": "AI Telecom & Connectivity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-05",
+   "dates": "3–5 Nov 2026",
+   "name": "Smart City Expo World Congress 2026",
+   "url": "https://www.smartcityexpo.com/",
+   "city": "Barcelona (Fira Gran Via)",
+   "country": "Spain",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Fira de Barcelona",
+   "note": "Leading smart-cities event; responsible AI and data sovereignty.",
+   "project": "46",
+   "project_name": "AI Smart Cities & Real Estate",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-05",
+   "dates": "3–5 Nov 2026",
+   "name": "WTM London 2026 – Travel Technology",
+   "url": "https://www.wtm.com/london/en-gb/visit/travel-technology.html",
+   "city": "London (ExCeL)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "World Travel Market",
+   "note": "Latest AI, big-data and smart-tool innovations on the Innovation Highway.",
+   "project": "27",
+   "project_name": "AI Travel & Hospitality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-11-06",
+   "dates": "3–6 Nov 2026",
+   "name": "Joint i-SAIRAS & iSpaRo Conference 2026",
+   "url": "https://www.isairas-isparo.de/",
+   "city": "Cologne (Confex)",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "i-SAIRAS / iSpaRo",
+   "note": "AI, robotics and automation in space.",
+   "project": "31",
+   "project_name": "AI Space & Cosmos",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-03",
+   "end": "2026-12-08",
+   "dates": "3 Nov – 8 Dec 2026",
+   "name": "AI and Psychological Practice webinar series",
+   "url": "https://events.humanitix.com/ai-and-psychological-practice-webinar-series",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "NZCCP Wellington branch",
+   "note": "Sessions on 3 Nov and 8 Dec (PST listing).",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "dates": "4 Nov 2026",
+   "name": "ACC webinar: AI in Clinical Practice – Cardiac MRI",
+   "url": "https://www.acc.org/education-and-meetings/meetings/meeting-items/2026/10/01/webinar-ai-in-clinical-practice-cardiac-mri",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "American College of Cardiology",
+   "note": "Live webinar on AI applications in cardiac MRI, 1 pm EST.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "dates": "4 Nov 2026",
+   "name": "Mexico AI in Media Forum",
+   "url": "https://wan-ifra.org/events/mexico-ai-in-media-forum-english-website/",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "region": "Latin America",
+   "format": "in-person",
+   "organiser": "WAN-IFRA",
+   "note": "Reimagining the future of media with AI.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "dates": "4 Nov 2026",
+   "name": "TechCrunch Founder Summit 2026",
+   "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+   "city": "Boston",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "TechCrunch",
+   "note": "Full day for founders at every stage with top VCs.",
+   "project": "47",
+   "project_name": "AI Startups & Investment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-05",
+   "dates": "4–5 Nov 2026",
+   "name": "Boulder Trustworthy & Responsible AI Workshop",
+   "url": "https://trustworthyresponsible.ai/",
+   "city": "Boulder (SEEC, CU Boulder East Campus)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "CU Boulder and partner universities",
+   "note": "35+ speakers on trustworthy and responsible AI.",
+   "project": "45",
+   "project_name": "AI Ethics & Safety",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-05",
+   "dates": "4–5 Nov 2026",
+   "name": "CADISON International Conference (CIC) 2026",
+   "url": "https://cadison.com/CIC/en/",
+   "city": "Bad Soden am Taunus, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "CADISON",
+   "note": "Engineering data, digital twins and industrial plant design.",
+   "project": "10",
+   "project_name": "AI Engineering",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-05",
+   "dates": "4–5 Nov 2026",
+   "name": "Legal Innovators UK 2026",
+   "url": "https://www.legalinnovators.co.uk/",
+   "city": "London (The Minster Building)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Legal Innovators",
+   "note": "Legal-tech conference where UK firms test their AI strategy.",
+   "project": "06",
+   "project_name": "AI Law & Investigation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-04",
+   "end": "2026-11-07",
+   "dates": "4–7 Nov 2026",
+   "name": "GSA 2026 Annual Scientific Meeting – AgeTech Track",
+   "url": "https://www.gsa2026.org/agetech",
+   "city": "National Harbor, MD (Gaylord National)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Gerontological Society of America",
+   "note": "AgeTech sessions 5–7 Nov include ethics of AI for older adults.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "dates": "5 Nov 2026",
+   "name": "BRXND NYC 2026",
+   "url": "https://www.brxnd.ai/",
+   "city": "New York (The Times Center)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "BRXND",
+   "note": "A day at the intersection of marketing and AI.",
+   "project": "28",
+   "project_name": "AI Marketing & Advertising",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "dates": "5 Nov 2026",
+   "name": "Literature and the Digital Age",
+   "url": "https://dublinbookfestival.com/event/literature-and-the-digital-age/",
+   "city": "Dublin (DCU)",
+   "country": "Ireland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Dublin Book Festival with DCU",
+   "note": "How digital technologies and AI are changing how we write and read.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "dates": "5–6 Nov 2026",
+   "name": "Biological Naturalism about Consciousness",
+   "url": "https://philosophy.ucla.edu/event/biological-naturalism-about-consciousness/",
+   "city": "Los Angeles (UCLA Royce Hall)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "UCLA Department of Philosophy",
+   "note": "Can non-biological systems be conscious?",
+   "project": "49",
+   "project_name": "AI Consciousness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "dates": "5–6 Nov 2026",
+   "name": "Consciousness and Intelligence 2026",
+   "url": "https://ai.utexas.edu/events/2026-11-05/consciousness-and-intelligence-2026",
+   "city": "Austin (UT Austin)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Texas AI, UT Austin",
+   "note": "Two-day meeting on consciousness and intelligence.",
+   "project": "49",
+   "project_name": "AI Consciousness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "dates": "5–6 Nov 2026",
+   "name": "Grefenstette Symposium: Deconstructing AI – Storytelling, Solidarity, and Faith",
+   "url": "https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php",
+   "city": "Pittsburgh (Duquesne University) and online",
+   "country": "United States",
+   "region": "North America",
+   "format": "hybrid",
+   "organiser": "Grefenstette Center, Duquesne University",
+   "note": "Faith, ethics and technology symposium.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "dates": "5–6 Nov 2026",
+   "name": "Humanoid Europe 2026",
+   "url": "https://humanoideurope2026.com/",
+   "city": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Humanoid Europe",
+   "note": "Europe–China humanoid robot and physical AI summit.",
+   "project": "11",
+   "project_name": "AI Robotics",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-06",
+   "dates": "5–6 Nov 2026",
+   "name": "PhD Symposium: A Dialogue Between AI and Digital Humanities",
+   "url": "https://phd.unibo.it/chede/en/agenda/phd-symposium-from-thought-to-practice-a-dialogue-between-artificial-intelligence-and-digital-humanities",
+   "city": "Bologna",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "University of Bologna (CHeDE PhD)",
+   "note": "From thought to practice in AI and digital humanities.",
+   "project": "22",
+   "project_name": "AI Mythology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-07",
+   "dates": "5–7 Nov 2026",
+   "name": "AAAI 2026 Fall Symposium Series",
+   "url": "https://aaai.org/conference/fall-symposia/2026-fall-symposium-series-2/",
+   "city": "Arlington, VA (Westin Arlington)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AAAI",
+   "note": "Multiple AI research symposia.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-07",
+   "dates": "5–7 Nov 2026",
+   "name": "Plan4Planet – AAAI Fall Symposium",
+   "url": "https://plan4planet.org/",
+   "city": "Arlington, VA (Westin Arlington)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AAAI",
+   "note": "AI planning for the decisions a changing climate demands.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-07",
+   "dates": "5–7 Nov 2026",
+   "name": "QIML 2026 – AAAI Fall Symposium",
+   "url": "https://aaai-qiml.github.io/",
+   "city": "Arlington, VA",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AAAI",
+   "note": "Bridging quantum computing and AI.",
+   "project": "35",
+   "project_name": "AI Quantum Computing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-05",
+   "end": "2026-11-07",
+   "dates": "5–7 Nov 2026",
+   "name": "TAS 2026 – Trustworthy Agentic Systems (AAAI Fall Symposium)",
+   "url": "https://tas2026.github.io/",
+   "city": "Arlington, VA (Westin Arlington)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AAAI",
+   "note": "Safety and trust in agentic AI systems.",
+   "project": "45",
+   "project_name": "AI Ethics & Safety",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "dates": "6 Nov 2026",
+   "name": "AI Alignment Workshop",
+   "url": "https://cadmy.yale.edu/events/2026-11-06-ai-alignment-workshop",
+   "city": "New Haven (Yale)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Yale Center for Algorithms, Data, and Market Design",
+   "note": "All-day workshop (invitation only).",
+   "project": "48",
+   "project_name": "AI AGI & ASI",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "dates": "6 Nov 2026",
+   "name": "AI, Faith, and Justice Conference",
+   "url": "https://laroche.edu/events/ai-faith-and-justice-conference/",
+   "city": "Pittsburgh (La Roche University)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "La Roche University",
+   "note": "How AI can serve faith and justice.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "dates": "6 Nov 2026",
+   "name": "At the Crossroads with Folklore and AI",
+   "url": "https://www.beinghumanfestival.org/events/crossroads-folklore-and-ai",
+   "city": "Harwich (Harwich Arts and Heritage Centre)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "School of Advanced Study, University of London (Being Human Festival)",
+   "note": "Free hands-on workshop: can humans and AI tell folk stories together?",
+   "project": "22",
+   "project_name": "AI Mythology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "dates": "6 Nov 2026",
+   "name": "Discoverative AI for Neuroscience (AIAS+ 2026 workshop)",
+   "url": "https://slab.usc.edu/AIAS2026_Discoverative_AI_Neuroscience/",
+   "city": "San Francisco",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "USC",
+   "note": "AI that helps neuroscientists discover.",
+   "project": "33",
+   "project_name": "AI Neuroscience",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "dates": "6 Nov 2026",
+   "name": "Human x Artificial Intelligence Lecture Series Part 2",
+   "url": "https://www.lse.ac.uk/philosophy/events/upcoming-events/human-x-artificial-intelligence-lecture-series-part-2",
+   "city": "London (LSE, Clement House)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "LSE Philosophy, Logic and Scientific Method",
+   "note": "Social, behavioural and philosophical questions of AI.",
+   "project": "49",
+   "project_name": "AI Consciousness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-06",
+   "dates": "6 Nov 2026",
+   "name": "MediaFutures Annual Meeting 26: Media AI at the Crossroads",
+   "url": "https://medieklyngen.no/en/events/mediafutures-annual-meeting-26-media-ai-at-the-crossroads",
+   "city": "Bergen (Scandic Ørnen)",
+   "country": "Norway",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Media Cluster Norway / MediaFutures",
+   "note": "Media technology and AI: innovating with trust and safety.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-07",
+   "dates": "6–7 Nov 2026",
+   "name": "Digital Heart Summit 2026",
+   "url": "https://www.digitalheartsummit.com/",
+   "city": "Berlin (i-LAB)",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Digital Heart Summit",
+   "note": "AI and digitalisation for cardiac risk management in AF and heart failure.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "dates": "6–8 Nov 2026",
+   "name": "Kids' AI Summit 2026 Thailand",
+   "url": "https://www.kigumigroup.com/kids-ai-summit-2026-thailand",
+   "city": "Bangkok (Wycombe Abbey)",
+   "country": "Thailand",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "The Kigumi Group",
+   "note": "First Thailand edition of the AI summit for children.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-09",
+   "dates": "6–9 Nov 2026",
+   "name": "AHA Scientific Sessions 2026",
+   "url": "https://professional.heart.org/en/meetings/scientific-sessions/programming/virtual-programming",
+   "city": "Chicago (McCormick Place)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "American Heart Association",
+   "note": "Late-breaking science on AI in CVD diagnosis; Health Innovation Pavilion 7–9 Nov.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-06",
+   "end": "2026-11-22",
+   "dates": "6–22 Nov 2026",
+   "name": "Beta Festival 2026",
+   "url": "https://www.betafestival.ie/",
+   "city": "Dublin",
+   "country": "Ireland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Beta Festival",
+   "note": "Where art meets technology: the intelligence of landscapes, plants, animals and machines.",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "dates": "7 Nov 2026",
+   "name": "AI and the Future of Storytelling",
+   "url": "https://coquitlam.libnet.info/event/17091816",
+   "city": "Coquitlam, BC (City Centre Library)",
+   "country": "Canada",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Fraser River Literary Festival / Coquitlam Public Library",
+   "note": "Festival session on AI and storytelling.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "dates": "7 Nov 2026",
+   "name": "AI-Sports 2026 (IEEE BigData workshop) – paper deadline",
+   "url": "https://prof-shih.github.io/ai-sports26/",
+   "city": "Phoenix, AZ",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "IEEE BigData AI-Sports workshop",
+   "note": "Submissions due 7 Nov; acceptance 15 Nov.",
+   "project": "20",
+   "project_name": "AI Sports & Fitness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "dates": "7 Nov 2026",
+   "name": "AIAS 2026 – Workshop on Lifelong Agents",
+   "url": "https://lifelongagent.github.io/aias26.html",
+   "city": "San Francisco",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AIAS",
+   "note": "Learning, aligning and evolving lifelong agents.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "dates": "7 Nov 2026",
+   "name": "Considerations for Authors in the Age of AI",
+   "url": "https://leagueofvermontwriters.wildapricot.org/event-6852234",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "League of Vermont Writers",
+   "note": "Online discussion of what AI means for writers.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "dates": "7 Nov 2026",
+   "name": "Creative Writing in the Age of AI",
+   "url": "https://marktwainhouse.org/2026/10/05/the-mark-twain-house-museum-to-host-creative-writing-in-the-age-of-ai-symposium-november-7/",
+   "city": "Hartford (Mark Twain House)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "The Mark Twain House & Museum",
+   "note": "Symposium on creative writing and AI.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "dates": "7 Nov 2026",
+   "name": "PAWNY Fall Workshop: Ethical Integration of AI into Mental Health Practice",
+   "url": "https://www.pawny.org/event-20261107.asp",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Psychological Association of Western New York",
+   "note": "CE workshop; register by 4 Nov.",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "dates": "7–8 Nov 2026",
+   "name": "AIMA London – AI Movie Awards",
+   "url": "https://www.aimovieawards.org/",
+   "city": "London (IET London)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AIMA with James Drake Media",
+   "note": "International AI film festival: industry day 7 Nov, awards gala 8 Nov.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-08",
+   "end": "2026-11-12",
+   "dates": "8–12 Nov 2026",
+   "name": "ISMIR 2026",
+   "url": "https://ismir2026.ismir.net/",
+   "city": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "International Society for Music Information Retrieval",
+   "note": "27th ISMIR conference on music AI and retrieval.",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "dates": "9 Nov 2026",
+   "name": "AI in Action: Practical Applications for Nonprofits",
+   "url": "https://www.forvismazars.us/events/2026/11/ai-in-action-practical-applications-for-nonprofits",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Forvis Mazars US",
+   "note": "Webinar, 1–2 pm ET; 1 CPE.",
+   "project": "44",
+   "project_name": "AI Social Impact",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "dates": "9 Nov 2026",
+   "name": "Machine Learning: Intro to AI for kids (series starts)",
+   "url": "https://extension.umaine.edu/event/machine-learning-intro-to-ai-afternoon/",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "UMaine Extension",
+   "note": "Free afternoon sessions introducing machine learning to young learners.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "dates": "9 Nov 2026",
+   "name": "WAT 2026 – 13th Workshop on Asian Translation",
+   "url": "https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/index.html",
+   "city": "Hengqin, China (AACL-IJCNLP 2026)",
+   "country": "China",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "WAT",
+   "note": "Machine translation for Asian languages.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-10",
+   "dates": "9–10 Nov 2026",
+   "name": "Agri AI Summit 2026",
+   "url": "https://www.agri-ai-summit.com/",
+   "city": "Anaheim, California",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Agri AI Summit",
+   "note": "3rd annual summit on AI, automation, data and drones in farming.",
+   "project": "02",
+   "project_name": "AI Agriculture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-10",
+   "dates": "9–10 Nov 2026",
+   "name": "AUVSI Defense 2026",
+   "url": "https://www.auvsipathfinder.org/events/2026-auvsi-defense",
+   "city": "Washington DC",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AUVSI",
+   "note": "Securing the edge and scaling autonomy for defence uncrewed systems.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-11",
+   "dates": "9–11 Nov 2026",
+   "name": "AI Leaders Summit",
+   "url": "https://conferences.denison.edu/ai-summit/",
+   "city": "Granville, Ohio (Denison University)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Denison University",
+   "note": "Higher-education leaders on AI strategy.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-11",
+   "dates": "9–11 Nov 2026",
+   "name": "DataSecAI 2026",
+   "url": "https://www.datasecai.io/",
+   "city": "Dallas",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "DataSecAI",
+   "note": "The largest gathering of AI-security leaders.",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-11",
+   "dates": "9–11 Nov 2026",
+   "name": "Glossy Beauty x Wellness Summit",
+   "url": "https://www.glossy.co/events/glossy-beauty-wellness-summit-nov-2026/",
+   "city": "Westlake Village, California",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Glossy",
+   "note": "Beauty leaders on new opportunities from technologies including AI.",
+   "project": "26",
+   "project_name": "AI Fashion & Beauty",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-11",
+   "dates": "9–11 Nov 2026",
+   "name": "Qiskit Fall Fest 2026 at IEM",
+   "url": "https://qff-26-iem.vercel.app/",
+   "city": "Kolkata (IEM) – day 1 in person, days 2–3 virtual",
+   "country": "India",
+   "region": "India",
+   "format": "hybrid",
+   "organiser": "IEM Kolkata",
+   "note": "Quantum computing fest with six tracks.",
+   "project": "35",
+   "project_name": "AI Quantum Computing",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "dates": "9–12 Nov 2026",
+   "name": "CoRL 2026 – Conference on Robot Learning",
+   "url": "https://2026.corl.org/",
+   "city": "Austin, Texas",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "CoRL",
+   "note": "Main conference 9–11 Nov; workshops 12 Nov.",
+   "project": "11",
+   "project_name": "AI Robotics",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "dates": "9–12 Nov 2026",
+   "name": "KubeCon + CloudNativeCon North America",
+   "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+   "city": "Salt Lake City (Salt Palace)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "CNCF / Linux Foundation",
+   "note": "Cloud-native and AI infrastructure.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "dates": "9–12 Nov 2026",
+   "name": "Web Summit 2026",
+   "url": "https://websummit.com/web-summit-2026/",
+   "city": "Lisbon (MEO Arena)",
+   "country": "Portugal",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Web Summit",
+   "note": "Global tech conference with humanoids, agents and embodied AI.",
+   "project": "50",
+   "project_name": "AI Future Frontiers",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "dates": "9–12 Nov 2026",
+   "name": "Web Summit 2026 – Marketing Summit",
+   "url": "https://websummit.com/tracks/marketing-summit",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Web Summit",
+   "note": "AI, search and culture rewriting how brands get found.",
+   "project": "28",
+   "project_name": "AI Marketing & Advertising",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "dates": "9–12 Nov 2026",
+   "name": "Web Summit 2026 – Sport Summit",
+   "url": "https://websummit.com/tracks/sport-summit",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Web Summit",
+   "note": "Track themes include 'AI changes the game'.",
+   "project": "20",
+   "project_name": "AI Sports & Fitness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "dates": "9–13 Nov 2026",
+   "name": "AI Safety Week 2026",
+   "url": "https://safetyweek.ai/",
+   "city": "Toronto",
+   "country": "Canada",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AI Safety Week (with the Hinton Lectures)",
+   "note": "Evidence, oversight and cooperation in AI governance.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "dates": "9–13 Nov 2026",
+   "name": "AIIDE 2026 (with EXAG workshop 9–10 Nov)",
+   "url": "https://sites.google.com/view/aiide2026/home",
+   "city": "Belo Horizonte, Brazil (UFMG)",
+   "country": "Brazil",
+   "region": "Latin America",
+   "format": "in-person",
+   "organiser": "AAAI",
+   "note": "22nd AAAI Conference on AI and Interactive Digital Entertainment.",
+   "project": "29",
+   "project_name": "AI Gaming & Immersive Worlds",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "dates": "9–13 Nov 2026",
+   "name": "GAI-HyperI 2026 – Generative AI and Hyper Intelligence",
+   "url": "https://gai-hyperi.github.io/2026/GAI-Hyper-2026.html",
+   "city": "Melbourne (with IEEE CyberSciTech)",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "GAI-HyperI symposium",
+   "note": "Theme: Beyond Generation.",
+   "project": "48",
+   "project_name": "AI AGI & ASI",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "dates": "10 Nov 2026",
+   "name": "Energy & Data Centres 2026",
+   "url": "https://edkraft.ca/conferences/energy-data-centres-2026",
+   "city": "Toronto (Hilton Toronto Airport)",
+   "country": "Canada",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "EDKraft",
+   "note": "Grid capacity, transmission and AI infrastructure.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "dates": "10 Nov 2026",
+   "name": "Heads up: AI wearables enter the workplace (Web Summit session)",
+   "url": "https://websummit.com/sessions/lis26/100c941c-4996-410b-b438-61e7415ba706/heads-up-ai-wearables-enter-the-workplace/",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Web Summit",
+   "note": "AI Summit stage session on AI wearables and smart glasses at work.",
+   "project": "41",
+   "project_name": "AI Consumer Devices & Wearables",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "dates": "10 Nov 2026",
+   "name": "OI26: Human Flourishing in an Age of AI",
+   "url": "https://www.organizedintelligence.ai/p/oi26-conference",
+   "city": "Salt Lake City (Utah State Capitol)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Organized Intelligence",
+   "note": "What technological progress should ultimately serve.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "dates": "10 Nov 2026",
+   "name": "Tel Aviv AI Film Festival",
+   "url": "https://tlvaiff.com/en",
+   "city": "Tel Aviv (Cinematheque)",
+   "country": "Israel",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "Tel Aviv AI Film Festival (AI Week Tel Aviv)",
+   "note": "First edition: screenings, a competition and an Israel × India panel.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "dates": "10–11 Nov 2026",
+   "name": "AI and Games Conference 2026",
+   "url": "https://www.aiandgamesconference.com/",
+   "city": "London (Here East)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AI and Games",
+   "note": "3rd edition of Europe's game-AI conference.",
+   "project": "29",
+   "project_name": "AI Gaming & Immersive Worlds",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "dates": "10–11 Nov 2026",
+   "name": "ELRIG Protein Sciences in Drug Discovery 2026",
+   "url": "https://elrig.org/portfolio/protein-sciences-in-drug-discovery-2026/",
+   "city": "Stevenage (GSK)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "ELRIG",
+   "note": "Free; strong focus on AI and data driving drug discovery.",
+   "project": "32",
+   "project_name": "AI Biotechnology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "dates": "10–11 Nov 2026",
+   "name": "MIGS 2026",
+   "url": "https://migs.biz/en/migs26-sessions/",
+   "city": "Montreal",
+   "country": "Canada",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "MIGS",
+   "note": "Games industry summit, incl. 'Making Games with AI in the Room'.",
+   "project": "29",
+   "project_name": "AI Gaming & Immersive Worlds",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "dates": "10–12 Nov 2026",
+   "name": "AI Engineer Code Summit 2026",
+   "url": "https://www.ai.engineer/code/2026",
+   "city": "San Francisco",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AI Engineer",
+   "note": "Coding-agent builders and AI engineers.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "dates": "10–12 Nov 2026",
+   "name": "Digital Marketing Europe 2026",
+   "url": "https://digitalmarketingcon.eu/",
+   "city": "Vilnius",
+   "country": "Lithuania",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Digital Marketing Europe",
+   "note": "Workshops 10 Nov; conference 11–12 Nov on AI and digital marketing.",
+   "project": "28",
+   "project_name": "AI Marketing & Advertising",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "dates": "10–12 Nov 2026",
+   "name": "RisksGenAI 2026 – Risks and Unintended Harms of Generative AI",
+   "url": "https://risks-genai.github.io/2026/",
+   "city": "Bari (with ITADATA 2026)",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "RisksGenAI workshop",
+   "note": "Workshop on generative-AI harms.",
+   "project": "45",
+   "project_name": "AI Ethics & Safety",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-12",
+   "dates": "10–12 Nov 2026",
+   "name": "WE3 Global AI Summit 2026",
+   "url": "https://we3aisummit.com/",
+   "city": "Las Vegas (Durango Casino & Resort)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "WE3",
+   "note": "Vertical AI for energy and water utilities.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-10",
+   "end": "2026-11-13",
+   "dates": "10–13 Nov 2026",
+   "name": "SEMICON Europa 2026",
+   "url": "https://www.semi.org/en/semi-press-release/registration-opens-for-semicon-europa-2026-as-industry-leaders-gather-to-navigate-europes-semiconductor-future",
+   "city": "Munich (with electronica)",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "SEMI",
+   "note": "Theme: Building the Silicon Backbone of Europe's AI Leadership.",
+   "project": "36",
+   "project_name": "AI Semiconductors",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "dates": "11 Nov 2026",
+   "name": "AI Creative Summit 2026",
+   "url": "https://www.aicreativesummit.co.uk/",
+   "city": "London (BFI Southbank)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AI Creative Summit",
+   "note": "A festival of ideas on AI across media and creative work.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "dates": "11 Nov 2026",
+   "name": "Integrating AI into Virtual Reality for Mental Health Care",
+   "url": "https://thetechhub.stanford.edu/events/hubinars/integrating-ai-virtual-reality-mental-health-care",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Stanford Mental Health Technology & Innovation Hub",
+   "note": "Hubinar panel, 12–1 pm PT.",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "dates": "11–12 Nov 2026",
+   "name": "28th BioPharma Drug Discovery Nexus (West)",
+   "url": "https://nexus-conference.com/ddnwest/",
+   "city": "San Diego (Crowne Plaza Mission Valley)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Nexus Conferences",
+   "note": "Includes a bioinformatics and AI/ML track.",
+   "project": "32",
+   "project_name": "AI Biotechnology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "dates": "11–12 Nov 2026",
+   "name": "Legal AI New York 2026",
+   "url": "https://www.insidepractice.com/legal-ai-new-york",
+   "city": "New York",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Inside Practice",
+   "note": "AI-native firms, agentic AI governance and scaling legal ops.",
+   "project": "06",
+   "project_name": "AI Law & Investigation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "dates": "11–13 Nov 2026",
+   "name": "26GHR – 4th Global HR Conference",
+   "url": "https://www.ghrjapan.org/en/26ghr",
+   "city": "Tokyo",
+   "country": "Japan",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "GHR Japan",
+   "note": "Theme: Human × AI – global HR as a catalyst.",
+   "project": "19",
+   "project_name": "AI Work & Employment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "dates": "11–13 Nov 2026",
+   "name": "Translating Europe Forum 2026",
+   "url": "https://translation.ec.europa.eu/news-and-events/events/2026-translating-europe-forum-2026-11-11_en",
+   "city": "Brussels",
+   "country": "Belgium",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "European Commission (DG Translation)",
+   "note": "Multilingualism, translation and language-based AI services.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "dates": "12 Nov 2026",
+   "name": "AI, Climate, and Society Symposium",
+   "url": "https://ai.ldeo.columbia.edu/events/ai-climate-and-society-symposium-intelligence-earth-and-our-shared-future",
+   "city": "New York (Columbia, LDEO)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Lamont-Doherty Earth Observatory",
+   "note": "Intelligence, Earth and our shared future.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "dates": "12 Nov 2026",
+   "name": "Bharat Privacy Conference 2026",
+   "url": "https://bharatprivacy.org/",
+   "city": "New Delhi (Manekshaw Centre)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Bharat Privacy",
+   "note": "India's privacy, security and AI leaders.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "dates": "12 Nov 2026",
+   "name": "DETAIL Digital Congress 2026",
+   "url": "https://www.detail.de/en/digital-congress-2026",
+   "city": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "DETAIL",
+   "note": "'Artificial intelligence & co.: a revolution for the construction industry?'",
+   "project": "09",
+   "project_name": "AI Architecture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "dates": "12 Nov 2026",
+   "name": "Future of Autonomous Mobility Virtual Summit (EMEA)",
+   "url": "https://groupfuturistaevent.com/FOAM2026/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Group Futurista",
+   "note": "AI, computer vision and vehicle automation for fleets, ports and logistics.",
+   "project": "13",
+   "project_name": "AI Transportation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "dates": "12–13 Nov 2026",
+   "name": "ESC Digital & AI Summit 2026",
+   "url": "https://www.escardio.org/events/congresses/digital-ai-summit/",
+   "city": "Basel",
+   "country": "Switzerland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "European Society of Cardiology",
+   "note": "ESC's dedicated meeting for building and validating AI in cardiovascular care.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "dates": "12–13 Nov 2026",
+   "name": "Purdue Grid of Tomorrow Consortium Event",
+   "url": "https://engineering.purdue.edu/GridOfTomorrow/events/grid-of-tomorrow-consortium-event-2026-11-12",
+   "city": "Carmel, Indiana",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Purdue University Grid of Tomorrow",
+   "note": "Consortium meeting on grid modernisation, with MISO and AES Indiana.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "dates": "12–13 Nov 2026",
+   "name": "Re-storying India: Metamorphoses in 21st-Century Storytelling",
+   "url": "https://www.tezu.ernet.in/deng/pdf/CFP%20Re-storying%20India.pdf",
+   "city": "Tezpur (Tezpur University)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Dept of English, Tezpur University",
+   "note": "Epics, folklore, mythic palimpsests and AI/cyborg identities.",
+   "project": "22",
+   "project_name": "AI Mythology",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "dates": "12–13 Nov 2026",
+   "name": "SGLang Summit 2026",
+   "url": "https://www.sglang.io/summit",
+   "city": "San Francisco (Fort Mason)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "SGLang",
+   "note": "Open models and serving.",
+   "project": "37",
+   "project_name": "AI Foundation Models & Assistants",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-14",
+   "dates": "12–14 Nov 2026",
+   "name": "6th Applied Active Inference Symposium",
+   "url": "https://activeinference.institute/projects/symposium/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Active Inference Institute",
+   "note": "Free; computational neuroscience, AI and robotics.",
+   "project": "33",
+   "project_name": "AI Neuroscience",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-14",
+   "dates": "12–14 Nov 2026",
+   "name": "Fundamentals of AI for Social-Sector Professionals",
+   "url": "https://cimindia.in/courses/ai-fundamentals-nov-2026/",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "CIM India",
+   "note": "Live evening sessions; ₹590 for NPOs.",
+   "project": "44",
+   "project_name": "AI Social Impact",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "dates": "12–15 Nov 2026",
+   "name": "Religion in the Digital Age: AI Ethics and Eco-Theology",
+   "url": "https://fuo-nmi.fuo.edu.ng/",
+   "city": "Osogbo, Nigeria (Fountain University) and hybrid",
+   "country": "Nigeria",
+   "region": "Africa",
+   "format": "hybrid",
+   "organiser": "NASFAT & Fountain University",
+   "note": "International conference on AI ethics and eco-theology.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-12",
+   "end": "2026-11-18",
+   "dates": "12–18 Nov 2026",
+   "name": "HUMAN 2026",
+   "url": "https://www.mentessa.com/human/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Mentessa",
+   "note": "Free one-week global conference on AI for HR.",
+   "project": "19",
+   "project_name": "AI Work & Employment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "dates": "13 Nov 2026",
+   "name": "Artificial Intelligence, Subjectivity, and Silence – Murray Shanahan",
+   "url": "https://www.gsais.kyoto-u.ac.jp/en/news/news-en/2026/10/02/20261113event-e/",
+   "city": "Kyoto (Kyoto University)",
+   "country": "Japan",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Kyoto University GSAIS",
+   "note": "Guest lecture by Google DeepMind's Murray Shanahan.",
+   "project": "49",
+   "project_name": "AI Consciousness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "dates": "13 Nov 2026",
+   "name": "On-Device AI Hackathon: Cleared for Takeoff",
+   "url": "https://luma.com/0nsdnkoa",
+   "city": "San Francisco",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Qualcomm × Liquid AI",
+   "note": "Build projects that run entirely on-device.",
+   "project": "41",
+   "project_name": "AI Consumer Devices & Wearables",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-13",
+   "end": "2026-11-14",
+   "dates": "13–14 Nov 2026",
+   "name": "SIAI 2026 – Social Impact of AI",
+   "url": "https://www.siai.co/",
+   "city": "Boston (Wentworth Institute) and online",
+   "country": "United States",
+   "region": "North America",
+   "format": "hybrid",
+   "organiser": "SIAI",
+   "note": "AI for the many: equity, agency and the public good.",
+   "project": "44",
+   "project_name": "AI Social Impact",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-13",
+   "end": "2026-11-14",
+   "dates": "13–14 Nov 2026",
+   "name": "The Art and Science of Creative AI",
+   "url": "https://www.creativeai.org.uk/",
+   "city": "London (UCL East)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "University College London",
+   "note": "Interdisciplinary symposium on creative AI.",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "dates": "14 Nov 2026",
+   "name": "603 Writers' Conference",
+   "url": "https://nhwritersproject.org/2026-603-writers-conference/",
+   "city": "Concord, NH (Grappone Conference Center)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "New Hampshire Writers' Project",
+   "note": "Includes 'AI in the Literary World' panel.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "dates": "14 Nov 2026",
+   "name": "Women in AI & Energy Transition Dialogue (COP31)",
+   "url": "https://www.womeninrenewables.org/cop31",
+   "city": "Antalya (Akra)",
+   "country": "Türkiye",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Women in Renewables Alliance",
+   "note": "COP31 side dialogue on AI and the energy transition.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "dates": "14–15 Nov 2026",
+   "name": "CAHOTECH 2026",
+   "url": "https://cahotech.com/",
+   "city": "Visakhapatnam (AMTZ Campus)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "CAHO",
+   "note": "Healthcare technology conclave: digital health, AI, automation and robotics.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-14",
+   "end": "2026-11-17",
+   "dates": "14–17 Nov 2026",
+   "name": "ACM ICAIF 2026 – AI in Finance",
+   "url": "https://icaif2026.org/",
+   "city": "Milan",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "ACM",
+   "note": "International Conference on AI in Finance.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-15",
+   "end": "2026-11-17",
+   "dates": "15–17 Nov 2026",
+   "name": "Newsroom Summit Study Tour 2026",
+   "url": "https://wan-ifra.org/events/newsroom-summit-study-tour-2026/",
+   "city": "Oslo",
+   "country": "Norway",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "WAN-IFRA",
+   "note": "Visits to leading Norwegian newsrooms before the summit.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-15",
+   "end": "2026-11-18",
+   "dates": "15–18 Nov 2026",
+   "name": "AgeTech Collaborative from AARP at HLTH USA",
+   "url": "https://hlth.com/events/usa/agenda/agetech-collaborative-from-aarp/",
+   "city": "Las Vegas",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AARP AgeTech Collaborative",
+   "note": "AgeTech start-ups meet buyers and partners at HLTH.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-15",
+   "end": "2026-11-18",
+   "dates": "15–18 Nov 2026",
+   "name": "HLTH USA 2026",
+   "url": "https://hlth.com/events/usa/",
+   "city": "Las Vegas (Venetian Expo)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "HLTH",
+   "note": "Health-innovation event themed 'The Age of Intelligent Healthcare'.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-15",
+   "end": "2026-11-20",
+   "dates": "15–20 Nov 2026",
+   "name": "Dagstuhl Seminar 26471: Generative AI in Cardiology",
+   "url": "https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26471",
+   "city": "Schloss Dagstuhl, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Schloss Dagstuhl – Leibniz Center for Informatics",
+   "note": "ML researchers and cardiologists chart a roadmap for generative AI in cardiology.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "dates": "16 Nov 2026",
+   "name": "AI in Retail 2026",
+   "url": "https://aiinretail.co.uk/agenda/",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AI in Retail",
+   "note": "Retail AI conference.",
+   "project": "07",
+   "project_name": "AI Commerce",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "dates": "16 Nov 2026",
+   "name": "Alzheimer's Insights Summit 4: From AI to Impact",
+   "url": "https://www.dementiaresearcher.nihr.ac.uk/event/alzheimers-insights-summit-4/",
+   "city": "Boston (Sheraton Boston, opening day of CTAD)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Alzheimer's Disease Data Initiative & ADDF",
+   "note": "Free half-day summit on AI in Alzheimer's discovery, trials and care.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "dates": "16 Nov 2026",
+   "name": "Hour of AI: new activities launch",
+   "url": "https://code.org/en-US/hour-of-ai",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Code.org",
+   "note": "New Hour of AI activities for every grade, with free webinars and a toolkit.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-17",
+   "dates": "16–17 Nov 2026",
+   "name": "AI, Ethics and Faith after Magnifica Humanitas",
+   "url": "https://cdt-art-ai.ac.uk/news/events/ai-ethics-and-faith-after-magnifica-humanitas/",
+   "city": "London (Lambeth Palace)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "ART-AI (University of Bath CDT)",
+   "note": "Christian, Islamic and other faith perspectives on AI ethics.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-17",
+   "dates": "16–17 Nov 2026",
+   "name": "Autonomous Vehicles & AI Europe 2026",
+   "url": "https://europe.autonomous-vehicles-conference.com/",
+   "city": "Frankfurt",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Autonomous Vehicles & AI Europe",
+   "note": "5th annual conference on AVs and AI.",
+   "project": "13",
+   "project_name": "AI Transportation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-17",
+   "dates": "16–17 Nov 2026",
+   "name": "Machine Learning in Drug Discovery Symposium",
+   "url": "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/agenda-2026",
+   "city": "Cambridge, MA (Broad Institute)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Broad Institute of MIT and Harvard",
+   "note": "Annual ML for drug-discovery symposium.",
+   "project": "32",
+   "project_name": "AI Biotechnology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-17",
+   "dates": "16–17 Nov 2026",
+   "name": "WT | Wearable Technologies Conference 2026 Europe",
+   "url": "https://wearable-technologies.com/events/wt-wearable-technologies-conference-2026-europe",
+   "city": "Düsseldorf (at MEDICA)",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "WT | Wearable Technologies",
+   "note": "Wearables conference including generative-AI innovation workshop.",
+   "project": "41",
+   "project_name": "AI Consumer Devices & Wearables",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-18",
+   "dates": "16–18 Nov 2026",
+   "name": "AI for Education Conference (AIFE 2026)",
+   "url": "https://www.ntu.edu.sg/nie/news-events/events/detail/2026/11/16/default-calendar/ai-for-education-conference-2026",
+   "city": "Singapore (NIE, NTU)",
+   "country": "Singapore",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "National Institute of Education, NTU",
+   "note": "Pedagogical, inclusive and ethical uses of AI in education.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-19",
+   "dates": "16–19 Nov 2026",
+   "name": "Cityscape Global 2026 – PropTech Innovators",
+   "url": "https://cityscapeglobal.com/sector/proptech-innovators",
+   "city": "Riyadh (Exhibition & Convention Centre, Malham)",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "Cityscape Global",
+   "note": "Digital twins and AI-powered asset management.",
+   "project": "46",
+   "project_name": "AI Smart Cities & Real Estate",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-19",
+   "dates": "16–19 Nov 2026",
+   "name": "IAPP Europe Data Protection Congress 2026",
+   "url": "https://iapp.org/conference/iapp-europe-congress",
+   "city": "Brussels",
+   "country": "Belgium",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "IAPP",
+   "note": "Privacy, AI governance and cyber law; conference 18–19 Nov.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-16",
+   "end": "2026-11-21",
+   "dates": "16–21 Nov 2026",
+   "name": "AICTE-ATAL FDP on Responsible AI Governance for LLMs",
+   "url": "https://mgit.ac.in/events/aicte-atal-fdp-on-responsible-ai-governance-for-large-language-models-16-21-nov-2026/",
+   "city": "Hyderabad (MGIT)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Mahatma Gandhi Institute of Technology",
+   "note": "Free six-day offline faculty programme, 50 seats.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "dates": "17 Nov 2026",
+   "name": "Age-Friendly AI Assembly",
+   "url": "https://agefriendlyai.ie/event/age-friendly-ai-assembly/",
+   "city": "Galway (Salthill Hotel)",
+   "country": "Ireland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Age-Friendly AI",
+   "note": "Assembly on AI that supports ageing well.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "dates": "17 Nov 2026",
+   "name": "AI Companions: Harmless Chatbot or Your Students' New Best Friend?",
+   "url": "https://sharemylesson.com/webinars/ai-companions-harmless-chatbot-or-students-best-friend",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Share My Lesson with Common Sense Education",
+   "note": "Free webinar, 6–7 pm EST.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "dates": "17 Nov 2026",
+   "name": "AI in Senior Living: Real Progress, Real Pitfalls, Real-Time Demos",
+   "url": "https://www.leadingagesoutheast.org/m/event_details.asp?id=2041517",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "LeadingAge Southeast",
+   "note": "1-hour CE webinar with a live ChatGPT demo; register by 12 Nov.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "dates": "17 Nov 2026",
+   "name": "Founders First",
+   "url": "https://www.bcvp.com/founders-first",
+   "city": "Durham, NC (The Carolina Theatre)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Bull City Venture Partners",
+   "note": "Founder case studies on building AI-native companies.",
+   "project": "47",
+   "project_name": "AI Startups & Investment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "dates": "17 Nov 2026",
+   "name": "Using AI to Listen, Learn, and Act on Community Feedback",
+   "url": "https://ssir.org/webinars/entry/ai-community-feedback",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Stanford Social Innovation Review",
+   "note": "Webinar, 1–2:30 pm ET.",
+   "project": "44",
+   "project_name": "AI Social Impact",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "dates": "17–18 Nov 2026",
+   "name": "CAID 2026 – Conference on AI for Defence",
+   "url": "https://caid-conference.eu/en/",
+   "city": "Rennes (Couvent des Jacobins)",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AMIAD (French defence AI agency)",
+   "note": "8th edition, held during European Cyber Week.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "dates": "17–18 Nov 2026",
+   "name": "Digital Agriculture: Precision Application conference",
+   "url": "https://www.akademie-fresenius.com/events/detail/3rd-international-conference-digital-agriculture-regulatory-and-scientific-aspects-of-precision-application-189973",
+   "city": "Cologne and live stream",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "hybrid",
+   "organiser": "Akademie Fresenius",
+   "note": "3rd international conference on regulatory and scientific aspects of precision application.",
+   "project": "02",
+   "project_name": "AI Agriculture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "dates": "17–18 Nov 2026",
+   "name": "Digital Travel Europe 2026",
+   "url": "https://digitaltraveleu.wbresearch.com/",
+   "city": "London (The Hurlingham Club)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "WBR Insights",
+   "note": "Travel brands optimising the customer journey in an AI-driven world.",
+   "project": "27",
+   "project_name": "AI Travel & Hospitality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "dates": "17–19 Nov 2026",
+   "name": "AI Interiors Forum at interihotel MAD26",
+   "url": "https://interihotel.com/en/forums/ai-interiors-forum-en",
+   "city": "Madrid (IFEMA)",
+   "country": "Spain",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "interihotel",
+   "note": "AI in everyday practice at architecture and interior-design studios.",
+   "project": "09",
+   "project_name": "AI Architecture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "dates": "17–19 Nov 2026",
+   "name": "Bengaluru Tech Summit 2026 – AI & Beyond",
+   "url": "https://www.bengalurutechsummit.com/",
+   "city": "Bengaluru",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Bengaluru Tech Summit",
+   "note": "Asia's largest integrated technology event.",
+   "project": "50",
+   "project_name": "AI Future Frontiers",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "dates": "17–19 Nov 2026",
+   "name": "Language Intelligence 2026",
+   "url": "https://www.language-intelligence.com/",
+   "city": "Vienna",
+   "country": "Austria",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Language Intelligence",
+   "note": "Building trustworthy, multilingual, AI-enabled organisations.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "dates": "17–19 Nov 2026",
+   "name": "MilCIS 2026",
+   "url": "https://www.milcis.com.au/",
+   "city": "Canberra",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "MilCIS",
+   "note": "Military communications & information systems; agenda includes governing AI agents on defence networks.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "dates": "17–19 Nov 2026",
+   "name": "The Phocuswright Conference 2026",
+   "url": "https://www.phocuswrightconference.com/",
+   "city": "Fort Lauderdale, Florida",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Phocuswright",
+   "note": "Travel's power players converge; price rises after 30 Oct.",
+   "project": "27",
+   "project_name": "AI Travel & Hospitality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "dates": "17–19 Nov 2026",
+   "name": "TM Forum Innovate Asia",
+   "url": "https://www.tmforum.org/events/innovate-asia/whats-on/agenda",
+   "city": "Bangkok",
+   "country": "Thailand",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "TM Forum",
+   "note": "AI-ready, composable IT and autonomous networks.",
+   "project": "40",
+   "project_name": "AI Telecom & Connectivity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-20",
+   "dates": "17–20 Nov 2026",
+   "name": "Formnext 2026",
+   "url": "https://formnext.mesago.com/frankfurt/en.html",
+   "city": "Frankfurt",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Mesago Messe Frankfurt",
+   "note": "Additive manufacturing fair, including AI CAD tools.",
+   "project": "14",
+   "project_name": "AI Manufacturing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-17",
+   "end": "2026-11-22",
+   "dates": "17–22 Nov 2026",
+   "name": "Entertainment Week Africa 2026 – Fashion and AI tracks",
+   "url": "https://ewafrica.com/tracks/",
+   "city": "Lagos",
+   "country": "Nigeria",
+   "region": "Africa",
+   "format": "in-person",
+   "organiser": "Entertainment Week Africa",
+   "note": "Seven industry tracks including fashion & beauty and AI & tech.",
+   "project": "26",
+   "project_name": "AI Fashion & Beauty",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "AI for Senior Living: Practical Tools, Compliance and Competitive Advantage",
+   "url": "https://learning.leadingageohio.org/products/ai-for-senior-living-practical-tools-compliance-and-competitive-advantage",
+   "city": "Westerville, Ohio (Quest Conference Center)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "LeadingAge Ohio",
+   "note": "One-day in-person event on AI in senior-living operations.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "BMVA Symposium on World Models",
+   "url": "https://www.bmva.org/meetings/26-11-18-WorldModels.html",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "British Machine Vision Association",
+   "note": "One-day technical meeting on world models.",
+   "project": "50",
+   "project_name": "AI Future Frontiers",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "CX Futures 2026 – The Age of the AI-Native Customer",
+   "url": "https://events.guildlive.com/event/cx-futures/summary",
+   "city": "Mumbai",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Guild Live",
+   "note": "CX leaders debate where AI should stop and humans take over.",
+   "project": "07",
+   "project_name": "AI Commerce",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "Feeling AI 4 Beauty 2026",
+   "url": "https://www.asebio.com/actualidad/agenda/feeling-ai-4-beauty-2026",
+   "city": "Barcelona",
+   "country": "Spain",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AseBio (listing) / Feeling AI 4 Beauty",
+   "note": "AI across cosmetics and beauty.",
+   "project": "26",
+   "project_name": "AI Fashion & Beauty",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "Learn to Use AI as a Tool for Your Writing",
+   "url": "https://capecodwriterscenter.org/event-6765940",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Cape Cod Writers Center",
+   "note": "Novelist Aileen Marshall on where AI belongs in your process.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "Legal 500 AI Summit",
+   "url": "https://ai-summit.events.legal500.com/",
+   "city": "London (The Minster Building)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Legal 500",
+   "note": "AI in legal practice.",
+   "project": "06",
+   "project_name": "AI Law & Investigation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "On-Device Agents",
+   "url": "https://aisocratic.org/events/on-device-agents",
+   "city": "San Francisco",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AI Socratic",
+   "note": "Frontier Stack event on AI agents running on devices.",
+   "project": "41",
+   "project_name": "AI Consumer Devices & Wearables",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "RICS India Built Environment Summit",
+   "url": "https://www.rics.org/training-events/conferences/rics-india-built-environment-summit",
+   "city": "Mumbai (Taj Santacruz)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "RICS",
+   "note": "Built-environment summit with structured CPD.",
+   "project": "46",
+   "project_name": "AI Smart Cities & Real Estate",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "dates": "18 Nov 2026",
+   "name": "RISE Legal India 2026",
+   "url": "https://www.rsgi.co/rise-legal-india-2026",
+   "city": "Mumbai (St Regis)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "RSG India",
+   "note": "Includes AI-powered lawyers sessions and AI training workshops.",
+   "project": "06",
+   "project_name": "AI Law & Investigation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "dates": "18–19 Nov 2026",
+   "name": "AFAF 2026 – Africa Football Analytics Forum",
+   "url": "https://afaf.soccerlytica.com/",
+   "city": "Accra and hybrid",
+   "country": "Ghana",
+   "region": "Africa",
+   "format": "hybrid",
+   "organiser": "Soccerlytica",
+   "note": "The future of African football intelligence: AI, analytics, scouting.",
+   "project": "20",
+   "project_name": "AI Sports & Fitness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "dates": "18–19 Nov 2026",
+   "name": "AI in CRE Thought Leadership Summit",
+   "url": "https://www.naiop.org/events-and-sponsorship/corporate-events-list/conferences/2026-thought-leadership-summit",
+   "city": "Cambridge, Massachusetts",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "NAIOP",
+   "note": "AI in commercial real estate.",
+   "project": "46",
+   "project_name": "AI Smart Cities & Real Estate",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "dates": "18–19 Nov 2026",
+   "name": "Autonomous Vehicles – Challenges and Opportunities (4th conference)",
+   "url": "https://pimot.lukasiewicz.gov.pl/en/4th-scientific-and-technical-conference-2/",
+   "city": "Józefów, near Warsaw",
+   "country": "Poland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Łukasiewicz – PIMOT",
+   "note": "For the economy and national defence.",
+   "project": "13",
+   "project_name": "AI Transportation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "dates": "18–19 Nov 2026",
+   "name": "Newsroom Summit 2026",
+   "url": "https://wan-ifra.org/events/newsroom-summit-2026/",
+   "city": "Oslo",
+   "country": "Norway",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "WAN-IFRA",
+   "note": "Newsroom leaders on AI adoption and newsroom culture.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "dates": "18–19 Nov 2026",
+   "name": "Slush 2026",
+   "url": "https://slush.org/",
+   "city": "Helsinki",
+   "country": "Finland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Slush",
+   "note": "Founder-and-investor gathering; AI among 50+ sectors.",
+   "project": "47",
+   "project_name": "AI Startups & Investment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-19",
+   "dates": "18–19 Nov 2026",
+   "name": "Syndigo Europe Connect 2026",
+   "url": "https://syndigo.com/events/europe-connect-2026/",
+   "city": "Zandvoort, near Amsterdam",
+   "country": "Netherlands",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Syndigo",
+   "note": "Product data, AI and agentic commerce.",
+   "project": "07",
+   "project_name": "AI Commerce",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "dates": "18–20 Nov 2026",
+   "name": "AEC.AI Summit 2026",
+   "url": "https://aecaisummit.org/",
+   "city": "Austin, Texas (JW Marriott)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AEC.AI",
+   "note": "Hands-on, practical AI for architecture, engineering and construction.",
+   "project": "09",
+   "project_name": "AI Architecture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "dates": "18–20 Nov 2026",
+   "name": "SIGraDi 2026",
+   "url": "https://sigradi.org/sigradi2026/",
+   "city": "Santiago, Chile",
+   "country": "Chile",
+   "region": "Latin America",
+   "format": "in-person",
+   "organiser": "SIGraDi",
+   "note": "30th conference on AI and the future of architectural practice and design.",
+   "project": "09",
+   "project_name": "AI Architecture",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "dates": "18–20 Nov 2026",
+   "name": "Singapore FinTech Festival 2026",
+   "url": "https://www.mas.gov.sg/news/media-releases/2026/singapore-fintech-festival-2026-to-explore-the-five-forces-rewiring-global-finance",
+   "city": "Singapore",
+   "country": "Singapore",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Monetary Authority of Singapore",
+   "note": "Five forces rewiring finance, including how AI transforms productivity and growth.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-11-20",
+   "dates": "18–20 Nov 2026",
+   "name": "Smart Technology Expo 2026",
+   "url": "https://smarttechnologyexpo.mx/en/",
+   "city": "Guadalajara (Expo Guadalajara)",
+   "country": "Mexico",
+   "region": "Latin America",
+   "format": "in-person",
+   "organiser": "Smart Technology Expo",
+   "note": "Industry 4.0, including AI and machine learning in automation.",
+   "project": "14",
+   "project_name": "AI Manufacturing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-12-02",
+   "dates": "18 Nov – 2 Dec 2026",
+   "name": "CCAT International 2026",
+   "url": "https://www.ccat.org.au/ccat-international",
+   "city": "Online (2 Dec hybrid, Melbourne)",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "hybrid",
+   "organiser": "Centre for Connected & Automated Transport",
+   "note": "Three online events on 18 Nov, 25 Nov and 2 Dec.",
+   "project": "13",
+   "project_name": "AI Transportation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-18",
+   "end": "2026-12-16",
+   "dates": "18 Nov – 16 Dec 2026",
+   "name": "AI in Adult Social Care – Digital Communities of Practice webinars",
+   "url": "https://www.scie.org.uk/digital-communities-of-practice/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "SCIE (Social Care Institute for Excellence)",
+   "note": "Free monthly webinars on 18 Nov and 16 Dec.",
+   "project": "16",
+   "project_name": "AI Geriatric",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "AI and the Behavioral Health Workforce: A Guide for Providers (Part 2)",
+   "url": "https://www.leaders4health.org/event/ai-and-the-behavioral-health-workforce-a-guide-for-providers/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "College for Behavioral Health Leadership (CBHL)",
+   "note": "Free provider webinar, 2–3:30 pm ET.",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "BSI Trust in AI Conference 2026",
+   "url": "https://pages.bsigroup.com/bsi-ai-conference-2026",
+   "city": "London (The Royal Institution)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "BSI",
+   "note": "AI standards: from innovation to confidence.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "Cloud+Data Centre India 2026",
+   "url": "https://www.bharatexhibitions.com/en/CDCI2026/about.html",
+   "city": "New Delhi (Le Méridien)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Bharat Exhibitions",
+   "note": "12th edition; AI-driven data-centre growth in India.",
+   "project": "39",
+   "project_name": "AI Cloud & Data Centres",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "COMSOL Day: AI for Modeling and Simulation",
+   "url": "https://ws-bos.comsol.com/events/comsol-days/comsol-day-ai-for-modeling-and-simulation-139501",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "COMSOL",
+   "note": "A day on AI for modelling and simulation (10:00 CET).",
+   "project": "10",
+   "project_name": "AI Engineering",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "Elets NBFC100 Tech Summit & Awards 2026",
+   "url": "https://nbfc100.eletsonline.com/",
+   "city": "Mumbai",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Elets Technomedia",
+   "note": "Building an AI-driven future for India's NBFC ecosystem.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "ESIC UAE 2026 – Engineering through Digital & AI",
+   "url": "https://info.fluidcodes.com/esic-uae-2026",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "Fluid Codes",
+   "note": "Engineering Simulation & Innovation Conference.",
+   "project": "10",
+   "project_name": "AI Engineering",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "ESSAI – European Symposium on Security and AI",
+   "url": "https://essai-conference.eu/",
+   "city": "Rennes (European Cyber Week)",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AMIAD and partners",
+   "note": "Third edition of the symposium.",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "Fashion Reboot 2026 – 'The world moves with AI, so does fashion'",
+   "url": "https://www.ifmparis.fr/en/news/fashion-reboot-2026",
+   "city": "Paris (3 Mazarium)",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Institut Français de la Mode (IFM)",
+   "note": "IFM's day on fashion, AI and innovation.",
+   "project": "26",
+   "project_name": "AI Fashion & Beauty",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "dates": "19 Nov 2026",
+   "name": "Intelligence Humanities: Authorship, Auctoritas, and Generative AI",
+   "url": "https://planitpurple.northwestern.edu/event/646222",
+   "city": "Evanston (Northwestern University, Kresge Hall)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Northwestern University",
+   "note": "All-day humanities event on authorship and generative AI.",
+   "project": "24",
+   "project_name": "AI Literature",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-19",
+   "end": "2026-11-20",
+   "dates": "19–20 Nov 2026",
+   "name": "HR Tech Atlas 2026",
+   "url": "https://hrone.cloud/hr-tech-atlas-2026/",
+   "city": "Online (India)",
+   "country": "India",
+   "region": "India",
+   "format": "online",
+   "organiser": "HROne",
+   "note": "Virtual summit on HR technology and AI choices in India.",
+   "project": "19",
+   "project_name": "AI Work & Employment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "dates": "20 Nov 2026",
+   "name": "Elets BFSI AI Summit & Awards 2026",
+   "url": "https://events.eletsonline.com/bfsi-ai-summit/",
+   "city": "Mumbai (Sofitel BKC)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Elets Technomedia",
+   "note": "AI for banks, NBFCs, fintech and payments.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "dates": "20 Nov 2026",
+   "name": "GenAI London 2026",
+   "url": "https://www.genailondon.uk/",
+   "city": "London (QEII Centre)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "GenAI London",
+   "note": "Conference for generative AI leaders and enthusiasts.",
+   "project": "37",
+   "project_name": "AI Foundation Models & Assistants",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "dates": "20 Nov 2026",
+   "name": "NAFEMS ASEAN Conference 2026",
+   "url": "https://www.nafems.org/events/nafems/2026/nafems-asean-conference/",
+   "city": "Singapore (Novotel on Stevens)",
+   "country": "Singapore",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "NAFEMS",
+   "note": "The impact of AI-based techniques on engineering simulation workflows.",
+   "project": "10",
+   "project_name": "AI Engineering",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-20",
+   "end": "2026-11-21",
+   "dates": "20–21 Nov 2026",
+   "name": "Bharat AI Innovation 2026",
+   "url": "https://bharataiinnovation.com/",
+   "city": "Mumbai (World Trade Center)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Bharat AI Innovation",
+   "note": "India's B2B AI conference and GenAI expo.",
+   "project": "50",
+   "project_name": "AI Future Frontiers",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-20",
+   "end": "2026-11-21",
+   "dates": "20–21 Nov 2026",
+   "name": "CBSE National Teachers' Conference 2026: Computational Thinking & Understanding AI",
+   "url": "https://www.cbse.gov.in/cbsenew/documents/07_Circular_Acad_05052026.pdf",
+   "city": "Pune",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "CBSE",
+   "note": "National conference for teachers on CT and AI.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-20",
+   "end": "2026-11-21",
+   "dates": "20–21 Nov 2026",
+   "name": "Global Digital Health Summit 2026 – AI in Action",
+   "url": "https://www.globalsummit.health/gdhs2026",
+   "city": "New Delhi (Bharat Mandapam)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Global Digital Health Summit (GDHS)",
+   "note": "Theme: Implementing Artificial Intelligence – AI in Action.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "dates": "21 Nov 2026",
+   "name": "AI-India 2026 – India's AI Developer Conference",
+   "url": "https://www.ai-india.ai/",
+   "city": "Pune",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "AI-India",
+   "note": "2nd edition; 12 talks, 500+ delegates.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "dates": "21 Nov 2026",
+   "name": "DevNext 2026",
+   "url": "https://techgig.com/devnext",
+   "city": "Hyderabad (The Park)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "TechGig",
+   "note": "Developer conference for tech builders in the AI era.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "dates": "21 Nov 2026",
+   "name": "Hour of Code: Generation AI Workshop",
+   "url": "https://la-nube.org/plan-your-day/calendar/hour-of-code-generation-ai-workshop-2026-11-21",
+   "city": "El Paso, Texas (La Nube)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "La Nube",
+   "note": "Hands-on AI coding workshop for kids and families.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-21",
+   "end": "2026-11-24",
+   "dates": "21–24 Nov 2026",
+   "name": "AAR Annual Meeting – Artificial Intelligence and Religion Unit",
+   "url": "https://papers.aarweb.org/group/15481",
+   "city": "Denver",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "American Academy of Religion",
+   "note": "The AI and Religion programme unit meets at the AAR/SBL Annual Meeting.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-21",
+   "end": "2026-12-05",
+   "dates": "21 Nov – 5 Dec 2026",
+   "name": "DevSparks 2026 – Coimbatore (21 Nov) & Delhi (5 Dec)",
+   "url": "https://devsparks.yourstory.com/",
+   "city": "Coimbatore; Delhi",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "YourStory",
+   "note": "Coding agents, agentic AI and GenAI developer tools.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "dates": "22 Nov 2026",
+   "name": "DevFest Bhopal 2026",
+   "url": "https://devfest.bhopal.dev/",
+   "city": "Bhopal (Minto Hall)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "GDG Cloud Bhopal",
+   "note": "AI, cloud and developer conference.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "dates": "24 Nov 2026",
+   "name": "Accessible AI Workshop for youth",
+   "url": "https://www.cnib.ca/en/event/accessible-ai-workshops-november",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "CNIB",
+   "note": "Accessible AI workshop in CNIB's children and youth programmes.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "dates": "24 Nov 2026",
+   "name": "AI for Earth & Environmental Science Workshop 2026",
+   "url": "https://ecs.wgtn.ac.nz/Events/AIForEarth2026/",
+   "city": "Wellington (Victoria University, Laby Building)",
+   "country": "New Zealand",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Victoria University of Wellington",
+   "note": "One-day AI × Earth workshop.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "dates": "24 Nov 2026",
+   "name": "AI in Critical Infrastructure 2026",
+   "url": "https://aiincriticalinfrastructure.co.uk/",
+   "city": "London (240 Blackfriars Road)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "LTW365",
+   "note": "Senior energy, utilities and digital-infrastructure leaders on operational AI.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "dates": "24 Nov 2026",
+   "name": "AI: Hope, Hesitation or Hype?",
+   "url": "https://www.sussex.ac.uk/broadcast/read/71123",
+   "city": "Brighton (Brighton Dome)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "University of Sussex & Brighton Dome",
+   "note": "Evening of talks and debate on AI's future.",
+   "project": "50",
+   "project_name": "AI Future Frontiers",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "dates": "24 Nov 2026",
+   "name": "Civo Navigate India 2026 – Sovereignty and AI edition",
+   "url": "https://www.civo.com/navigate/india/2026",
+   "city": "Bengaluru",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Civo",
+   "note": "Cloud, AI and DevOps conference.",
+   "project": "39",
+   "project_name": "AI Cloud & Data Centres",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "dates": "24 Nov 2026",
+   "name": "From AlphaGo to AGI – Thore Graepel",
+   "url": "https://www.lse.ac.uk/events/general-artificial-intelligence",
+   "city": "London (LSE)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "London School of Economics",
+   "note": "Public lecture on the future of general AI, 6:30 pm.",
+   "project": "48",
+   "project_name": "AI AGI & ASI",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-24",
+   "end": "2026-11-26",
+   "dates": "24–26 Nov 2026",
+   "name": "SPS – Smart Production Solutions 2026",
+   "url": "https://sps.mesago.com/nuernberg/en.html",
+   "city": "Nuremberg",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Mesago Messe Frankfurt",
+   "note": "Automation fair with industrial AI as a focus topic.",
+   "project": "14",
+   "project_name": "AI Manufacturing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "dates": "25 Nov 2026",
+   "name": "AI Securecon Summit 2026",
+   "url": "https://aisecurecon.thinkinevents.org/",
+   "city": "Hyderabad",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Thinkin Events",
+   "note": "AI-driven cybersecurity and fraud prevention for BFSI.",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "dates": "25 Nov 2026",
+   "name": "ET Realty & Beyond Summit Hyderabad",
+   "url": "https://realty.economictimes.indiatimes.com/realty-beyond-summit-hyderabad",
+   "city": "Hyderabad (Le Méridien)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "ET Realty",
+   "note": "How AI, data and immersive tools are changing real estate.",
+   "project": "46",
+   "project_name": "AI Smart Cities & Real Estate",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "dates": "25 Nov 2026",
+   "name": "Fragrance Innovation Summit 2026",
+   "url": "https://www.fragranceinnovation.com/en/home/",
+   "city": "Paris",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Fragrance Innovation Summit",
+   "note": "How artificial intelligence is reshaping fragrance creation and consumers.",
+   "project": "26",
+   "project_name": "AI Fashion & Beauty",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "dates": "25–26 Nov 2026",
+   "name": "Agentiq World Amsterdam",
+   "url": "https://www.agentiqworld.com/edition/amsterdam/2026",
+   "city": "Amsterdam (Mövenpick City Centre)",
+   "country": "Netherlands",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Agentiq World",
+   "note": "Mastering agentic commerce together.",
+   "project": "07",
+   "project_name": "AI Commerce",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "dates": "25–26 Nov 2026",
+   "name": "International Congress on AI & Digital Psychiatry 2026",
+   "url": "https://globalscion.com/ai-digital-psychiatry-congress-2026/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Global Scion",
+   "note": "Scaling mental healthcare with AI and digital psychiatry.",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-25",
+   "end": "2026-11-26",
+   "dates": "25–26 Nov 2026",
+   "name": "WeAreDevelopers Conference India",
+   "url": "https://www.wearedevelopers.com/conference-india",
+   "city": "Bengaluru",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "WeAreDevelopers",
+   "note": "Building and shipping software in the age of AI.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "dates": "26 Nov 2026",
+   "name": "CharityComms AI Conference: Leading Strategy, Building Skills",
+   "url": "https://www.charitycomms.org.uk/events/ai-conference-2026",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "CharityComms",
+   "note": "AI strategy and skills for charities.",
+   "project": "44",
+   "project_name": "AI Social Impact",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "dates": "26 Nov 2026",
+   "name": "EDAS 2026 – Energy Digitalisation & AI Summit",
+   "url": "https://edassummit.com/",
+   "city": "New Delhi (Le Méridien)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "EDAS",
+   "note": "AI across the energy value chain: power, grids and renewables.",
+   "project": "12",
+   "project_name": "AI Energy",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "dates": "26 Nov 2026",
+   "name": "Infosec Reimagined",
+   "url": "https://techobserver.in/infosec/",
+   "city": "New Delhi (The Shangri-La)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Tech Observer",
+   "note": "CISO forum: secure AI, defend data, recover faster.",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "dates": "26 Nov 2026",
+   "name": "Newsrewired",
+   "url": "https://www.journalism.co.uk/newsrewired/",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "journalism.co.uk",
+   "note": "Digital-journalism conference; study tour 25 Nov.",
+   "project": "08",
+   "project_name": "AI Journalism",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-26",
+   "end": "2026-11-27",
+   "dates": "26–27 Nov 2026",
+   "name": "14th FOKUS FUSECO Forum",
+   "url": "https://www.fokus.fraunhofer.de/en/ngni/events/fuseco-forum_2026.html",
+   "city": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Fraunhofer FOKUS",
+   "note": "Towards flexible, reliable 6G and AI-based networks.",
+   "project": "40",
+   "project_name": "AI Telecom & Connectivity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-26",
+   "end": "2026-11-27",
+   "dates": "26–27 Nov 2026",
+   "name": "SHRM India Annual Conference & Expo 2026",
+   "url": "https://www.shrmconference.org/iac/",
+   "city": "New Delhi (Yashobhoomi)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "SHRM India",
+   "note": "People-led transformation where AI amplifies human capability.",
+   "project": "19",
+   "project_name": "AI Work & Employment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "Building a Future-Ready Bank",
+   "url": "https://cedaribsi.events/events/2026-mumbai-building-a-future-ready-bank.html",
+   "city": "Mumbai",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Cedar-IBSi",
+   "note": "Banking leaders on AI-driven decisioning and core modernisation.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "Exploring AI: #Sound",
+   "url": "https://zkm.de/index%2Ephp/de/2026/11/exploring-ai-sound-0",
+   "city": "Karlsruhe (ZKM)",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "ZKM | Center for Art and Media",
+   "note": "Hands-on evening: how does artificial creativity sound?",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "Future Ready Executive Lab: AI & the Future of Work",
+   "url": "https://www.hec.edu/en/executive-education/events/future-ready-executive-lab-ai-future-work",
+   "city": "Paris",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "HEC Paris Executive Education",
+   "note": "In-class executive session (8:30 am).",
+   "project": "19",
+   "project_name": "AI Work & Employment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "India Brand Summit 2026",
+   "url": "https://event.indiantelevision.com/events/india-brand-summit/",
+   "city": "Delhi",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IndianTelevision.com",
+   "note": "Brand CXOs, agencies and AI labs; 4th edition.",
+   "project": "28",
+   "project_name": "AI Marketing & Advertising",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "NAFCON 2026 – Reimagining NBFCs with AI",
+   "url": "https://nafcon.in/",
+   "city": "Chennai (Westin)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "NAFCON",
+   "note": "22nd edition: 'From Data to Decisions'.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "TA Tech Summit 2026",
+   "url": "https://events.tadialogues.in/ta-tech-2026/",
+   "city": "Hyderabad",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "TA Dialogues",
+   "note": "AI in talent acquisition, with live demos of AI hiring tools.",
+   "project": "19",
+   "project_name": "AI Work & Employment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "dates": "27 Nov 2026",
+   "name": "The Leaders Meet – Marketing Edition",
+   "url": "https://www.theleadersmeet.org/mktevent/",
+   "city": "Pune (MCCIA)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "The Leaders Meet",
+   "note": "AI-powered marketing: from tools to strategy.",
+   "project": "28",
+   "project_name": "AI Marketing & Advertising",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-28",
+   "dates": "27–28 Nov 2026",
+   "name": "(UN)REAL AI Film Festival",
+   "url": "https://unrealfilmfestival.com",
+   "city": "Turin (Feat. House)",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "(UN)REAL AI Film Festival",
+   "note": "Entries close 31 Oct; finalists announced 14 Nov.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-28",
+   "dates": "27–28 Nov 2026",
+   "name": "AI Music Lab: generative models, lyrics and creative processes",
+   "url": "https://www.uax.com/en/faculties-and-centres/ai-music-lab",
+   "city": "Madrid (UAX)",
+   "country": "Spain",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Universidad Alfonso X el Sabio",
+   "note": "Human–machine co-creation in music.",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-28",
+   "dates": "27–28 Nov 2026",
+   "name": "AITHE 2026 – AI in Tourism & Hospitality Innovation",
+   "url": "https://aithe.ctiarconferences.ca/",
+   "city": "Valletta, Malta and online",
+   "country": "Malta",
+   "region": "Europe",
+   "format": "hybrid",
+   "organiser": "CTIAR Conferences",
+   "note": "Responsible, scalable, human-centred AI in tourism.",
+   "project": "27",
+   "project_name": "AI Travel & Hospitality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-28",
+   "dates": "27–28 Nov 2026",
+   "name": "TAIG 2026 – Technologies for AI Governance",
+   "url": "https://www.ln.edu.hk/sds/news-and-events-v0/sds_news_and_event_2026_TAIG",
+   "city": "Hong Kong (Cordis) or online",
+   "country": "Hong Kong",
+   "region": "Asia-Pacific",
+   "format": "hybrid",
+   "organiser": "Lingnan University School of Data Science",
+   "note": "International workshop; registration closes 20 Nov.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "dates": "27–29 Nov 2026",
+   "name": "Factory Automation Expo 2026",
+   "url": "https://www.factoryautomationexpo.com/",
+   "city": "Pune (PIECC, Moshi)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Factory Automation Expo",
+   "note": "Robotics, AI, IoT and smart-manufacturing solutions.",
+   "project": "14",
+   "project_name": "AI Manufacturing",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "dates": "27–29 Nov 2026",
+   "name": "LEVEL UP Sports Tech Innovation Expo 2026",
+   "url": "https://gludo.org/en/events/1312-levelupsportstech",
+   "city": "Dubai Harbour",
+   "country": "United Arab Emirates",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "Gludo",
+   "note": "Athlete performance tech, AI, smart stadiums and fan engagement.",
+   "project": "20",
+   "project_name": "AI Sports & Fitness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "dates": "28 Nov 2026",
+   "name": "14th Annual Digital Marketing Summit 2026",
+   "url": "https://digitalmarketingsummit.in/",
+   "city": "Hyderabad",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Digital Marketing Summit",
+   "note": "Panels include 'The AI Native Marketer'.",
+   "project": "28",
+   "project_name": "AI Marketing & Advertising",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-11"
+   ]
+  },
+  {
+   "start": "2026-11-29",
+   "end": "2026-12-03",
+   "dates": "29 Nov – 3 Dec 2026",
+   "name": "RSNA 2026",
+   "url": "https://www.rsna.org/news/2026/october/rsna-2026-technical-exhibits",
+   "city": "Chicago (McCormick Place)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Radiological Society of North America",
+   "note": "Annual meeting with an AI Showcase of AI-powered imaging solutions.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "dates": "30 Nov – 1 Dec 2026",
+   "name": "Agentic AI and Foundation Models Workshop",
+   "url": "https://www.itwm.fraunhofer.de/en/fairs_events/2026/2026_11_30_workshop_agentic_ai_foundation_models_en.html",
+   "city": "Kaiserslautern",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Fraunhofer ITWM",
+   "note": "Register by 16 Nov.",
+   "project": "37",
+   "project_name": "AI Foundation Models & Assistants",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "dates": "30 Nov – 1 Dec 2026",
+   "name": "AI Dev 26 NYC",
+   "url": "https://ai-dev.deeplearning.ai/",
+   "city": "New York (Chelsea Piers)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "DeepLearning.AI",
+   "note": "Developer conference on building with AI.",
+   "project": "38",
+   "project_name": "AI Coding & Developer Tools",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "dates": "30 Nov – 1 Dec 2026",
+   "name": "AI4BCI 2026 – AI for Brain–Computer Interface",
+   "url": "https://www.ai4bci.com/",
+   "city": "Manchester (University of Manchester)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AI4BCI",
+   "note": "First international symposium on AI for BCI.",
+   "project": "33",
+   "project_name": "AI Neuroscience",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "dates": "30 Nov – 1 Dec 2026",
+   "name": "Tech for Retail 2026",
+   "url": "https://www.techforretail.com/en",
+   "city": "Paris (Paris Expo Porte de Versailles)",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Tech for Retail",
+   "note": "European retail show; how agentic AI transforms head offices and stores.",
+   "project": "07",
+   "project_name": "AI Commerce",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "dates": "30 Nov – 1 Dec 2026",
+   "name": "The Future of Sustainable Computing",
+   "url": "https://thefutureofsuscomp2026.h-its.org/",
+   "city": "Heidelberg",
+   "country": "Germany",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "HITS",
+   "note": "Symposium on sustainable computing and AI.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "dates": "30 Nov – 2 Dec 2026",
+   "name": "ALTA 2026",
+   "url": "https://alta2026.alta.asn.au/calls/papers",
+   "city": "Melbourne",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Australasian Language Technology Association",
+   "note": "Tutorials 30 Nov; main conference 1–2 Dec.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "dates": "30 Nov – 2 Dec 2026",
+   "name": "XR Kaigi 2026",
+   "url": "https://www.moguravr.com/the-latest-ai-and-smart-glasses-case-studies-will-be-showcased-at-xr-kaigi-2026-japans-largest-conference-held-from-november-30th-to-december-2nd/",
+   "city": "Tokyo (Port City Takeshiba)",
+   "country": "Japan",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Mogura",
+   "note": "Japan's largest XR conference, featuring AI and smart-glasses case studies.",
+   "project": "41",
+   "project_name": "AI Consumer Devices & Wearables",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-03",
+   "dates": "30 Nov – 3 Dec 2026",
+   "name": "NVIDIA GTC Washington, D.C.",
+   "url": "https://www.nvidia.com/gtc/dc/",
+   "city": "Washington, D.C.",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "NVIDIA",
+   "note": "Workshops 30 Nov; conference & expo 1–3 Dec; keynote 1 Dec.",
+   "project": "37",
+   "project_name": "AI Foundation Models & Assistants",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "dates": "30 Nov – 4 Dec 2026",
+   "name": "AWS re:Invent 2026",
+   "url": "https://aws.amazon.com/events/reinvent/",
+   "city": "Las Vegas",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Amazon Web Services",
+   "note": "Cloud and AI's biggest week.",
+   "project": "39",
+   "project_name": "AI Cloud & Data Centres",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "dates": "30 Nov – 4 Dec 2026",
+   "name": "ECQCM'26 – Machine Learning for Quantum",
+   "url": "https://mlq.quantumexcellence.org/ecqcm26/",
+   "city": "Strasbourg (ISIS, University of Strasbourg)",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Quantum Excellence",
+   "note": "European conference on quantum and complex matter with ML.",
+   "project": "35",
+   "project_name": "AI Quantum Computing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-11",
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "dates": "1 Dec 2026",
+   "name": "AMIW 2026 – Asian Music Intelligence Workshop",
+   "url": "https://amiw.kthrlab.jp/amiw2026",
+   "city": "Melbourne (ACML 2026 satellite)",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "AMIW",
+   "note": "Music and machine learning, including music generation.",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "dates": "1 Dec 2026",
+   "name": "Generative AI Summit London",
+   "url": "https://world.aiacceleratorinstitute.com/location/london/generativeaisummit",
+   "city": "London (InterContinental O2)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AI Accelerator Institute",
+   "note": "Applied-AI builders and executives.",
+   "project": "37",
+   "project_name": "AI Foundation Models & Assistants",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "dates": "1–2 Dec 2026",
+   "name": "Artificial Intelligence in Education Conference",
+   "url": "https://www.magnapubs.com/ai-in-education-conference/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Magna Publications (The Teaching Professor)",
+   "note": "Virtual conference; on demand until 2 Mar 2027.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "dates": "1–2 Dec 2026",
+   "name": "FinTech Connect 2026",
+   "url": "https://www.fintechconnect.com/",
+   "city": "London (ExCeL)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "FinTech Connect",
+   "note": "Includes an Applied AI in Finance track.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "dates": "1–2 Dec 2026",
+   "name": "Humanoids Summit Silicon Valley",
+   "url": "https://humanoidssummit.com/",
+   "city": "Silicon Valley",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Humanoids Summit",
+   "note": "Sixth summit for humanoid and physical-AI builders and researchers.",
+   "project": "11",
+   "project_name": "AI Robotics",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "dates": "1–2 Dec 2026",
+   "name": "Legal AI London",
+   "url": "https://www.insidelegalai.com/events/legal-ai-london",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Inside Practice",
+   "note": "Responsible AI, governance and scale in law firms and in-house teams.",
+   "project": "06",
+   "project_name": "AI Law & Investigation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "dates": "1–2 Dec 2026",
+   "name": "MERe AI 2026 – Machine Ethics and Reasoning in AI",
+   "url": "https://mere-ai-workshop.com/",
+   "city": "Toronto (Vector Institute); day 1 streamed",
+   "country": "Canada",
+   "region": "North America",
+   "format": "hybrid",
+   "organiser": "MERe AI workshop",
+   "note": "Second workshop on machine ethics and moral reasoning.",
+   "project": "45",
+   "project_name": "AI Ethics & Safety",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-04",
+   "dates": "1–4 Dec 2026",
+   "name": "InGARSS 2026",
+   "url": "https://www.ingarss2026.co.in/",
+   "city": "Hyderabad",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IEEE Geoscience & Remote Sensing Society (India)",
+   "note": "Digital Earth: geoscience, space, remote sensing and AI.",
+   "project": "31",
+   "project_name": "AI Space & Cosmos",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-01",
+   "end": "2026-12-04",
+   "dates": "1–4 Dec 2026",
+   "name": "MLESP 2026 – Machine Learning for EEG Signal Processing",
+   "url": "https://mlesp2026.sciencesconf.org/",
+   "city": "Dallas and hybrid",
+   "country": "United States",
+   "region": "North America",
+   "format": "hybrid",
+   "organiser": "IEEE BIBM workshop",
+   "note": "7th workshop on ML for EEG.",
+   "project": "33",
+   "project_name": "AI Neuroscience",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "dates": "2 Dec 2026",
+   "name": "The Ethics of AI in Therapy",
+   "url": "https://www.pesi.com/item/the-ethics-ai-therapy-177503/",
+   "city": "Online (live webinar)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "PESI",
+   "note": "Latest guidelines and best practices for clinicians.",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "dates": "2–3 Dec 2026",
+   "name": "DefenseTech Week 2026",
+   "url": "https://defensetech-week.com/",
+   "city": "Tel Aviv University",
+   "country": "Israel",
+   "region": "Middle East",
+   "format": "in-person",
+   "organiser": "Blavatnik ICRC, Tel Aviv University",
+   "note": "Autonomous systems and AI-driven warfare, defence start-ups.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "dates": "2–3 Dec 2026",
+   "name": "TiEcon Delhi 2026",
+   "url": "https://www.tiecon-delhi.in/",
+   "city": "New Delhi (India Habitat Centre)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "TiE Delhi-NCR",
+   "note": "Founders and investors on sovereign tech, consumer scale and AI.",
+   "project": "47",
+   "project_name": "AI Startups & Investment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "dates": "2–3 Dec 2026",
+   "name": "Uncrewed & Autonomous Systems 2026",
+   "url": "https://www.asdevents.com/event.asp?id=26180",
+   "city": "London (Novotel West)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "ASDEvents",
+   "note": "UGVs, UAS, robotics, counter-drone and AI-enabled capability.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "dates": "2–4 Dec 2026",
+   "name": "AVAR 2026 Cyber Security Conference",
+   "url": "https://events.aavar.org/cybersecurity-conference/",
+   "city": "Hyderabad",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "AVAR",
+   "note": "AI security, threat intelligence and CISO tracks.",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-02",
+   "end": "2026-12-04",
+   "dates": "2–4 Dec 2026",
+   "name": "KIPAC Gaia DR4 × Agentic AI Sprint",
+   "url": "https://kipac.stanford.edu/events/kipac-workshops/kipac-gaia-dr4-x-agentic-ai-sprint-decoding-milky-way-stanford",
+   "city": "Stanford (Gates Building)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Kavli Institute for Particle Astrophysics & Cosmology",
+   "note": "Agentic AI to decode the Milky Way with Gaia DR4.",
+   "project": "31",
+   "project_name": "AI Space & Cosmos",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "dates": "3 Dec 2026",
+   "name": "ET AI Data Center Masterclass",
+   "url": "https://masterclass.economictimes.indiatimes.com/ai-data-center-masterclass",
+   "city": "Mumbai",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "ET Masterclass (Economic Times)",
+   "note": "In-person masterclass on AI data-centre infrastructure.",
+   "project": "39",
+   "project_name": "AI Cloud & Data Centres",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "dates": "3 Dec 2026",
+   "name": "Future of Defense Command & AI Summit – US Edition",
+   "url": "https://groupfuturistaevent.com/FODCAI2026/",
+   "city": "Online",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "Group Futurista",
+   "note": "Free virtual summit on AI in command, wargaming and decision support (10:00 ET).",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-03",
+   "end": "2026-12-04",
+   "dates": "3–4 Dec 2026",
+   "name": "Catholic Universities in the Age of Artificial Intelligence",
+   "url": "https://wcu.academy/en/article/ai-conference-175",
+   "city": "Rome (Pontifical University of the Holy Cross)",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "International Federation of Catholic Universities (FIUC)",
+   "note": "International conference; audience with the Pope on 5 Dec.",
+   "project": "21",
+   "project_name": "AI Spirituality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-03",
+   "end": "2026-12-05",
+   "dates": "3–5 Dec 2026",
+   "name": "AgroTech 2026",
+   "url": "https://globalagrotech.in/pdf/AgroTech%202026.pdf",
+   "city": "Lucknow (ICAR-IISR)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Indian Chamber of Food and Agriculture (ICFA)",
+   "note": "25th edition; themes include Digital Agriculture and AI Solutions, ICT, AI & Extension.",
+   "project": "02",
+   "project_name": "AI Agriculture",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-03",
+   "end": "2026-12-05",
+   "dates": "3–5 Dec 2026",
+   "name": "CARE Conference 2026",
+   "url": "https://iitr.ac.in/care-ai2026/program.html",
+   "city": "Roorkee (IIT Roorkee)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IIT Roorkee",
+   "note": "AI research conference with mentoring workshop and AI challenge.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-03",
+   "end": "2026-12-06",
+   "dates": "3–6 Dec 2026",
+   "name": "CSICON 2026",
+   "url": "https://csicon78.com/scientific/",
+   "city": "Bengaluru (Palace Grounds)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Cardiological Society of India",
+   "note": "CSI annual conference with an AI in Cardiology track and special session.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": true,
+   "cardiology": true,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "dates": "4–6 Dec 2026",
+   "name": "RULIC 2026: Libraries in the AI Era – Digital Humanities and Civilizational Heritage",
+   "url": "https://rishihood.edu.in/rulic-conference",
+   "city": "Sonipat (Rishihood University)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Rishihood University",
+   "note": "3rd international library conference on AI and heritage.",
+   "project": "22",
+   "project_name": "AI Mythology",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "dates": "5 Dec 2026",
+   "name": "GenTO Film Festival",
+   "url": "https://www.gento.ca/festival",
+   "city": "Toronto (Innis Town Hall)",
+   "country": "Canada",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "GenTO",
+   "note": "Inaugural edition: short films, panels, demos and awards for AI-era cinema.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "dates": "5 Dec 2026",
+   "name": "JIFF 1st World AI Cinema Competition – final entry deadline",
+   "url": "https://www.jiffindia.org/",
+   "city": "Jaipur",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Jaipur International Film Festival (JIFF)",
+   "note": "Final submission deadline (extended deadline 15 Nov); JIFF runs 8–12 Jan 2027.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "dates": "5–6 Dec 2026",
+   "name": "Blue Intelligence Climate Summit 2026",
+   "url": "https://globalblueics.com/",
+   "city": "Visakhapatnam",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Blue Intelligence Climate Summit",
+   "note": "AI, SDGs, climate action and the blue economy.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-06",
+   "end": "2026-12-07",
+   "dates": "6–7 Dec 2026",
+   "name": "ML4H 2026 Symposium",
+   "url": "https://ml4h.ahli.cc/",
+   "city": "Sydney",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "ML4H (Machine Learning for Health)",
+   "note": "6th symposium on machine learning for health.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-06",
+   "end": "2026-12-12",
+   "dates": "6–12 Dec 2026",
+   "name": "NeurIPS 2026",
+   "url": "https://neurips.cc/Conferences/2026",
+   "city": "Sydney (ICC); satellites in Atlanta & Paris 9–13 Dec",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "NeurIPS Foundation",
+   "note": "40th flagship machine-learning conference.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "dates": "7 Dec 2026",
+   "name": "MFSS Sustainability Conclave 2026 (SUSTAIN-AI hackathon)",
+   "url": "https://mfsos.iiti.ac.in/conclave_index.php",
+   "city": "Indore (IIT Indore)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IIT Indore",
+   "note": "AI for a Sustainable India hackathon and conclave.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-08",
+   "dates": "7–8 Dec 2026",
+   "name": "New Friends 2026 – Social Robotics & HRI",
+   "url": "https://newfriends2026.org/",
+   "city": "Chennai",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "PAIR Labs, Bharath Institute of Higher Education and Research",
+   "note": "International conference on social robotics and human–robot interaction.",
+   "project": "11",
+   "project_name": "AI Robotics",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-08",
+   "dates": "7–8 Dec 2026",
+   "name": "On-Device AI Builders Hackathon",
+   "url": "https://luma.com/41hfiu79",
+   "city": "New York (NYU)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "LM Studio with Snapdragon & Microsoft",
+   "note": "Local-LLM building on Snapdragon AI PCs.",
+   "project": "41",
+   "project_name": "AI Consumer Devices & Wearables",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "dates": "7–9 Dec 2026",
+   "name": "IEEE-RAS Humanoids 2026",
+   "url": "https://www.ieee-ras.org/event/2026-ieee-ras-25th-international-conference-on-humanoid-robots-humanoids-68892/",
+   "city": "Santa Clara, California",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "IEEE Robotics and Automation Society",
+   "note": "25th International Conference on Humanoid Robots.",
+   "project": "11",
+   "project_name": "AI Robotics",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "dates": "7–9 Dec 2026",
+   "name": "T-AIFF 2026 – Türkiye International AI Film Festival",
+   "url": "https://www.aitff.com/",
+   "city": "Istanbul",
+   "country": "Türkiye",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "T-AIFF",
+   "note": "3rd edition; film submissions via FilmFreeway until 1 Nov.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "dates": "7–9 Dec 2026",
+   "name": "UnitedXR Europe 2026",
+   "url": "https://unitedxr.eu/about-us",
+   "city": "Brussels",
+   "country": "Belgium",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "UnitedXR",
+   "note": "XR conference and expo, from AI infrastructure to AR cloud and optics.",
+   "project": "29",
+   "project_name": "AI Gaming & Immersive Worlds",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "dates": "7–13 Dec 2026",
+   "name": "Computer Science Education Week 2026",
+   "url": "https://www.csedweek.org/about",
+   "city": "Worldwide",
+   "country": "",
+   "region": "",
+   "format": "various",
+   "organiser": "CSEdWeek",
+   "note": "Theme: how CS powers AI innovation.",
+   "project": "15",
+   "project_name": "AI Kids",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "dates": "7–13 Dec 2026",
+   "name": "IndiaJoy AI Film Festival & AI Conclave",
+   "url": "https://indiajoy.in/events/ai-film-festival",
+   "city": "Hyderabad (Bharat Future City)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IndiaJoy",
+   "note": "Stories, tools and talent shaping the next era of cinema.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-08",
+   "end": "2026-12-08",
+   "dates": "8 Dec 2026",
+   "name": "AI Ethics in Action: Real-World Clinical Decisions",
+   "url": "https://www.theferentzinstitute.com/trainings/new-ai-ethics-in-action-real-world-clinical-decisions-fall-2026",
+   "city": "Online (Zoom)",
+   "country": "",
+   "region": "",
+   "format": "online",
+   "organiser": "The Ferentz Institute",
+   "note": "Clinical ethics training, 8:45 am–12 pm ET.",
+   "project": "17",
+   "project_name": "AI Psychology",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-08",
+   "end": "2026-12-08",
+   "dates": "8 Dec 2026",
+   "name": "Black Hat Europe 2026 – AI Security Summit",
+   "url": "https://blackhat.com/europe/ai-summit.html",
+   "city": "London (ExCeL)",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Black Hat",
+   "note": "One-day AI security summit within Black Hat Europe (7–10 Dec).",
+   "project": "42",
+   "project_name": "AI Cybersecurity",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-08",
+   "end": "2026-12-10",
+   "dates": "8–10 Dec 2026",
+   "name": "MORS Emerging Techniques Forum 2026",
+   "url": "https://www.mors.org/events/workshops/etf-2026",
+   "city": "Arlington, VA",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "Military Operations Research Society",
+   "note": "Theme: AI for the operations research community.",
+   "project": "03",
+   "project_name": "AI Defence",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-08",
+   "end": "2026-12-10",
+   "dates": "8–10 Dec 2026",
+   "name": "Q2B26 Chicago Quantum Technologies Conference",
+   "url": "https://q2b.qcware.com/conference/2026-chicago",
+   "city": "Chicago (Marriott)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "QC Ware",
+   "note": "Quantum industry conference; case studies due 6 Nov.",
+   "project": "35",
+   "project_name": "AI Quantum Computing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-08",
+   "end": "2026-12-10",
+   "dates": "8–10 Dec 2026",
+   "name": "TC47 – Translating and the Computer",
+   "url": "https://asling.org/tc47/",
+   "city": "Luxembourg",
+   "country": "Luxembourg",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AsLing",
+   "note": "Translation technology, MT and LLMs.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "dates": "9 Dec 2026",
+   "name": "Financial Services AI Security Forum",
+   "url": "https://events.thecyberfinanceforum.com/ai-finance",
+   "city": "New York (Hilton Midtown)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "The Cyber Finance Forum",
+   "note": "Trust, risk and resilience in the age of AI.",
+   "project": "05",
+   "project_name": "AI Finance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "dates": "9–10 Dec 2026",
+   "name": "HoT Europe 2026 – Hotel Operations & Technology",
+   "url": "https://pgsolx.com/HoT-Europe/4th/",
+   "city": "Barcelona",
+   "country": "Spain",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "PG Solutions",
+   "note": "Automation and AI-driven guest experiences in hotels.",
+   "project": "27",
+   "project_name": "AI Travel & Hospitality",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "dates": "9–10 Dec 2026",
+   "name": "The AI Summit New York 2026",
+   "url": "https://newyork.theaisummit.com/",
+   "city": "New York (Javits Center)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "The AI Summit",
+   "note": "Turning AI ambition into real-world impact.",
+   "project": "50",
+   "project_name": "AI Future Frontiers",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-11",
+   "dates": "9–11 Dec 2026",
+   "name": "Auto EV Bharat 2026",
+   "url": "https://www.autoevbharat.com/",
+   "city": "Bengaluru (KTPO, Whitefield)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Auto EV Bharat",
+   "note": "Automotive and EV tech expo, from AI to electrification.",
+   "project": "13",
+   "project_name": "AI Transportation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-11",
+   "dates": "9–11 Dec 2026",
+   "name": "Automation Expo North 2026",
+   "url": "https://www.industrialautomationindia.in/automation-expo-north-2026",
+   "city": "New Delhi (Pragati Maidan)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Industrial Automation India",
+   "note": "Industrial AI, IIoT and connected operations.",
+   "project": "14",
+   "project_name": "AI Manufacturing",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-11",
+   "dates": "9–11 Dec 2026",
+   "name": "IEEE STAR 2026",
+   "url": "https://ieee-star.org/",
+   "city": "Rovereto, Italy",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "IEEE",
+   "note": "Sport technology and research, including AI for sport.",
+   "project": "20",
+   "project_name": "AI Sports & Fitness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-09",
+   "end": "2026-12-11",
+   "dates": "9–11 Dec 2026",
+   "name": "SEMICON Japan 2026",
+   "url": "https://www.semiconjapan.org/en",
+   "city": "Tokyo (Tokyo Big Sight)",
+   "country": "Japan",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "SEMI",
+   "note": "Semiconductor exhibition with AI × humanoids showcase.",
+   "project": "36",
+   "project_name": "AI Semiconductors",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "dates": "10 Dec 2026",
+   "name": "ET EDNXT Chennai",
+   "url": "https://education.economictimes.indiatimes.com/ednxt-chennai",
+   "city": "Chennai (Hilton)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "ET Education",
+   "note": "10th edition of the AI-and-education conference series.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "dates": "10 Dec 2026",
+   "name": "Molsoft India UGM – ACCDD 2026",
+   "url": "https://www.adventinformatics.com/molsoft-india-ugm-accdd-2026/",
+   "city": "Bengaluru",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Advent Informatics / Molsoft",
+   "note": "Computational drug discovery with AI/ML experts.",
+   "project": "32",
+   "project_name": "AI Biotechnology",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-10",
+   "end": "2026-12-11",
+   "dates": "10–11 Dec 2026",
+   "name": "AI Governance & Liability Conference",
+   "url": "https://law.nus.edu.sg/trail/trailaidec2026-home/",
+   "city": "Singapore (NUS Law)",
+   "country": "Singapore",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "NUS Centre for TRAIL",
+   "note": "Technology, law and AI liability.",
+   "project": "43",
+   "project_name": "AI Governance",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "dates": "11 Dec 2026",
+   "name": "Tackling Climate Change with Machine Learning (NeurIPS workshop)",
+   "url": "https://www.climatechange.ai/events/neurips2026",
+   "city": "Sydney",
+   "country": "Australia",
+   "region": "Asia-Pacific",
+   "format": "in-person",
+   "organiser": "Climate Change AI",
+   "note": "NeurIPS 2026 workshop.",
+   "project": "34",
+   "project_name": "AI Environment",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-11",
+   "end": "2026-12-12",
+   "dates": "11–12 Dec 2026",
+   "name": "NIELIT Bio-AI Conclave 2026",
+   "url": "https://nielitbioai.org/",
+   "city": "Guwahati (Gauhati University)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "NIELIT",
+   "note": "India's Bio-AI roadmap; workshops on 10 Dec.",
+   "project": "32",
+   "project_name": "AI Biotechnology",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "dates": "12 Dec 2026",
+   "name": "AI & Science: Evolution or Extinction? (NeurIPS workshop)",
+   "url": "https://aiscik.github.io/",
+   "city": "Atlanta (NeurIPS satellite)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AISCIK workshop organisers",
+   "note": "Safety, alignment and evaluation for AI in science.",
+   "project": "48",
+   "project_name": "AI AGI & ASI",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "dates": "12 Dec 2026",
+   "name": "REO-2 – Representation Learning for Earth Observation (NeurIPS workshop)",
+   "url": "https://reo-workshop.org/2026",
+   "city": "Paris (NeurIPS satellite)",
+   "country": "France",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "REO workshop organisers",
+   "note": "EO foundation models and multimodal satellite data.",
+   "project": "31",
+   "project_name": "AI Space & Cosmos",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "dates": "12–13 Dec 2026",
+   "name": "AI Horizons Forum",
+   "url": "https://www.aihorizonsforum.org/",
+   "city": "San Francisco (Marriott Marquis)",
+   "country": "United States",
+   "region": "North America",
+   "format": "in-person",
+   "organiser": "AI Horizons Forum",
+   "note": "Coordinating people working on transformative AI (by application).",
+   "project": "48",
+   "project_name": "AI AGI & ASI",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-13",
+   "end": "2026-12-15",
+   "dates": "13–15 Dec 2026",
+   "name": "ICAST 2026 – Advanced Semiconductor Technologies",
+   "url": "https://kanchiuniv.ac.in/icast2026/",
+   "city": "Chennai (ICSR Building, IIT Madras)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "SCSVMV (Kanchi University) with IIT Madras",
+   "note": "Themes include AI and sustainable chip making; abstracts due 25 Oct.",
+   "project": "36",
+   "project_name": "AI Semiconductors",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-13",
+   "end": "2026-12-16",
+   "dates": "13–16 Dec 2026",
+   "name": "CODS-COMAD 2026",
+   "url": "https://ikdd.acm.org/cods-2026/",
+   "city": "Gandhinagar (DA-IICT)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "ACM India (IKDD)",
+   "note": "Joint data science and data management conference.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-13",
+   "end": "2026-12-16",
+   "dates": "13–16 Dec 2026",
+   "name": "IEEE QAI 2026 – Quantum Artificial Intelligence",
+   "url": "https://www.nottingham.ac.uk/computerscience/events/the-second-ieee-international-conference-on-quantum-artificial-intelligence-qai-come-to-nottingham.aspx",
+   "city": "Nottingham",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "IEEE / Nottingham Trent University",
+   "note": "Second international conference on quantum AI.",
+   "project": "35",
+   "project_name": "AI Quantum Computing",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-14",
+   "end": "2026-12-15",
+   "dates": "14–15 Dec 2026",
+   "name": "AI in Sport (short programme)",
+   "url": "https://aists.org/artificial-intelligence-in-sport/",
+   "city": "Lausanne",
+   "country": "Switzerland",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "AISTS",
+   "note": "Two-day course on responsible AI adoption in sport; CHF 1,400.",
+   "project": "20",
+   "project_name": "AI Sports & Fitness",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-14",
+   "end": "2026-12-15",
+   "dates": "14–15 Dec 2026",
+   "name": "Cardiology Update London 2026",
+   "url": "https://www.neu.prod.zhh.ch/en/agenda/cardiology-update-london-2026",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Zurich Heart House",
+   "note": "Includes 'AI in Cardiovascular Medicine': AI stethoscopes, AI-ECG and HF management with AI.",
+   "project": "04",
+   "project_name": "AI Healthcare",
+   "india": false,
+   "cardiology": true,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-14",
+   "end": "2026-12-15",
+   "dates": "14–15 Dec 2026",
+   "name": "TiE Global Summit 2026 – The Next Decade",
+   "url": "https://tieglobalsummit.org/",
+   "city": "Indore",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "TiE Global",
+   "note": "Arenas on applied AI, agentic workflows and capital.",
+   "project": "47",
+   "project_name": "AI Startups & Investment",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "dates": "14–18 Dec 2026",
+   "name": "WADLA 5.0 – Workshop on Advances in Deep Learning and Applications",
+   "url": "https://www.wadla.in/",
+   "city": "Prayagraj (IIIT Allahabad)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IIIT Allahabad",
+   "note": "Five-day research workshop with hands-on deep-learning sessions.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "dates": "14–18 Dec 2026",
+   "name": "Winter School on AI, Ethics and Human Rights",
+   "url": "https://unicri.org/advanced-education-artificial-intelligence-ai-ethics-human-rights-2026",
+   "city": "Rome and online",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "hybrid",
+   "organiser": "UNICRI",
+   "note": "UN institute's advanced course on responsible AI.",
+   "project": "45",
+   "project_name": "AI Ethics & Safety",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-15",
+   "end": "2026-12-16",
+   "dates": "15–16 Dec 2026",
+   "name": "Techfest IIT Bombay: Artificial Intelligence Workshop",
+   "url": "https://techfest.org/workshops/artificial-intelligence",
+   "city": "Mumbai (IIT Bombay)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Techfest, IIT Bombay",
+   "note": "Two-day AI workshop; register by 6 Dec.",
+   "project": "18",
+   "project_name": "AI Education",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-15",
+   "end": "2026-12-17",
+   "dates": "15–17 Dec 2026",
+   "name": "Generative Art 2026",
+   "url": "https://generativeart.com/",
+   "city": "Cagliari (University Library)",
+   "country": "Italy",
+   "region": "Europe",
+   "format": "in-person",
+   "organiser": "Generative Art conference",
+   "note": "Theme: Generative Art & AI uniqueness.",
+   "project": "23",
+   "project_name": "AI Music & Arts",
+   "india": false,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-17",
+   "end": "2026-12-19",
+   "dates": "17–19 Dec 2026",
+   "name": "AIFB 2026 – AI for Forensics and Biometrics",
+   "url": "https://aifb2026.iitdh.ac.in/",
+   "city": "Dharwad (IIT Dharwad)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IIT Dharwad",
+   "note": "Biometrics, deepfake and media forensics, AI-assisted investigation.",
+   "project": "06",
+   "project_name": "AI Law & Investigation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-17",
+   "end": "2026-12-19",
+   "dates": "17–19 Dec 2026",
+   "name": "IEEE ICRM 2026 – Robotics and Mechatronics",
+   "url": "https://www.amrita.edu/events/icrm/",
+   "city": "Amritapuri, Kerala",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "Amrita Vishwa Vidyapeetham",
+   "note": "2nd IEEE International Conference on Robotics and Mechatronics.",
+   "project": "11",
+   "project_name": "AI Robotics",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-17",
+   "end": "2026-12-19",
+   "dates": "17–19 Dec 2026",
+   "name": "SPELLL 2026 – Speech & Language Technologies for Low-Resource Languages",
+   "url": "https://spelll.org/",
+   "city": "Coimbatore (Amrita Vishwa Vidyapeetham) and hybrid",
+   "country": "India",
+   "region": "India",
+   "format": "hybrid",
+   "organiser": "Amrita Vishwa Vidyapeetham",
+   "note": "Language AI for low-resource languages.",
+   "project": "25",
+   "project_name": "AI Languages & Translation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "dates": "17–20 Dec 2026",
+   "name": "PIFFI 2026 – People's International Film Festival of India",
+   "url": "https://www.piffi.in/",
+   "city": "Bhopal",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "PIFFI",
+   "note": "1st edition, with an AI-Assisted Films category.",
+   "project": "01",
+   "project_name": "AI Filmmaking",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-18",
+   "end": "2026-12-19",
+   "dates": "18–19 Dec 2026",
+   "name": "SGCNSP 2026 – Signal Processing for Wireless Communication & Networking",
+   "url": "https://sgcnsp.com/",
+   "city": "Warangal (Vaagdevi Engineering College)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "SGCNSP",
+   "note": "Includes AI for wireless networking; papers due 15 Nov.",
+   "project": "40",
+   "project_name": "AI Telecom & Connectivity",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "dates": "18–20 Dec 2026",
+   "name": "IEEE INDICON 2026",
+   "url": "https://www.indicon2026.com/",
+   "city": "Chennai (Sri Sairam Engineering College)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IEEE India Council",
+   "note": "Theme: Net-Zero Cyber-Physical Intelligence – AI, 6G & sustainable electronics.",
+   "project": "10",
+   "project_name": "AI Engineering",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  },
+  {
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "dates": "18–20 Dec 2026",
+   "name": "IndoML 2026",
+   "url": "https://indoml.in/",
+   "city": "Kolkata (IIT Kharagpur Kolkata Extension Centre)",
+   "country": "India",
+   "region": "India",
+   "format": "in-person",
+   "organiser": "IIT Kharagpur with BITS Pilani APPCAIR",
+   "note": "ML symposium; theme: Responsible AI in the Age of Innovation.",
+   "project": "30",
+   "project_name": "AI Research & Innovation",
+   "india": true,
+   "cardiology": false,
+   "months": [
+    "2026-12"
+   ]
+  }
+ ]
+}
