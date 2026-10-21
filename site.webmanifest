@@ -1,7 +1,9 @@
 {
  "name": "Journal of the AI Universe",
  "short_name": "AI Universe",
- "start_url": "./",
+ "id": "/",
+ "start_url": "/",
+ "scope": "/",
  "display": "standalone",
  "background_color": "#060b22",
  "theme_color": "#060b22",

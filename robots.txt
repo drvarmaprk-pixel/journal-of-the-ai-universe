@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drvarmaprk-pixel.github.io/journal-of-the-ai-universe/sitemap.xml
-Sitemap: https://drvarmaprk-pixel.github.io/journal-of-the-ai-universe/news-sitemap.xml
+Sitemap: https://aiuniversejournal.org/sitemap.xml
+Sitemap: https://aiuniversejournal.org/news-sitemap.xml
