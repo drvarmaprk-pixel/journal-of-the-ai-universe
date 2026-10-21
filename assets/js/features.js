@@ -321,3 +321,121 @@
   });
   Array.prototype.forEach.call(d.querySelectorAll(".rpanel .native"), function (b) { if (navigator.share) b.hidden = false; });
 })();
+/* ---- signature features: chart tooltips + roving focus, Intelligence Atlas, swipe stories, daily quiz ---- */
+(function () {
+  "use strict";
+  var d = document;
+  function $$(s, el) { return Array.prototype.slice.call((el || d).querySelectorAll(s)); }
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]; }); }
+  function ls(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+  /* tooltips for SVG charts (pulse, sky) */
+  function showTip(el) {
+    var viz = el.closest(".viz"); if (!viz) return; var tip = viz.querySelector(".vtip"); if (!tip) return;
+    var r = el.getBoundingClientRect(), v = viz.getBoundingClientRect();
+    tip.textContent = el.getAttribute("data-tip"); tip.hidden = false;
+    var x = r.left + r.width / 2 - v.left, w = tip.offsetWidth;
+    tip.style.left = Math.max(4, Math.min(v.width - w - 4, x - w / 2)) + "px";
+    tip.style.top = Math.max(0, r.top - v.top - tip.offsetHeight - 6) + "px";
+    $$(".cur", viz).forEach(function (x) { x.classList.remove("cur"); }); el.classList.add("cur"); viz.dataset.tipFor = el.getAttribute("data-tip");
+  }
+  function hideTip(viz) { var t = viz && viz.querySelector(".vtip"); if (t) t.hidden = true; if (viz) { viz.dataset.tipFor = ""; $$(".cur", viz).forEach(function (x) { x.classList.remove("cur"); }); } }
+  $$(".viz").forEach(function (viz) {
+    viz.addEventListener("pointerover", function (e) { var a = e.target.closest("[data-tip]"); if (a && e.pointerType === "mouse") showTip(a); });
+    viz.addEventListener("pointerleave", function () { hideTip(viz); });
+    viz.addEventListener("focusin", function (e) { var a = e.target.closest("[data-tip]"); if (a) showTip(a); });
+    viz.addEventListener("focusout", function () { hideTip(viz); });
+    var lastType = "mouse"; viz.addEventListener("pointerdown", function (e) { lastType = e.pointerType; });
+    viz.addEventListener("click", function (e) {
+      var a = e.target.closest("[data-tip]"); if (!a) return;
+      if (a.classList.contains("st") && a.closest("svg.atl")) { e.preventDefault(); selectStar(a); return; }
+      if (lastType !== "mouse" && viz.dataset.tipFor !== a.getAttribute("data-tip")) { e.preventDefault(); showTip(a); }   /* first tap shows, second opens */
+    });
+  });
+  /* roving focus: one tab stop per chart, arrow keys move */
+  $$("svg.rov").forEach(function (svg) {
+    var items = $$("a", svg);
+    svg.addEventListener("keydown", function (e) {
+      var i = items.indexOf(d.activeElement); if (i < 0) return;
+      var k = e.key, j = i;
+      if (k === "ArrowRight" || k === "ArrowDown") j = Math.min(items.length - 1, i + 1);
+      else if (k === "ArrowLeft" || k === "ArrowUp") j = Math.max(0, i - 1);
+      else if (k === "Home") j = 0; else if (k === "End") j = items.length - 1;
+      else if ((k === "Enter" || k === " ") && items[i].classList.contains("st") && svg.classList.contains("atl")) { e.preventDefault(); selectStar(items[i]); return; }
+      else return;
+      e.preventDefault(); items[i].setAttribute("tabindex", "-1"); items[j].setAttribute("tabindex", "0"); items[j].focus();
+    });
+  });
+  /* Intelligence Atlas */
+  var atlas = null, atlasP = null;
+  function loadAtlas(sec) {
+    if (atlasP) return atlasP;
+    atlasP = fetch(sec.dataset.atlas).then(function (r) { return r.json(); }).then(function (j) { atlas = j; return j; });
+    return atlasP;
+  }
+  function selectStar(a) {
+    var sec = a.closest(".skymap"), svg = a.closest("svg"), g = svg.querySelector(".alinks"), panel = sec.querySelector(".apanel"), rel = sec.dataset.rel;
+    loadAtlas(sec).then(function (A) {
+      var n = a.dataset.n, c = A.cats[n]; g.innerHTML = "";
+      $$(".st", svg).forEach(function (s) { s.classList.remove("sel", "lnk"); }); a.classList.add("sel");
+      var max = c.links.length ? c.links[0][1] : 1, ns = "http://www.w3.org/2000/svg";
+      c.links.forEach(function (l) {
+        var b = svg.querySelector('.st[data-n="' + l[0] + '"]'); if (!b) return; b.classList.add("lnk");
+        var ln = d.createElementNS(ns, "line");
+        ln.setAttribute("x1", a.dataset.x); ln.setAttribute("y1", a.dataset.y); ln.setAttribute("x2", b.dataset.x); ln.setAttribute("y2", b.dataset.y);
+        ln.setAttribute("stroke-width", (0.6 + 1.6 * l[1] / max).toFixed(2)); g.appendChild(ln);
+      });
+      var nn = ("0" + n).slice(-2);
+      panel.innerHTML = '<h3>' + nn + " " + esc(c.name) + '</h3><p><a href="' + rel + "issues/" + sec.dataset.d + "/#p" + nn + '">Open in today’s issue →</a></p>' +
+        (c.links.length ? '<p class="small">Shares companies and topics with (last ' + A.days + " days):</p><ul>" + c.links.map(function (l) {
+          var m = ("0" + l[0]).slice(-2); return '<li><a href="' + rel + "issues/" + sec.dataset.d + "/#p" + m + '">' + m + " " + esc(A.cats[l[0]].name) + "</a>: " + esc(l[2].join(", ")) + "</li>"; }).join("") + "</ul>"
+          : '<p class="small">No shared companies or topics with other categories in the last ' + A.days + " days.</p>") +
+        (c.latest.length ? '<p class="small">Latest items:</p><ul>' + c.latest.map(function (x) { return '<li><a href="' + rel + x[1] + '">' + esc(x[0]) + "</a></li>"; }).join("") + "</ul>" : "") +
+        '<button type="button" class="pill aclose">Clear selection</button>';
+      panel.hidden = false;
+    }).catch(function () { location.href = a.getAttribute("href"); });
+  }
+  d.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest(".aclose"); if (!b) return;
+    var sec = b.closest(".skymap"); sec.querySelector(".alinks").innerHTML = ""; sec.querySelector(".apanel").hidden = true;
+    var s = sec.querySelector(".st.sel"); $$(".st", sec).forEach(function (x) { x.classList.remove("sel", "lnk"); }); if (s) s.focus();
+  });
+  /* swipe stories */
+  $$(".story").forEach(function (st) {
+    var sc = st.querySelector(".scards"); if (!sc) return;
+    var cards = $$(".scard", sc), dots = $$(".sdot", st);
+    function idx() { return Math.round(sc.scrollLeft / Math.max(1, sc.clientWidth)); }
+    function go(i) { i = Math.max(0, Math.min(cards.length - 1, i)); sc.scrollTo({left: i * sc.clientWidth, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"}); }
+    function paint() { var i = idx(); dots.forEach(function (x, k) { if (k === i) x.setAttribute("aria-current", "true"); else x.removeAttribute("aria-current"); }); }
+    sc.addEventListener("scroll", function () { clearTimeout(sc._t); sc._t = setTimeout(paint, 60); });
+    dots.forEach(function (x, k) { x.addEventListener("click", function () { go(k); }); });
+    st.querySelector(".sprev").addEventListener("click", function () { go(idx() - 1); });
+    st.querySelector(".snext").addEventListener("click", function () { go(idx() + 1); });
+    sc.addEventListener("keydown", function (e) { if (e.key === "ArrowRight") { e.preventDefault(); go(idx() + 1); } if (e.key === "ArrowLeft") { e.preventDefault(); go(idx() - 1); } });
+  });
+  /* daily quiz: score + day streak in localStorage */
+  var qf = d.querySelector("form.quiz");
+  if (qf) {
+    var date = qf.dataset.date, dates = (qf.dataset.dates || "").split(" ").filter(Boolean), qs = $$(".qq", qf);
+    var store; try { store = JSON.parse(ls("rkv-quiz") || "{}"); } catch (e) { store = {}; }
+    function streak() { var s = 0; for (var i = dates.length - 1; i >= 0; i--) { if (store[dates[i]] !== undefined) s++; else if (dates[i] !== dates[dates.length - 1]) break; } return s; }
+    function result() {
+      var res = qf.querySelector(".qres"), sc = 0, done = 0;
+      qs.forEach(function (q) { if (q.dataset.done) { done++; if (q.dataset.ok === "1") sc++; } });
+      if (done < qs.length) return;
+      if (store[date] === undefined) { store[date] = sc; ls("rkv-quiz", JSON.stringify(store)); }
+      var st = streak();
+      res.innerHTML = "<p><strong>You scored " + sc + " out of " + qs.length + ".</strong> " + (st > 1 ? "Day streak: " + st + " issues in a row." : "Come back for the next issue to start a streak.") + "</p>";
+      res.hidden = false;
+    }
+    qs.forEach(function (q) {
+      q.addEventListener("change", function (e) {
+        if (q.dataset.done) return; var v = +e.target.value, a = +q.dataset.a, ok = v === a;
+        q.dataset.done = "1"; q.dataset.ok = ok ? "1" : "0";
+        $$("input", q).forEach(function (i) { i.disabled = true; var l = i.closest(".qopt"); if (+i.value === a) l.classList.add("right"); else if (+i.value === v) l.classList.add("wrong"); });
+        q.querySelector(".qfb").textContent = ok ? "Correct." : "Not quite: the answer is “" + q.querySelectorAll(".qopt span")[a].textContent + "”.";
+        q.querySelector(".qexp").hidden = false; result();
+      });
+    });
+    if (store[date] !== undefined) { var p = d.createElement("p"); p.className = "small"; p.textContent = "You took this quiz before and scored " + store[date] + " out of " + qs.length + ". Your first score is the one that counts."; qf.insertBefore(p, qf.firstChild); }
+  }
+})();
