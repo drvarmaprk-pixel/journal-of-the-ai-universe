@@ -245,6 +245,17 @@ html[data-theme=light] .themebtn .ti::before{content:"☾"}
 .orcid a{display:inline-flex;align-items:center;gap:8px;font-weight:600;min-height:44px;overflow-wrap:anywhere}.orcid img{flex:none}
 .pol .card h2{scroll-margin-top:80px}.pol li{margin:.45em 0}
 .corr{border-left:4px solid var(--gold2)}
+/* evidence labels, top stories, India & Andhra Pradesh, publication times (21 Oct 2026): plain text, no badges */
+.imeta{display:block;font-size:.8rem;color:var(--mute);letter-spacing:.02em;margin-top:.2em}
+p.imeta{margin:.25em 0 0}
+.clin{display:block;font-size:.85rem;color:var(--mute);margin-top:.2em}
+.clin .ck,.tlines .ck{font-weight:600}
+.tlines{display:block;font-size:.9rem;margin-top:.25em}.tlines>span{display:block}
+.pubt{color:var(--mute);font-size:.9rem;margin:.5em 0 0}
+.tlist{padding-left:1.3em;margin:.4em 0 0}.tlist>li{margin:.9em 0}
+.tst{margin:0;font-weight:600}.tno{font-weight:400;font-size:.85rem;color:var(--mute);white-space:nowrap}
+.tl{margin:.35em 0 0}.tl div{margin:.15em 0}.tl dt{display:inline;font-weight:600}.tl dt:after{content:": "}.tl dd{display:inline;margin:0}
+.clog{padding-left:1.1em}.clog li{margin:.5em 0}
 
 /* light theme: generated colour overrides */
 html[data-theme=light] a:hover{color:var(--ink)}
