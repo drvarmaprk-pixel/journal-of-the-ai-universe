@@ -207,3 +207,117 @@
     addEventListener("load", function () { navigator.serviceWorker.register(ROOT + "sw.js").catch(function () {}); });
   }
 })();
+/* ---- batch 2: text size, expand/collapse, 'New today' expiry, save for later, audio speed ---- */
+(function () {
+  "use strict";
+  var d = document;
+  function ls(k, v) { try { if (v === undefined) return localStorage.getItem(k); if (v === null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) { return null; } }
+  function $$(s, el) { return Array.prototype.slice.call((el || d).querySelectorAll(s)); }
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]; }); }
+  var me = d.querySelector('script[src*="assets/js/features.js"]'), ROOT = me ? me.src.replace(/assets\/js\/features\.js.*$/, "") : "/";
+  /* text size */
+  var STEPS = [0.9, 1, 1.12, 1.25, 1.4];
+  function curTs() { var v = parseFloat(ls("rkv-ts")) || 1, i = STEPS.indexOf(v); return i < 0 ? 1 : i; }
+  function applyTs(i) {
+    var v = STEPS[i]; d.documentElement.style.setProperty("--ts", v); if (v === 1) ls("rkv-ts", null); else ls("rkv-ts", String(v));
+    $$('.tsize [data-ts="-"]').forEach(function (b) { b.disabled = i === 0; });
+    $$('.tsize [data-ts="+"]').forEach(function (b) { b.disabled = i === STEPS.length - 1; });
+    $$('.tsize [data-ts="0"]').forEach(function (b) { b.setAttribute("aria-pressed", String(v === 1)); });
+  }
+  applyTs(curTs());
+  d.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest(".tsize button"); if (!b) return;
+    var i = curTs(); i = b.dataset.ts === "+" ? Math.min(STEPS.length - 1, i + 1) : b.dataset.ts === "-" ? Math.max(0, i - 1) : 1; applyTs(i);
+  });
+  /* expand / collapse category sections (issue pages) */
+  function setCol(a, open) {
+    a.classList.toggle("collapsed", !open);
+    var b = a.querySelector(".colb"); if (!b) return;
+    b.setAttribute("aria-expanded", String(open)); b.firstChild.textContent = open ? "Collapse" : "Expand";
+  }
+  d.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest(".colb, [data-col]"); if (!b) return;
+    if (b.classList.contains("colb")) { var a = b.closest(".brief"); setCol(a, a.classList.contains("collapsed")); return; }
+    $$(".brief").forEach(function (a) { setCol(a, b.dataset.col === "open"); });
+  });
+  function openFor(hash) {
+    if (!hash || hash.length < 2) return;
+    var t; try { t = d.getElementById(decodeURIComponent(hash.slice(1))); } catch (e) { t = null; }
+    var a = t && (t.classList.contains("brief") ? t : t.closest(".brief"));
+    if (a && a.classList.contains("collapsed")) setCol(a, true);
+  }
+  d.addEventListener("click", function (e) {   /* before the browser jumps: open the target section (Contents jumps, story links) */
+    var l = e.target.closest && e.target.closest('a[href*="#"]'); if (!l) return;
+    if (l.pathname === location.pathname && l.hash) openFor(l.hash);
+  }, true);
+  addEventListener("hashchange", function () { openFor(location.hash); });
+  openFor(location.hash);
+  /* 'New today' markers disappear 24 h after publication */
+  var now = Date.now();
+  $$(".newb[data-pub]").forEach(function (s) { var t = Date.parse(s.dataset.pub); if (t && now - t > 864e5) s.hidden = true; });
+  /* save for later */
+  var SK = "rkv-saved";
+  function getS() { try { var a = JSON.parse(ls(SK) || "[]"); return Array.isArray(a) ? a : []; } catch (e) { return []; } }
+  function urlOf(b) { var li = b.closest("li"); return b.dataset.u || (location.origin + location.pathname + "#" + (li ? li.id : "")); }
+  function paintS() {
+    var urls = getS().map(function (x) { return x.u; });
+    $$(".savb").forEach(function (b) { var on = urls.indexOf(urlOf(b)) >= 0; b.setAttribute("aria-pressed", String(on)); b.classList.toggle("on", on); b.querySelector(".savl").textContent = on ? "Saved" : "Save"; });
+  }
+  d.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest(".savb"); if (!b) return;
+    var s = getS(), u = urlOf(b), i = -1;
+    s.forEach(function (x, k) { if (x.u === u) i = k; });
+    if (i >= 0) s.splice(i, 1);
+    else { var li = b.closest("li"), a = li && li.querySelector("a"); s.unshift({u: u, t: a ? a.textContent.trim() : d.title, p: b.dataset.p || "", d: b.dataset.d || "", src: a ? a.href : ""}); }
+    ls(SK, JSON.stringify(s.slice(0, 300))); paintS(); renderSaved();
+  });
+  var list = d.getElementById("savedlist");
+  function renderSaved() {
+    if (!list) return;
+    var s = getS();
+    list.innerHTML = s.map(function (x, k) {
+      return '<li><p class="tst"><a href="' + esc(x.u) + '">' + esc(x.t) + '</a></p><p class="imeta">' + esc(x.d) + (x.p ? " · " + esc(x.p) : "") +
+        (x.src ? ' · <a href="' + esc(x.src) + '" rel="noopener" target="_blank">Source</a>' : "") +
+        ' <button type="button" class="sh unsave" data-k="' + k + '">Remove<span class="vh"> ' + esc(x.t) + "</span></button></p></li>";
+    }).join("");
+    d.getElementById("savednone").hidden = s.length > 0; d.getElementById("savedclear").hidden = !s.length;
+  }
+  if (list) {
+    list.addEventListener("click", function (e) { var b = e.target.closest(".unsave"); if (!b) return; var s = getS(); s.splice(+b.dataset.k, 1); ls(SK, JSON.stringify(s)); renderSaved(); });
+    d.getElementById("savedclear").addEventListener("click", function () { ls(SK, null); renderSaved(); });
+  }
+  paintS(); renderSaved();
+  /* audio playback speed */
+  $$(".aspeed").forEach(function (g) {
+    var au = g.closest(".listen").querySelector("audio");
+    g.addEventListener("click", function (e) {
+      var b = e.target.closest("button"); if (!b || !au) return;
+      au.playbackRate = +b.dataset.r; $$("button", g).forEach(function (x) { x.setAttribute("aria-pressed", String(x === b)); });
+    });
+  });
+})();
+/* ---- reader toolbar panels ---- */
+(function () {
+  "use strict";
+  var d = document;
+  function close(except) {
+    Array.prototype.forEach.call(d.querySelectorAll('.rb[aria-expanded="true"]'), function (b) {
+      if (b === except) return; b.setAttribute("aria-expanded", "false"); var p = d.getElementById(b.getAttribute("aria-controls")); if (p) p.hidden = true;
+    });
+  }
+  d.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest(".rb[aria-controls]");
+    if (b) { var p = d.getElementById(b.getAttribute("aria-controls")), open = b.getAttribute("aria-expanded") !== "true";
+      close(b); b.setAttribute("aria-expanded", String(open)); p.hidden = !open;
+      if (open) { var f = p.querySelector("button:not([hidden]):not(:disabled), a, audio"); if (f && !matchMedia("(pointer:coarse)").matches) f.focus(); }
+      return; }
+    var t = e.target.closest && e.target.closest(".thm"); if (t) { var tb = d.getElementById("themebtn"); if (tb) tb.click(); return; }
+    if (!(e.target.closest && e.target.closest(".rbar"))) close();
+  });
+  d.addEventListener("keydown", function (e) {
+    if (e.key !== "Escape") return;
+    var p = e.target.closest && e.target.closest(".rbar"); if (!p) return;
+    var b = p.querySelector('.rb[aria-expanded="true"]'); if (b) { close(); b.focus(); }
+  });
+  Array.prototype.forEach.call(d.querySelectorAll(".rpanel .native"), function (b) { if (navigator.share) b.hidden = false; });
+})();
