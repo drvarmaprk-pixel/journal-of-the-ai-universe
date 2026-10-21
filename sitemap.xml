@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://aiuniversejournal.org/issues/2026-10-21/</loc><lastmod>2026-10-21</lastmod></url>
-<url><loc>https://aiuniversejournal.org/issues/2026-10-20/</loc><lastmod>2026-10-20</lastmod></url>
-<url><loc>https://aiuniversejournal.org/issues/2026-10-19/</loc><lastmod>2026-10-19</lastmod></url>
-<url><loc>https://aiuniversejournal.org/issues/2026-10-18/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://aiuniversejournal.org/issues/2026-10-20/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://aiuniversejournal.org/issues/2026-10-19/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://aiuniversejournal.org/issues/2026-10-18/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/projects/01-ai-filmmaking/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/projects/02-ai-agriculture/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/projects/03-ai-defence/</loc><lastmod>2026-10-21</lastmod></url>
@@ -128,10 +128,12 @@
 <url><loc>https://aiuniversejournal.org/tags/benchmarks/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/shopify/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/open-models/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://aiuniversejournal.org/tags/alibaba/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/google/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/openai/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/humanoid-robots/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/data-centres/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://aiuniversejournal.org/tags/reinforcement-learning/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/autonomous-vehicles/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/nvidia/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/siemens/</loc><lastmod>2026-10-21</lastmod></url>
@@ -140,11 +142,9 @@
 <url><loc>https://aiuniversejournal.org/tags/nih/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/drug-discovery/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/brain-computer-interfaces/</loc><lastmod>2026-10-21</lastmod></url>
-<url><loc>https://aiuniversejournal.org/tags/reinforcement-learning/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/amd/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/intel/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/anthropic/</loc><lastmod>2026-10-21</lastmod></url>
-<url><loc>https://aiuniversejournal.org/tags/alibaba/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/medical-imaging/</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/uber/</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://aiuniversejournal.org/tags/sony/</loc><lastmod>2026-10-20</lastmod></url>
