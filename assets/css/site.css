@@ -330,6 +330,9 @@ html[data-theme=light] .jlist a.on{background:rgba(11,92,128,.1);color:#000;box-
   .ilay [id],.ilay h2,.ilay h3{scroll-margin-top:var(--anchor)}
   .icol>.groups>.grp:first-child,.icol>.igrp:first-child .ghead{margin-top:42px}
 }
+/* main nav: Research link (21 Oct 2026). Nine links on one line from 900px: "R&D Intelligence" shows as "R&D" from 900 to 1199px (full label in the phone menu and from 1200px, with slightly tighter link padding). */
+@media(min-width:900px){.top nav .nlong{display:none}}
+@media(min-width:1200px){.top nav .nlong{display:inline}.top nav{gap:2px}.top nav a{padding:8px 7px}}
 
 /* light theme: generated colour overrides */
 html[data-theme=light] a:hover{color:var(--ink)}
