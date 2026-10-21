@@ -422,3 +422,8 @@ body{line-height:1.65;text-rendering:optimizeLegibility;-webkit-font-smoothing:a
 .lhead{display:none}
 .dnote .lv[lang=te] p,.dnote .lv[lang=hi] p{font-style:normal;font-size:1.02rem;line-height:1.75}
 .listen .aspeed{margin-top:8px}
+/* translations paused: disabled switch */
+.lswitch.off{flex-wrap:wrap;align-items:center;row-gap:2px}
+.lswitch.off button[aria-disabled=true]{color:var(--mute);cursor:not-allowed;font-family:system-ui,sans-serif;opacity:.75}
+.lswitch.off .lsoon{padding:0 .7em 0 .3em;font-size:.76rem;color:var(--mute);white-space:nowrap}
+@media (max-width:420px){.lswitch.off{border-radius:14px}.lswitch.off .lsoon{flex-basis:100%;padding:2px .8em 4px}}

@@ -441,12 +441,12 @@
     if (store[date] !== undefined) { var p = d.createElement("p"); p.className = "small"; p.textContent = "You took this quiz before and scored " + store[date] + " out of " + qs.length + ". Your first score is the one that counts."; qf.insertBefore(p, qf.firstChild); }
   }
 })();
-/* ---- language switch (English | తెలుగు | हिन्दी) and remembered audio speed ---- */
+/* ---- language switch (English | Telugu | Hindi) and remembered audio speed ---- */
 (function () {
   "use strict";
   var d = document;
   function ls(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
-  var sw = d.querySelectorAll(".lswitch button");
+  var sw = d.querySelectorAll(".lswitch button[data-setlang]");
   function apply(code) {
     if (!d.querySelector('.lv[data-l="' + code + '"]')) code = "en";
     Array.prototype.forEach.call(d.querySelectorAll(".lv"), function (v) {
