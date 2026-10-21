@@ -1,7 +1,8 @@
 /* Journal of the AI Universe: midnight-blue cosmic, gold serif headings, ice-blue accents. Mobile-first. */
 :root{--bg:#050a1c;--ink:#eef1f8;--mute:#b9c2d8;--gold:#f6c66a;--gold2:#e7b85a;--ice:#7fdcff;--card:rgba(10,17,42,.78);--line:rgba(246,198,106,.28);--c:#f6c66a}
 *{box-sizing:border-box}
-html{scroll-behavior:smooth;scroll-padding-top:76px}
+html{scroll-behavior:smooth;--hdrh:64px;--anchor:calc(var(--hdrh) + 14px)}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-text-size-adjust:100%}
 body::before{content:"";position:fixed;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(5,10,28,.15),rgba(5,10,28,.65)),url(../img/cosmos-m.webp) center top/cover no-repeat,var(--bg)}
 @media(min-width:800px){body::before{background:linear-gradient(180deg,rgba(5,10,28,.1),rgba(5,10,28,.6)),url(../img/cosmos.webp) center top/cover no-repeat,var(--bg)}}
@@ -11,7 +12,7 @@ h1,h2,h3,h4{font-variant-numeric:lining-nums;font-family:"Playfair Display",Geor
 h1{font-size:clamp(2rem,6vw,3.4rem);font-weight:900;background:linear-gradient(180deg,#fff7de,#f7d488 45%,#c9913d 80%,#ffe6a8);-webkit-background-clip:text;background-clip:text;color:transparent}
 h2{font-size:clamp(1.35rem,3.6vw,1.9rem);color:var(--gold)}
 h3{font-size:1.2rem;color:#fff}
-.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+.wrap{max-width:1180px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-right)) 0 max(16px,env(safe-area-inset-left))}
 .narrow{max-width:860px}
 .skip{position:absolute;left:-999px}.skip:focus{left:8px;top:8px;background:#fff;color:#000;padding:6px;z-index:99}
 .kick{font:600 .74rem/1.4 Inter,sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#e9d7a8;margin:0 0 .6em}
@@ -243,7 +244,7 @@ html[data-theme=light] .themebtn .ti::before{content:"☾"}
 .edcard>div{flex:1;min-width:250px}
 .edphoto{width:200px;max-width:60%;height:auto;border-radius:18px;background:#fff;box-shadow:0 0 0 3px var(--gold2),0 10px 30px rgba(0,0,0,.35)}
 .orcid a{display:inline-flex;align-items:center;gap:8px;font-weight:600;min-height:44px;overflow-wrap:anywhere}.orcid img{flex:none}
-.pol .card h2{scroll-margin-top:80px}.pol li{margin:.45em 0}
+.pol .card h2{scroll-margin-top:var(--anchor)}.pol li{margin:.45em 0}
 .corr{border-left:4px solid var(--gold2)}
 /* evidence labels, top stories, India & Andhra Pradesh, publication times (21 Oct 2026): plain text, no badges */
 .imeta{display:block;font-size:.8rem;color:var(--mute);letter-spacing:.02em;margin-top:.2em}
@@ -252,10 +253,83 @@ p.imeta{margin:.25em 0 0}
 .clin .ck,.tlines .ck{font-weight:600}
 .tlines{display:block;font-size:.9rem;margin-top:.25em}.tlines>span{display:block}
 .pubt{color:var(--mute);font-size:.9rem;margin:.5em 0 0}
+.doi{color:var(--mute);font-size:.92rem;margin:.7em 0 0}.doi a{font-weight:600}
 .tlist{padding-left:1.3em;margin:.4em 0 0}.tlist>li{margin:.9em 0}
 .tst{margin:0;font-weight:600}.tno{font-weight:400;font-size:.85rem;color:var(--mute);white-space:nowrap}
 .tl{margin:.35em 0 0}.tl div{margin:.15em 0}.tl dt{display:inline;font-weight:600}.tl dt:after{content:": "}.tl dd{display:inline;margin:0}
 .clog{padding-left:1.1em}.clog li{margin:.5em 0}
+
+/* ===== sticky header, back to top, sticky contents (21 Oct 2026; assets/js/site.js) ===== */
+/* anchors land below the sticky header (and below the Contents bar on issue pages; --anchor is widened there) */
+[id],h2,h3{scroll-margin-top:var(--anchor)}
+#main{scroll-margin-top:0}
+.top .topin,.top .brand img{transition:min-height .2s ease,width .2s ease,height .2s ease}
+.top.compact .topin{min-height:50px}
+.top.compact .brand img{width:34px;height:34px}
+.top.compact .brand small{display:none}
+.top .menu{display:inline-flex}
+@media(min-width:900px){.top .menu{display:none}}
+.topin.open nav{max-height:calc(100vh - 70px);max-height:calc(100dvh - 70px);overflow-y:auto;overscroll-behavior:contain}
+@media(prefers-reduced-motion:reduce){.top .topin,.top .brand img,.totop{transition:none}}
+
+/* back to top: hidden until the reader has scrolled about a screen; safe-area aware; navy/gold in both themes */
+.totop{position:fixed;right:max(16px,calc(env(safe-area-inset-right) + 12px));bottom:max(16px,calc(env(safe-area-inset-bottom) + 12px));z-index:30;
+  width:46px;height:46px;border-radius:50%;display:flex;align-items:center;justify-content:center;padding:0;cursor:pointer;
+  font:700 1.35rem/1 Inter,system-ui,sans-serif;color:#0a1028;background:linear-gradient(180deg,#ffe6a8,#f6c66a 55%,#d9a24a);
+  border:1.5px solid rgba(255,255,255,.7);box-shadow:0 6px 18px rgba(0,0,0,.45),0 0 0 1px rgba(5,9,26,.6);
+  opacity:0;visibility:hidden;transform:translateY(10px);transition:opacity .2s ease,transform .2s ease,visibility 0s linear .2s}
+.totop.show{opacity:1;visibility:visible;transform:none;transition:opacity .2s ease,transform .2s ease}
+.totop:hover{filter:brightness(1.07)}
+.totop:focus-visible{outline:3px solid var(--ice);outline-offset:3px;border-radius:50%}
+html[data-theme=light] .totop{color:#f6c66a;background:linear-gradient(180deg,#14204a,#060b22);border-color:#b07d2a;box-shadow:0 6px 16px rgba(20,26,51,.3)}
+@media print{.totop,.jtoc{display:none!important}}
+
+/* sticky Contents: compact bar under the header on phones and tablets, side panel from 1200px */
+.ilay{position:relative}
+.jtoc{position:sticky;top:calc(var(--hdrh) + 8px);z-index:15;margin:22px 0 0}
+.jdet{position:relative}
+.jdet>summary{list-style:none;display:flex;align-items:center;gap:10px;min-height:46px;padding:8px 16px;border-radius:14px;cursor:pointer;
+  background:rgba(6,11,34,.95);border:1px solid var(--gold2);color:#eef1f8;box-shadow:0 6px 18px rgba(0,0,0,.35);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.jdet>summary::-webkit-details-marker{display:none}
+.jdet>summary::after{content:"";margin-left:auto;width:9px;height:9px;border:solid var(--gold);border-width:0 2px 2px 0;transform:rotate(45deg) translateY(-3px);flex:none}
+.jdet[open]>summary::after{transform:rotate(-135deg) translateY(-2px)}
+.jlab{font:700 .82rem Inter,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#f6c66a;flex:none}
+.jcur{font-size:.88rem;color:#cfd8ee;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.jlist{list-style:none;margin:6px 0 0;padding:6px 6px 10px;position:absolute;left:0;right:0;top:100%;
+  max-height:calc(100vh - var(--hdrh) - 150px - env(safe-area-inset-bottom));max-height:calc(100dvh - var(--hdrh) - 150px - env(safe-area-inset-bottom));overflow-y:auto;overscroll-behavior:contain;
+  background:rgba(6,11,34,.98);border:1px solid var(--gold2);border-radius:14px;box-shadow:0 14px 34px rgba(0,0,0,.5)}
+.jlist ul{list-style:none;margin:0 0 4px;padding:0;display:grid;grid-template-columns:1fr}
+@media(min-width:600px){.jlist ul{grid-template-columns:1fr 1fr}}
+.jlist a{display:flex;align-items:center;gap:8px;min-height:40px;padding:6px 10px;border-radius:8px;color:#e8edf8;text-decoration:none;font-size:.93rem;line-height:1.3}
+.jlist a:hover{background:rgba(255,255,255,.07);color:#fff}
+.jlist a.jg{font:700 .8rem Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--c);margin-top:4px}
+.jrng{font-variant-numeric:tabular-nums;flex:none;opacity:.9}
+.jno{font:700 .74rem Inter,sans-serif;font-variant-numeric:tabular-nums;color:#0a1028;background:var(--gold);border-radius:6px;padding:2px 5px;flex:none}
+.jlist a.on{background:rgba(127,220,255,.14);color:#fff;box-shadow:inset 3px 0 0 #7fdcff}
+.ilay [id],.ilay h2,.ilay h3{scroll-margin-top:calc(var(--hdrh) + 70px)}
+.icol>.groups>.grp:first-child,.icol>.igrp:first-child .ghead{margin-top:16px}
+html[data-theme=light] .jdet>summary{background:rgba(255,255,255,.97);color:#141a33;box-shadow:0 6px 18px rgba(20,26,51,.14);border-color:#b07d2a}
+html[data-theme=light] .jlab{color:#7d5208}
+html[data-theme=light] .jcur{color:#4a5470}
+html[data-theme=light] .jlist{background:#fff;box-shadow:0 14px 34px rgba(20,26,51,.2);border-color:#b07d2a}
+html[data-theme=light] .jlist a{color:#141a33}
+html[data-theme=light] .jlist a:hover{background:rgba(176,125,42,.1);color:#000}
+html[data-theme=light] .jlist a.jg{color:color-mix(in srgb,var(--c) 45%,#000)}
+html[data-theme=light] .jno{background:#f1d9a4;color:#3d2a05}
+html[data-theme=light] .jlist a.on{background:rgba(11,92,128,.1);color:#000;box-shadow:inset 3px 0 0 #0b5c80}
+@media(min-width:1200px){
+  .ilay{display:grid;grid-template-columns:232px minmax(0,1fr);gap:26px;align-items:start}
+  .jtoc{top:calc(var(--hdrh) + 16px);margin-top:42px}
+  .jdet>summary{min-height:42px;box-shadow:none;border-radius:12px 12px 0 0}
+  .jdet:not([open])>summary{border-radius:12px}
+  .jcur{display:none}
+  .jlist{position:static;margin:0;border-top:0;border-radius:0 0 12px 12px;box-shadow:none;max-height:calc(100vh - var(--hdrh) - 92px)}
+  .jlist ul{grid-template-columns:1fr}
+  .jlist a{min-height:32px;padding:4px 8px;font-size:.86rem}
+  .jlist a.jg{font-size:.72rem}
+  .ilay [id],.ilay h2,.ilay h3{scroll-margin-top:var(--anchor)}
+  .icol>.groups>.grp:first-child,.icol>.igrp:first-child .ghead{margin-top:42px}
+}
 
 /* light theme: generated colour overrides */
 html[data-theme=light] a:hover{color:var(--ink)}
@@ -304,6 +378,11 @@ html[data-theme=light] .rhome h2 a{color:var(--ink)}
 html[data-theme=light] .rcos a{color:var(--ink)}
 html[data-theme=light] .rtab th{background:rgba(176,125,42,.1)}
 @media(max-width:700px){html[data-theme=light] .rtab tr{background:rgba(20,26,51,.03)}}
+html[data-theme=light] .jdet>summary{color:var(--ink)}
+html[data-theme=light] .jcur{color:#3b4660}
+html[data-theme=light] .jlist a{color:var(--ink)}
+html[data-theme=light] .jlist a:hover{background:rgba(20,26,51,.07);color:var(--ink)}
+html[data-theme=light] .jlist a.on{color:var(--ink)}
 
 /* ===== light theme (generated by light_theme.py from the rules above) ===== */
 html[data-theme=light]{--bg:#f5f2ea;--ink:#141a33;--mute:#4a5470;--gold:#7d5208;--gold2:#b07d2a;--ice:#0b5c80;--card:#fff;--line:rgba(125,82,8,.28);color-scheme:light}
