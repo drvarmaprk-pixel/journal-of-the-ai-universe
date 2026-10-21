@@ -441,3 +441,30 @@
     if (store[date] !== undefined) { var p = d.createElement("p"); p.className = "small"; p.textContent = "You took this quiz before and scored " + store[date] + " out of " + qs.length + ". Your first score is the one that counts."; qf.insertBefore(p, qf.firstChild); }
   }
 })();
+/* ---- language switch (English | తెలుగు | हिन्दी) and remembered audio speed ---- */
+(function () {
+  "use strict";
+  var d = document;
+  function ls(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+  var sw = d.querySelectorAll(".lswitch button");
+  function apply(code) {
+    if (!d.querySelector('.lv[data-l="' + code + '"]')) code = "en";
+    Array.prototype.forEach.call(d.querySelectorAll(".lv"), function (v) {
+      var group = v.parentNode, has = group.querySelector(':scope > .lv[data-l="' + code + '"]');
+      v.hidden = v.dataset.l !== (has ? code : "en");
+    });
+    Array.prototype.forEach.call(sw, function (b) { b.setAttribute("aria-pressed", String(b.dataset.setlang === code)); });
+  }
+  if (sw.length) {
+    Array.prototype.forEach.call(sw, function (b) { b.addEventListener("click", function () { ls("rkv-lang", b.dataset.setlang); apply(b.dataset.setlang); }); });
+    apply(ls("rkv-lang") || "en");
+  }
+  var r = parseFloat(ls("rkv-speed"));
+  Array.prototype.forEach.call(d.querySelectorAll(".listen"), function (box) {
+    var au = box.querySelector("audio"), g = box.querySelector(".aspeed"); if (!au || !g) return;
+    function set(v) { au.playbackRate = v; au.defaultPlaybackRate = v; Array.prototype.forEach.call(g.querySelectorAll("button"), function (x) { x.setAttribute("aria-pressed", String(+x.dataset.r === v)); }); }
+    if (r && g.querySelector('button[data-r="' + r + '"]')) set(r);
+    au.addEventListener("play", function () { var v = parseFloat(ls("rkv-speed")); if (v) au.playbackRate = v; });
+    g.addEventListener("click", function (e) { var b = e.target.closest("button"); if (b) { ls("rkv-speed", b.dataset.r); set(+b.dataset.r); } });
+  });
+})();

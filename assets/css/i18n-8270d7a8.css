@@ -1,0 +1,4 @@
+@font-face{font-family:"Noto Sans Telugu RKV";src:url(../fonts/te-2799c8ea.woff2) format("woff2");font-weight:400 700;font-display:swap;unicode-range:U+0C00-0C7F,U+200C-200D,U+25CC}
+:lang(te){font-family:"Noto Sans Telugu RKV",Inter,system-ui,sans-serif}
+@font-face{font-family:"Noto Sans Devanagari RKV";src:url(../fonts/hi-6228ac57.woff2) format("woff2");font-weight:400 700;font-display:swap;unicode-range:U+0900-097F,U+A8E0-A8FF,U+1CD0-1CFF,U+200C-200D,U+25CC}
+:lang(hi){font-family:"Noto Sans Devanagari RKV",Inter,system-ui,sans-serif}
