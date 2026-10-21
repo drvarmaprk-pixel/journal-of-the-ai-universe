@@ -1,22 +1,81 @@
 {
  "name": "Journal of the AI Universe",
  "short_name": "AI Universe",
+ "description": "Daily AI News Updates: The latest AI news across every dimension of human civilisation. Curated by Dr.P.R.K.Varma.",
  "id": "/",
- "start_url": "/",
+ "start_url": "/?source=pwa",
  "scope": "/",
  "display": "standalone",
+ "display_override": [
+  "standalone",
+  "minimal-ui"
+ ],
+ "orientation": "any",
+ "lang": "en-GB",
+ "dir": "ltr",
+ "categories": [
+  "news",
+  "education",
+  "science"
+ ],
  "background_color": "#060b22",
  "theme_color": "#060b22",
  "icons": [
   {
-   "src": "assets/img/icon-192.png",
+   "src": "/assets/img/icon-192.png",
    "sizes": "192x192",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   },
   {
-   "src": "assets/img/emblem-512.png",
+   "src": "/assets/img/emblem-512.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/assets/img/icon-maskable-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "/assets/img/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Latest issue",
+   "url": "/issues/2026-10-21/",
+   "icons": [
+    {
+     "src": "/assets/img/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Search",
+   "url": "/search/",
+   "icons": [
+    {
+     "src": "/assets/img/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  },
+  {
+   "name": "Best of the week",
+   "url": "/weekly/",
+   "icons": [
+    {
+     "src": "/assets/img/icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
   }
  ]
 }
