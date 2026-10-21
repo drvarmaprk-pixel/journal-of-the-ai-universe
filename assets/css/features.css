@@ -325,3 +325,10 @@ a.gl{text-decoration-style:dotted}
 /* keep the desktop header on one line from 900px (with the search button) */
 @media (min-width:900px) and (max-width:1139px){#mainnav a{padding-left:.42em!important;padding-right:.42em!important;font-size:.86rem}.brand small{display:none}.brand b{font-size:.95rem}}
 @media (min-width:900px) and (max-width:999px){.top nav{gap:0}#mainnav a{padding-left:.36em!important;padding-right:.36em!important;font-size:.8rem}.brand b{font-size:.9rem}.brand img{width:36px;height:36px}}
+/* sky map on phones: keep stars tappable; the sky scrolls sideways */
+@media (max-width:599px){
+ .skymap .viz{overflow-x:auto;overscroll-behavior-x:contain;border-radius:14px;scrollbar-width:thin}
+ .skymap .skysvg{width:600px;max-width:none}
+ .skymap .vhint{display:block}
+}
+.vhint{display:none;margin:.3em 0 0;font-size:.8rem;color:var(--mute)}

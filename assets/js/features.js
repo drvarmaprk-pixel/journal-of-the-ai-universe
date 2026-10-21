@@ -334,7 +334,8 @@
     var r = el.getBoundingClientRect(), v = viz.getBoundingClientRect();
     tip.textContent = el.getAttribute("data-tip"); tip.hidden = false;
     var x = r.left + r.width / 2 - v.left, w = tip.offsetWidth;
-    tip.style.left = Math.max(4, Math.min(v.width - w - 4, x - w / 2)) + "px";
+    var sl = viz.scrollLeft || 0;
+    tip.style.left = (sl + Math.max(4, Math.min(v.width - w - 4, x - w / 2))) + "px";
     tip.style.top = Math.max(0, r.top - v.top - tip.offsetHeight - 6) + "px";
     $$(".cur", viz).forEach(function (x) { x.classList.remove("cur"); }); el.classList.add("cur"); viz.dataset.tipFor = el.getAttribute("data-tip");
   }
@@ -347,10 +348,11 @@
     var lastType = "mouse"; viz.addEventListener("pointerdown", function (e) { lastType = e.pointerType; });
     viz.addEventListener("click", function (e) {
       var a = e.target.closest("[data-tip]"); if (!a) return;
-      if (a.classList.contains("st") && a.closest("svg.atl")) { e.preventDefault(); selectStar(a); return; }
+      if (a.classList.contains("st") && a.closest("svg.atl")) { e.preventDefault(); if (lastType !== "mouse") hideTip(viz); selectStar(a); return; }
       if (lastType !== "mouse" && viz.dataset.tipFor !== a.getAttribute("data-tip")) { e.preventDefault(); showTip(a); }   /* first tap shows, second opens */
     });
   });
+  $$(".skymap .viz").forEach(function (v) { if (v.scrollWidth > v.clientWidth) v.scrollLeft = (v.scrollWidth - v.clientWidth) / 2; });
   /* roving focus: one tab stop per chart, arrow keys move */
   $$("svg.rov").forEach(function (svg) {
     var items = $$("a", svg);
