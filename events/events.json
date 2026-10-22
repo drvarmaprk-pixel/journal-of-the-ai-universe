@@ -1,48 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 312,
+ "count": 310,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-10-18",
-   "end": "2026-10-21",
-   "dates": "18–21 Oct 2026",
-   "name": "Money20/20 USA 2026",
-   "url": "https://us.money2020.com/",
-   "city": "Las Vegas",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Money20/20",
-   "note": "Fintech flagship under way; agenda on agentic AI, fraud and payments.",
-   "project": "05",
-   "project_name": "AI Finance",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-10"
-   ]
-  },
-  {
-   "start": "2026-10-19",
-   "end": "2026-10-21",
-   "dates": "19–21 Oct 2026",
-   "name": "LocWorld56 Vancouver",
-   "url": "https://locworld.com/events/locworld56-vancouver-2026/",
-   "city": "Vancouver",
-   "country": "Canada",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "LocWorld",
-   "note": "Under way: AI at scale and human governance of AI localisation workflows.",
-   "project": "25",
-   "project_name": "AI Languages & Translation",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-10"
-   ]
-  },
   {
    "start": "2026-10-22",
    "end": "2026-10-22",

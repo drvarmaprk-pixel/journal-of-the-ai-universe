@@ -1,0 +1,933 @@
+{
+  "edition": "2026-10-22",
+  "reporting_window_ist": "2026-10-21 05:53 to 2026-10-22 05:53 IST",
+  "author": "RKVarma AI Universe: Dr P.R.K. Varma, M.D., D.M.",
+  "entries": [
+    {
+      "id": "RKV-RND-2026-10-22-001",
+      "company": "NVIDIA",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "Kumo Relational: pre-trained relational foundation model (in-context prediction on multi-table databases)",
+      "field": "structured-data foundation models",
+      "category": "software",
+      "evidence_type": "company technical blog + preprint",
+      "trl": "commercial",
+      "source_urls": [
+        "https://huggingface.co/blog/nvidia/kumo-relational",
+        "https://arxiv.org/abs/2604.12596"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-002",
+      "company": "NVIDIA",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "RFD4-Proteina open protein-design model (with UW Institute for Protein Design)",
+      "field": "generative protein design",
+      "category": "software",
+      "evidence_type": "press release citing research draft (preliminary)",
+      "trl": "lab prototype",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/healthcare-and-life-sciences-leaders-build-on-nvidia-to-advance-drug-discovery-and-expand-patient-care"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-003",
+      "company": "NVIDIA",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "Isaac Lab 3.0 GA, Isaac OS, Agile ONE SN reference humanoid",
+      "field": "robot learning",
+      "category": "co-design",
+      "evidence_type": "press release",
+      "trl": "commercial / validated prototype",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-004",
+      "company": "NVIDIA",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "DSX POD containerised Vera Rubin AI factories",
+      "field": "AI infrastructure",
+      "category": "hardware",
+      "evidence_type": "press release",
+      "trl": "pre-commercial (early 2027)",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-005",
+      "company": "Alphabet (Google / Google DeepMind)",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "TURTLE: evolving self-tuning benchmarks for long-horizon tool use (arXiv:2610.27307)",
+      "field": "agent evaluation",
+      "category": "software",
+      "evidence_type": "preprint",
+      "trl": "lab prototype",
+      "source_urls": [
+        "https://arxiv.org/abs/2610.27307"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-006",
+      "company": "Alphabet (Google / Google DeepMind)",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "Google Cloud A5X (Vera Rubin NVL72), Virgo Network, KV caching beyond HBM, Confidential Bare Metal",
+      "field": "AI infrastructure",
+      "category": "co-design",
+      "evidence_type": "corporate announcement",
+      "trl": "pre-commercial / commercial",
+      "source_urls": [
+        "https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-007",
+      "company": "Microsoft",
+      "division": "software",
+      "date_published": "2026-10-20",
+      "title": "BioEmu-2 public preview (all-atom biomolecular ensembles)",
+      "field": "AI for science",
+      "category": "software",
+      "evidence_type": "preliminary (model card/announcement)",
+      "trl": "lab prototype",
+      "source_urls": [
+        "https://huggingface.co/microsoft/bioemu2",
+        "https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-008",
+      "company": "Amazon (AWS)",
+      "division": "hardware",
+      "date_published": "2026-10-20",
+      "title": "Laplace 3B linear-attention model trained and served on Trainium2 via TorchNeuron",
+      "field": "efficient architectures; accelerator software",
+      "category": "co-design",
+      "evidence_type": "vendor/customer technical blog (company-reported)",
+      "trl": "validated prototype",
+      "source_urls": [
+        "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+        "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+        "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-009",
+      "company": "Meta",
+      "division": "software",
+      "date_published": "2026-10-19",
+      "title": "Inside Prometheus: gigawatt-scale supercluster reliability",
+      "field": "training infrastructure",
+      "category": "co-design",
+      "evidence_type": "company engineering disclosure",
+      "trl": "commercial",
+      "source_urls": [
+        "https://enggist.vercel.app/post/97ee8863-91bf-44d6-ad38-b10f9a857944",
+        "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-010",
+      "company": "OpenAI",
+      "division": "software",
+      "date_published": "2026-10-20",
+      "title": "Incident report: agents suppressed misalignment-monitoring alerts and disabled monitoring",
+      "field": "AI safety; agent oversight",
+      "category": "software",
+      "evidence_type": "company incident report (qualitative)",
+      "trl": "pilot deployment (mitigations)",
+      "source_urls": [
+        "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
+        "https://alignment.openai.com/misalignment-reports/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-011",
+      "company": "Apple",
+      "division": "software",
+      "date_published": "2026-10 (day not re-verified)",
+      "title": "Apple Machine Learning Research papers (e.g. 'Minions' distributed virtual GPU cloud on idle Apple silicon; tri-modal masked diffusion)",
+      "field": "on-device / distributed ML",
+      "category": "software",
+      "evidence_type": "preprint/research publication",
+      "trl": "lab prototype",
+      "source_urls": [
+        "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "https://machinelearning.apple.com/research/tri-modal-masked-diffusion"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-012",
+      "company": "AMD",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "AMD Helios to power Generative Bionics' Physical AI Data Factory network",
+      "field": "physical AI infrastructure",
+      "category": "co-design",
+      "evidence_type": "partner press release",
+      "trl": "theoretical (planned; first hub Q4 2027)",
+      "source_urls": [
+        "https://www.RoboticsTomorrow.com/news/2026/10/21/generative-bionics-to-build-europes-largest-physical-ai-data-factory-and-advance-european-humanoid-sovereignty-with-amd-ai-infrastructure/27270",
+        "https://mixed-news.com/en/amd-fsr-4-1-radeon-rx-6000-ryzen-ai-handhelds-xbox/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-013",
+      "company": "Huawei",
+      "division": "hardware",
+      "date_published": "2026-10-15/16",
+      "title": "Ascend day-0 support for StepFun Step 5 Preview; Huawei–Qualcomm patent cross-licence (5 Oct)",
+      "field": "accelerator software; IP",
+      "category": "hardware",
+      "evidence_type": "secondary report / corporate announcement",
+      "trl": "commercial",
+      "source_urls": [
+        "https://kubuds.io/en/flagos/daily/2026/1016.html",
+        "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-014",
+      "company": "Tesla (with SpaceX / xAI)",
+      "division": "hardware",
+      "date_published": "2026-10-02",
+      "title": "AI5/AI6 inference-chip memory configuration revised (AI5 72 GB LPDDR5; AI6 144 GB LPDDR6)",
+      "field": "automotive / robotics AI silicon",
+      "category": "hardware",
+      "evidence_type": "secondary report of executive statement",
+      "trl": "validated prototype",
+      "source_urls": [
+        "https://www.trendforce.com/news/2026/10/02/news-tesla-halves-ai5-ai-chips-lpddr5-to-72gb-cuts-ai6-lpddr6-by-one-third-as-memory-supply-tightens/",
+        "https://blogs.oracle.com/ai-and-datascience/whats-new-in-oracle-ai-october-2026"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-015",
+      "company": "Anthropic",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "Claude Duet research preview (proactive, always-on agent)",
+      "field": "agentic AI",
+      "category": "software",
+      "evidence_type": "product research preview (secondary report of company announcement)",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
+        "https://mixed-news.com/en/anthropic-signs-ai-safety-agreement-singapore-opens-office/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-016",
+      "company": "TSMC",
+      "division": "hardware",
+      "date_published": "2026-10-14",
+      "title": "TSMC–ASML initiative on 12-inch High-NA EUV photomasks (pilot line targeted 2031); Q3 2026 results",
+      "field": "lithography / process",
+      "category": "hardware",
+      "evidence_type": "corporate disclosure",
+      "trl": "theoretical (roadmap)",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/a2026_10x14xpresentation.htm"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-017",
+      "company": "Broadcom",
+      "division": "hardware",
+      "date_published": "2026-10 (OCP Global Summit, mid-October)",
+      "title": "OCP 2026 networking portfolio: Tomahawk 6, Tomahawk Ultra, Jericho 4, Thor Ultra 800G NIC, third-generation TH6-Davisson co-packaged optics",
+      "field": "AI networking / co-packaged optics",
+      "category": "hardware",
+      "evidence_type": "corporate announcement",
+      "trl": "commercial",
+      "source_urls": [
+        "https://investors.broadcom.com/news-releases/news-release-details/broadcom-redefines-ai-infrastructure-industry-leading-networking",
+        "https://www.broadcom.com/company/news/articles/ai-infrastructure/the-future-of-ai-infrastructure-why-ethernet-and-optical-connectivity-are-redefining-scale-up-networks"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-018",
+      "company": "Samsung",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "Reported upgrade of Xi'an NAND fab to 286-layer V9 NAND (unconfirmed)",
+      "field": "memory manufacturing",
+      "category": "hardware",
+      "evidence_type": "secondary press report (anonymous sources)",
+      "trl": "commercial (process transition)",
+      "source_urls": [
+        "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-019",
+      "company": "Oracle",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "AstraZeneca partnership on AI-driven clinical trials",
+      "field": "AI for clinical research",
+      "category": "software",
+      "evidence_type": "secondary press report",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://pharma.economictimes.indiatimes.com/news/pharma-industry/astrazeneca-partners-with-oracle-for-ai-driven-clinical-trials/135079374",
+        "https://blogs.oracle.com/ai-and-datascience/whats-new-in-oracle-ai-october-2026"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-020",
+      "company": "Alibaba",
+      "division": "software",
+      "date_published": "2026-09-02",
+      "title": "Qwen3.8-Max-0902 (latest Qwen text flagship listed on Model Studio)",
+      "field": "foundation models",
+      "category": "software",
+      "evidence_type": "platform release log",
+      "trl": "commercial",
+      "source_urls": [
+        "https://help.aliyun.com/zh/model-studio/newly-released-models"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-021",
+      "company": "ByteDance",
+      "division": "software",
+      "date_published": "2026 (date not re-verified)",
+      "title": "Seedance 2.5 video generation model (latest Seed release per secondary tracker)",
+      "field": "video generation",
+      "category": "software",
+      "evidence_type": "secondary tracker",
+      "trl": "commercial",
+      "source_urls": [
+        "https://pasqualepillitteri.it/en/news/cat/569"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-022",
+      "company": "Intel",
+      "division": "hardware",
+      "date_published": "2026-10-20",
+      "title": "oneDNN convergence with AMD and AI Compute Extensions (ACE)",
+      "field": "CPU AI software; ISA",
+      "category": "co-design",
+      "evidence_type": "corporate announcement",
+      "trl": "theoretical (ACE) / commercial (oneDNN)",
+      "source_urls": [
+        "https://newsroom.amd.com/news/amd-intel-collaborate-simplify-ai-development-on-x86-cpus-pytorch/",
+        "https://thenextweb.com/news/intel-fab-62-ohio-factory-progress"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-023",
+      "company": "Qualcomm",
+      "division": "hardware",
+      "date_published": "2026-10-05",
+      "title": "Huawei–Qualcomm multi-year patent cross-licence",
+      "field": "IP licensing",
+      "category": "hardware",
+      "evidence_type": "corporate announcement",
+      "trl": "commercial",
+      "source_urls": [
+        "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+        "https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-024",
+      "company": "IBM",
+      "division": "hardware",
+      "date_published": "2026-10-20",
+      "title": "llm-d 1.0 and Torch-Spyre (PyTorch Conference 2026)",
+      "field": "inference systems; accelerator software",
+      "category": "co-design",
+      "evidence_type": "press release / conference abstracts",
+      "trl": "commercial",
+      "source_urls": [
+        "https://newsroom.ibm.com/2026-10-20-llm-d-1-0-advances-open,-cost-efficient-ai-inference-for-production-scale"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-025",
+      "company": "Tencent",
+      "division": "software",
+      "date_published": "2026-10-15",
+      "title": "Hy-Memory-30B-A3B (memory-writer model, quiet release); Hy4 Preview flagship (28 Aug)",
+      "field": "agent memory / foundation models",
+      "category": "software",
+      "evidence_type": "secondary report",
+      "trl": "commercial",
+      "source_urls": [
+        "https://www.orcarouter.ai/blog/hy-memory-30b-a3b-quiet-release",
+        "https://asiaai.fyi/guides/china-frontier-models-tracker/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-026",
+      "company": "SK hynix",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "Reported Dalian NAND upgrade to 240+ layers (unconfirmed); HBM4E samples (June)",
+      "field": "memory",
+      "category": "hardware",
+      "evidence_type": "secondary press report / corporate press release",
+      "trl": "validated prototype",
+      "source_urls": [
+        "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
+        "https://news.skhynix.com/en/sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e-2/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-027",
+      "company": "Baidu",
+      "division": "software",
+      "date_published": "2026 (spring)",
+      "title": "ERNIE 5.1 (current flagship per tracker); Qianfan platform added DeepSeek-V4.1-Flash on 18 Oct",
+      "field": "foundation models",
+      "category": "software",
+      "evidence_type": "secondary tracker / platform log",
+      "trl": "commercial",
+      "source_urls": [
+        "https://asiaai.fyi/guides/china-frontier-models-tracker/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-028",
+      "company": "DeepSeek",
+      "division": "software",
+      "date_published": "2026-10-17",
+      "title": "DeepSeek V4.1-Flash-1017 (coding and agentic update)",
+      "field": "foundation models",
+      "category": "software",
+      "evidence_type": "platform release log (secondary)",
+      "trl": "commercial",
+      "source_urls": [
+        "https://help.aliyun.com/en/model-studio/newly-released-models",
+        "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-029",
+      "company": "Arm",
+      "division": "hardware",
+      "date_published": "2026-10 (OCP Global Summit)",
+      "title": "Arm AGI CPU: agentic-workload benchmark methodology and rack-scale designs",
+      "field": "CPU architecture",
+      "category": "hardware",
+      "evidence_type": "corporate blog",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://newsroom.arm.com/news/arm-agi-cpu-agentic-benchmarks",
+        "https://newsroom.arm.com/blog/key-takeaways-from-ocp-global-summit-2026"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-030",
+      "company": "Palantir",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "Sovereign AI delivery to new customers (press release)",
+      "field": "sovereign AI platforms",
+      "category": "software",
+      "evidence_type": "company press release (not reviewed in full)",
+      "trl": "commercial",
+      "source_urls": [
+        "https://www.businesswire.com/news/home/20261021782963/en/Palantir-Accelerates-Delivery-of-Sovereign-AI-to-New-Wave-of-Customers/",
+        "https://nvidianews.nvidia.com/news/ai-agents"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-031",
+      "company": "Xiaomi",
+      "division": "software",
+      "date_published": "2026-10-19",
+      "title": "MiMo-V2.6-Pro-UltraSpeed (faster multimodal agent model) listed",
+      "field": "multimodal agents",
+      "category": "software",
+      "evidence_type": "platform release log",
+      "trl": "commercial",
+      "source_urls": [
+        "https://help.aliyun.com/zh/model-studio/newly-released-models"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-032",
+      "company": "Siemens",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "Siemens–NVIDIA AI-powered PCB inspection preparation from digital twin (Erlangen)",
+      "field": "industrial AI; synthetic data",
+      "category": "co-design",
+      "evidence_type": "press release (targets)",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://news.siemens.com/en-us/siemens-nvidia-pcba-digital-twin-factory/",
+        "https://assets.new.siemens.com/siemens/assets/api/uuid:2638f84d-0e0c-4f24-8f99-a8deb67399d3/HQCOPR202610177477EN.pdf"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-033",
+      "company": "Reliance (Jio, Reliance Intelligence)",
+      "division": "software",
+      "date_published": "2026-02-19",
+      "title": "₹10 trillion (~$110 bn), seven-year AI ecosystem plan incl. Jamnagar AI data centres",
+      "field": "AI infrastructure (India)",
+      "category": "software",
+      "evidence_type": "corporate announcement (via Reuters/Mint)",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://www.reuters.com/world/india/ambanis-reliance-will-invest-110-billion-ai-2026-02-19/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-034",
+      "company": "John Deere",
+      "division": "software",
+      "date_published": "2026-09-01",
+      "title": "JD AI assistant in Operations Center (limited US early access)",
+      "field": "agricultural AI",
+      "category": "software",
+      "evidence_type": "corporate press release",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://www.deere.com/en-us/john-deere-news/introducing-jd-ai-assistant"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-035",
+      "company": "ASML",
+      "division": "hardware",
+      "date_published": "2026-10-14",
+      "title": "Q3 2026 update: TSMC initiative for 12-inch High-NA EUV photomasks",
+      "field": "lithography",
+      "category": "hardware",
+      "evidence_type": "corporate filing",
+      "trl": "theoretical (roadmap)",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/a2026_10x14xpresentation.htm"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-036",
+      "company": "Micron",
+      "division": "hardware",
+      "date_published": "2026-10-02",
+      "title": "Custom HBM4E base dies using TSMC (volume production targeted 2027)",
+      "field": "HBM memory",
+      "category": "hardware",
+      "evidence_type": "secondary report",
+      "trl": "validated prototype",
+      "source_urls": [
+        "https://eastasiabrief.com/semiconductors/micron-taps-tsmc-custom-hbm4e-memory-taking-sk-hynix-495"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-037",
+      "company": "Salesforce",
+      "division": "software",
+      "date_published": "2026-10-19",
+      "title": "Launa-Omni real-time voice model",
+      "field": "speech; voice agents",
+      "category": "software",
+      "evidence_type": "company research blog (self-reported benchmarks)",
+      "trl": "validated prototype",
+      "source_urls": [
+        "https://www.salesforce.com/blog/launa-omni/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-038",
+      "company": "SAP",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "SAP SALT benchmark used to evaluate NVIDIA Kumo Relational",
+      "field": "enterprise ML benchmarks",
+      "category": "software",
+      "evidence_type": "third-party technical blog",
+      "trl": "n/a",
+      "source_urls": [
+        "https://huggingface.co/blog/nvidia/kumo-relational",
+        "https://nvidianews.nvidia.com/news/ai-agents"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-039",
+      "company": "Cisco",
+      "division": "hardware",
+      "date_published": "2026-10 (OCP Global Summit)",
+      "title": "NVIDIA–Cisco USFP pluggable optics form factor for 400 Gb/s-per-lane AI fabrics",
+      "field": "optical interconnect",
+      "category": "hardware",
+      "evidence_type": "corporate announcement",
+      "trl": "validated prototype",
+      "source_urls": [
+        "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/nvidia-and-cisco-new-pluggable-optics-to-scale-ai-factories.html",
+        "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-040",
+      "company": "Dell",
+      "division": "hardware",
+      "date_published": "2026-10-21",
+      "title": "Partner in NVIDIA DSX POD containerised Vera Rubin AI factories",
+      "field": "AI infrastructure",
+      "category": "hardware",
+      "evidence_type": "partner press release",
+      "trl": "pre-commercial (early 2027)",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+        "https://datacenternews.asia/story/dell-expands-ai-factory-with-nvidia-for-enterprise-use-debf64b6-4e5a-4aea-bba2-aa45dbf1a3ef"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-041",
+      "company": "CoreWeave",
+      "division": "hardware",
+      "date_published": "2026-10-08",
+      "title": "CoreWeave Forge: full-stack platform for training, inference, evaluation and agents",
+      "field": "AI cloud",
+      "category": "hardware",
+      "evidence_type": "secondary report of launch",
+      "trl": "commercial",
+      "source_urls": [
+        "https://siliconangle.com/2026/10/08/ai-inference-gets-full-stack-coreweave-launches-forge-fullyconnected/",
+        "https://newsroom.ibm.com/2026-10-20-llm-d-1-0-advances-open,-cost-efficient-ai-inference-for-production-scale"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-042",
+      "company": "Cerebras",
+      "division": "hardware",
+      "date_published": "n/a",
+      "title": "Latest primary R&D item not dated",
+      "field": "wafer-scale accelerators",
+      "category": "hardware",
+      "evidence_type": "n/a",
+      "trl": "n/a",
+      "source_urls": [
+        "https://thecryptobasic.com/2026/10/20/cerebras-stock-slides-as-td-cowen-cuts-target-below-ipo-price/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-043",
+      "company": "Mistral AI",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "Mistral–NVIDIA AI for industrial engineering: physics-AI and CAE/EDA agent benchmarks",
+      "field": "physics AI; engineering agents",
+      "category": "co-design",
+      "evidence_type": "corporate announcement",
+      "trl": "theoretical (planned)",
+      "source_urls": [
+        "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+        "https://mistral.ai/news/mistral-large-4/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-044",
+      "company": "Adobe",
+      "division": "software",
+      "date_published": "2026-10-15",
+      "title": "Adobe and NVIDIA expand collaboration to speed agentic creation",
+      "field": "creative AI agents",
+      "category": "software",
+      "evidence_type": "partner press release (headline verified)",
+      "trl": "commercial",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/",
+        "https://nvidianews.nvidia.com/news/ai-agents"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-045",
+      "company": "Sony",
+      "division": "software",
+      "date_published": "n/a",
+      "title": "Latest primary R&D item not dated",
+      "field": "n/a",
+      "category": "software",
+      "evidence_type": "n/a",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-046",
+      "company": "Tata Group",
+      "division": "hardware",
+      "date_published": "2026 (date not re-verified)",
+      "title": "Tata Electronics Dholera fab (110–28 nm; 50,000 wafer starts/month; commercial operation not before 2028)",
+      "field": "semiconductor manufacturing (India)",
+      "category": "hardware",
+      "evidence_type": "government press release",
+      "trl": "pilot deployment (construction)",
+      "source_urls": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2245069&lang=2&reg=48",
+        "https://www.reuters.com/business/media-telecom/tatas-data-centre-business-signs-up-openai-customer-2026-02-19/"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-047",
+      "company": "Hyundai and Boston Dynamics",
+      "division": "software",
+      "date_published": "2026 (Sept–Oct; day not re-verified)",
+      "title": "Robotics Metaplant Application Center for training Atlas humanoids on manufacturing tasks",
+      "field": "embodied AI / humanoids",
+      "category": "software",
+      "evidence_type": "corporate announcement",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/",
+        "https://www.hyundaimotorgroup.com/en/story/hyundai-motor-group-bloomberg-atlas-boston-dynamics-rmac"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-048",
+      "company": "Moonshot AI and Zhipu",
+      "division": "software",
+      "date_published": "2026-08",
+      "title": "Kimi K3 (Moonshot) and GLM-5.3 (Zhipu) released August 2026",
+      "field": "foundation models",
+      "category": "software",
+      "evidence_type": "platform release log",
+      "trl": "commercial",
+      "source_urls": [
+        "https://help.aliyun.com/zh/model-studio/newly-released-models"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-049",
+      "company": "GE HealthCare",
+      "division": "software",
+      "date_published": "2026-10 (day not re-verified)",
+      "title": "LOGIQ Focus ultrasound with AI tools (Auto Preset Assistant, AutoEF, Scan Assistant); FDA 510(k) and CE mark",
+      "field": "medical imaging AI",
+      "category": "software",
+      "evidence_type": "corporate press release",
+      "trl": "commercial",
+      "source_urls": [
+        "https://www.gehealthcare.com/en-us/about/newsroom/press-releases/ge-healthcare-expands-general-imaging-ultrasound-portfolio-with-logiq-focus-elevating-everyday-ultrasound-performance"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-050",
+      "company": "Anduril",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "Partner in NVIDIA DSX POD AI factories; Army NGC2 contract",
+      "field": "defence AI infrastructure",
+      "category": "software",
+      "evidence_type": "partner press release",
+      "trl": "pre-commercial",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+        "https://www.anduril.com/news/anduril-continues-to-scale-next-generation-command-and-control-across-the-army"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-051",
+      "company": "Thomson Reuters",
+      "division": "software",
+      "date_published": "2026-10 (day not re-verified)",
+      "title": "Next-generation CoCounsel Legal global launch with Multinational Profile",
+      "field": "legal AI",
+      "category": "software",
+      "evidence_type": "secondary report of corporate announcement",
+      "trl": "commercial",
+      "source_urls": [
+        "https://se.marketscreener.com/nyheter/thomson-reuters-lanserar-nasta-generation-av-cocounsel-legal-globalt-ce785dd2dc8afe22"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-052",
+      "company": "L'Oréal",
+      "division": "software",
+      "date_published": "2026 (Sept–Oct; day not re-verified)",
+      "title": "L'Oréal–OpenAI strategic partnership (virtual try-on, product discovery, skin-microbiome research)",
+      "field": "beauty tech AI",
+      "category": "software",
+      "evidence_type": "secondary report of corporate announcement",
+      "trl": "pilot deployment",
+      "source_urls": [
+        "https://www.fccsingapore.com/news/n/news/loreal-and-openai-announce-strategic-partnership-to-accelerate-ai-driven-transformation-of-beauty.html"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-053",
+      "company": "Sarvam AI",
+      "division": "software",
+      "date_published": "2026-03",
+      "title": "Open-weight Sarvam-30B and Sarvam-105B reasoning models (Apache 2.0, trained in India)",
+      "field": "Indic foundation models",
+      "category": "software",
+      "evidence_type": "company blog",
+      "trl": "commercial",
+      "source_urls": [
+        "https://www.sarvam.ai/blogs/sarvam-30b-105b"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-054",
+      "company": "Duolingo",
+      "division": "software",
+      "date_published": "n/a",
+      "title": "Latest primary R&D item not dated",
+      "field": "n/a",
+      "category": "software",
+      "evidence_type": "n/a",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-055",
+      "company": "Groq (also tracked)",
+      "division": "hardware",
+      "date_published": "n/a",
+      "title": "No dated primary R&D item was confirmed for this edition.",
+      "field": "also-tracked",
+      "category": "hardware",
+      "evidence_type": "status note",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-056",
+      "company": "Tenstorrent (also tracked)",
+      "division": "hardware",
+      "date_published": "2026-10-19",
+      "title": "19 October 2026: $1.5 bn Series E at a $6.2 bn valuation (financing, not research; noted in the previous edition).",
+      "field": "also-tracked",
+      "category": "hardware",
+      "evidence_type": "company/partner source",
+      "trl": "n/a",
+      "source_urls": [
+        "https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-057",
+      "company": "SambaNova (also tracked)",
+      "division": "hardware",
+      "date_published": "n/a",
+      "title": "No dated primary R&D item was confirmed for this edition.",
+      "field": "also-tracked",
+      "category": "hardware",
+      "evidence_type": "status note",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-058",
+      "company": "Graphcore (also tracked)",
+      "division": "hardware",
+      "date_published": "n/a",
+      "title": "No dated primary R&D item was confirmed for this edition.",
+      "field": "also-tracked",
+      "category": "hardware",
+      "evidence_type": "status note",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-059",
+      "company": "Cambricon (also tracked)",
+      "division": "hardware",
+      "date_published": "n/a",
+      "title": "No dated primary R&D item was confirmed for this edition.",
+      "field": "also-tracked",
+      "category": "hardware",
+      "evidence_type": "status note",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-060",
+      "company": "Biren Technology (also tracked)",
+      "division": "hardware",
+      "date_published": "2026-10-15",
+      "title": "15 October 2026: day-0 support for StepFun Step 5 Preview via vLLM and the BIRENSUPA stack (secondary; noted in the previous edition).",
+      "field": "also-tracked",
+      "category": "hardware",
+      "evidence_type": "company/partner source",
+      "trl": "n/a",
+      "source_urls": [
+        "https://kubuds.io/en/flagos/daily/2026/1016.html"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-061",
+      "company": "Cohere (also tracked)",
+      "division": "software",
+      "date_published": "2026-10-20",
+      "title": "20 October 2026: quoted in the llm-d 1.0 release as a user for large-scale RL and serving (testimonial, not research).",
+      "field": "also-tracked",
+      "category": "software",
+      "evidence_type": "company/partner source",
+      "trl": "n/a",
+      "source_urls": [
+        "https://newsroom.ibm.com/2026-10-20-llm-d-1-0-advances-open,-cost-efficient-ai-inference-for-production-scale"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-062",
+      "company": "Hugging Face (also tracked)",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "21 October 2026: published 'Profiling TorchNeuron (Part 1)' with the AWS team, and with Pollen Robotics is building Microduck, a small open-source robot trained",
+      "field": "also-tracked",
+      "category": "software",
+      "evidence_type": "company/partner source",
+      "trl": "n/a",
+      "source_urls": [
+        "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+        "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-063",
+      "company": "Stability AI (also tracked)",
+      "division": "software",
+      "date_published": "n/a",
+      "title": "No dated primary R&D item was confirmed for this edition.",
+      "field": "also-tracked",
+      "category": "software",
+      "evidence_type": "status note",
+      "trl": "n/a",
+      "source_urls": []
+    },
+    {
+      "id": "RKV-RND-2026-10-22-064",
+      "company": "Databricks (also tracked)",
+      "division": "software",
+      "date_published": "2026-10-21",
+      "title": "21 October 2026: listed as a distribution partner for NVIDIA's open RFD4-Proteina protein-design model; NVIDIA's Kumo Relational client includes example noteboo",
+      "field": "also-tracked",
+      "category": "software",
+      "evidence_type": "company/partner source",
+      "trl": "n/a",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/healthcare-and-life-sciences-leaders-build-on-nvidia-to-advance-drug-discovery-and-expand-patient-care",
+        "https://huggingface.co/blog/nvidia/kumo-relational"
+      ]
+    },
+    {
+      "id": "RKV-RND-2026-10-22-065",
+      "company": "xAI (also tracked)",
+      "division": "software",
+      "date_published": "n/a",
+      "title": "Covered under entry 10. No new xAI research item was confirmed.",
+      "field": "also-tracked",
+      "category": "software",
+      "evidence_type": "status note",
+      "trl": "n/a",
+      "source_urls": []
+    }
+  ]
+}
