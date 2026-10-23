@@ -1,28 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 310,
+ "count": 309,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-10-22",
-   "end": "2026-10-22",
-   "dates": "22 Oct 2026",
-   "name": "Formula E GEN4 Creators Challenge premiere",
-   "url": "https://gen4challenge.com/",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Formula E",
-   "note": "Shortlisted AI-made films premiere on the BFI IMAX screen.",
-   "project": "01",
-   "project_name": "AI Filmmaking",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-10"
-   ]
-  },
   {
    "start": "2026-10-22",
    "end": "2026-10-28",
