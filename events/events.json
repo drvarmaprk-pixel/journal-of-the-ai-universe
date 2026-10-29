@@ -1,28 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 309,
+ "count": 308,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-10-22",
-   "end": "2026-10-28",
-   "dates": "22–28 Oct 2026",
-   "name": "ICAR-IASRI training: AI-driven genomic prediction in plant breeding",
-   "url": "https://www.iasri.res.in/trainings.aspx",
-   "city": "New Delhi (ICAR-IASRI)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "ICAR-IASRI",
-   "note": "AI-driven statistical and bioinformatics approaches for genomic prediction.",
-   "project": "02",
-   "project_name": "AI Agriculture",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-10"
-   ]
-  },
   {
    "start": "2026-10-24",
    "end": "2026-10-29",
