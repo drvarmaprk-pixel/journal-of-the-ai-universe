@@ -1,28 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 308,
+ "count": 307,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-10-24",
-   "end": "2026-10-29",
-   "dates": "24–29 Oct 2026",
-   "name": "EMNLP 2026",
-   "url": "https://2026.emnlp.org/",
-   "city": "Budapest",
-   "country": "Hungary",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "ACL SIGDAT",
-   "note": "Major conference on empirical methods in NLP.",
-   "project": "30",
-   "project_name": "AI Research & Innovation",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-10"
-   ]
-  },
   {
    "start": "2026-10-29",
    "end": "2026-10-31",
