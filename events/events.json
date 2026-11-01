@@ -1,28 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 307,
+ "count": 306,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-10-29",
-   "end": "2026-10-31",
-   "dates": "29–31 Oct 2026",
-   "name": "AI for Healthcare 3.0 (executive programme)",
-   "url": "https://www.jioinstitute.edu.in/executive-education/ai-healthcare-30",
-   "city": "Navi Mumbai (Jio Institute)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Jio Institute",
-   "note": "Residential programme for healthcare leaders; ₹50,000 + GST.",
-   "project": "04",
-   "project_name": "AI Healthcare",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-10"
-   ]
-  },
   {
    "start": "2026-10-31",
    "end": "2026-11-03",
