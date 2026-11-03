@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 306,
+ "count": 304,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -21,46 +21,6 @@
    "cardiology": true,
    "months": [
     "2026-10",
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "dates": "1 Nov 2026",
-   "name": "Big Scary Tech",
-   "url": "https://www.bluemountainswritersfestival.com.au/events/big-scary-tech",
-   "city": "Blue Mountains, NSW (The Carrington Hotel)",
-   "country": "Australia",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "Blue Mountains Writers' Festival",
-   "note": "Conversation on AI, authorship and how afraid writers should be.",
-   "project": "24",
-   "project_name": "AI Literature",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "dates": "1 Nov 2026",
-   "name": "JournalismAI Festival 2026 – in-person application deadline",
-   "url": "https://www.journalismai.info/festival",
-   "city": "London and online",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "hybrid",
-   "organiser": "JournalismAI (LSE Polis)",
-   "note": "The journalism-and-AI festival returns in November; apply by 1 Nov to attend in London.",
-   "project": "08",
-   "project_name": "AI Journalism",
-   "india": false,
-   "cardiology": false,
-   "months": [
     "2026-11"
    ]
   },
