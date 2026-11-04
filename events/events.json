@@ -1,29 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 304,
+ "count": 299,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-10-31",
-   "end": "2026-11-03",
-   "dates": "31 Oct – 3 Nov 2026",
-   "name": "TCT 2026",
-   "url": "https://www.tctconference.com/faq",
-   "city": "San Diego Convention Center",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "CRF (TCT)",
-   "note": "Interventional cardiology meeting; the TCT AI Lab returns.",
-   "project": "04",
-   "project_name": "AI Healthcare",
-   "india": false,
-   "cardiology": true,
-   "months": [
-    "2026-10",
-    "2026-11"
-   ]
-  },
   {
    "start": "2026-11-01",
    "end": "2026-11-04",
@@ -66,66 +45,6 @@
   },
   {
    "start": "2026-11-02",
-   "end": "2026-11-03",
-   "dates": "2–3 Nov 2026",
-   "name": "CIRED 2026 Seoul Workshop",
-   "url": "https://2026seoul.cired.net/",
-   "city": "Seoul (JW Marriott Dongdaemun)",
-   "country": "South Korea",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "CIRED",
-   "note": "Digital disruption: AI and the next generation of distribution grids.",
-   "project": "12",
-   "project_name": "AI Energy",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "dates": "2–3 Nov 2026",
-   "name": "Future of Utilities: Smart Energy 2026",
-   "url": "https://ukerc.ac.uk/events/future-of-utilities-smart-energy/",
-   "city": "London (Convene 133 Houndsditch)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Future of Utilities (listed by UKERC)",
-   "note": "Smart grids, artificial intelligence, flexibility and grid modernisation.",
-   "project": "12",
-   "project_name": "AI Energy",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-02",
-   "end": "2026-11-03",
-   "dates": "2–3 Nov 2026",
-   "name": "SANS AI/SI Cybersecurity Summit Fall 2026",
-   "url": "https://www.sans.org/cyber-security-training-events/ai-summit-fall-2026",
-   "city": "Arlington, VA (Hilton) and online",
-   "country": "United States",
-   "region": "North America",
-   "format": "hybrid",
-   "organiser": "SANS Institute",
-   "note": "AI security summit with training.",
-   "project": "42",
-   "project_name": "AI Cybersecurity",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-02",
    "end": "2026-11-04",
    "dates": "2–4 Nov 2026",
    "name": "AI DevCon 2026",
@@ -159,26 +78,6 @@
    "project": "22",
    "project_name": "AI Mythology",
    "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-03",
-   "end": "2026-11-03",
-   "dates": "3 Nov 2026",
-   "name": "10th CSR Conference: AI & Innovation in CSR",
-   "url": "https://amchamindia.com/3rd-november-2026-10th-csr-conference-shaping-the-future-ai-innovation-in-csr-new-delhi/",
-   "city": "New Delhi",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "AMCHAM India",
-   "note": "Shaping the future of CSR with AI.",
-   "project": "44",
-   "project_name": "AI Social Impact",
-   "india": true,
    "cardiology": false,
    "months": [
     "2026-11"
