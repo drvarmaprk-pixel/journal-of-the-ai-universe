@@ -1,108 +1,8 @@
 {
  "week": "2026-10-19",
- "count": 285,
+ "count": 275,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
-  {
-   "start": "2026-11-03",
-   "end": "2026-11-05",
-   "dates": "3–5 Nov 2026",
-   "name": "Brooklyn 6G Summit 2026",
-   "url": "https://www.b6gs.com/",
-   "city": "Brooklyn, NY",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Nokia & NYU WIRELESS",
-   "note": "AI-native 6G: networks at the dawn of the AI supercycle.",
-   "project": "40",
-   "project_name": "AI Telecom & Connectivity",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-03",
-   "end": "2026-11-05",
-   "dates": "3–5 Nov 2026",
-   "name": "FOLIO DIGITAL Symposium: Generating New Narratives",
-   "url": "https://www4.uib.no/en/research/research-centres/center-for-digital-narrative/events/folio-digital-symposium-generating-new-narratives",
-   "city": "Mexico City (Casa de la Primera Imprenta de América)",
-   "country": "Mexico",
-   "region": "Latin America",
-   "format": "in-person",
-   "organiser": "UiB Center for Digital Narrative & UAM",
-   "note": "How artificial intelligence is reshaping the book.",
-   "project": "24",
-   "project_name": "AI Literature",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-03",
-   "end": "2026-11-05",
-   "dates": "3–5 Nov 2026",
-   "name": "FYUZ 2026",
-   "url": "https://www.fyuz.org/",
-   "city": "Seattle (The Westin)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Telecom Infra Project",
-   "note": "Open telecom; hackathon on AI-powered networks.",
-   "project": "40",
-   "project_name": "AI Telecom & Connectivity",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-03",
-   "end": "2026-11-05",
-   "dates": "3–5 Nov 2026",
-   "name": "Smart City Expo World Congress 2026",
-   "url": "https://www.smartcityexpo.com/",
-   "city": "Barcelona (Fira Gran Via)",
-   "country": "Spain",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Fira de Barcelona",
-   "note": "Leading smart-cities event; responsible AI and data sovereignty.",
-   "project": "46",
-   "project_name": "AI Smart Cities & Real Estate",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-03",
-   "end": "2026-11-05",
-   "dates": "3–5 Nov 2026",
-   "name": "WTM London 2026 – Travel Technology",
-   "url": "https://www.wtm.com/london/en-gb/visit/travel-technology.html",
-   "city": "London (ExCeL)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "World Travel Market",
-   "note": "Latest AI, big-data and smart-tool innovations on the Innovation Highway.",
-   "project": "27",
-   "project_name": "AI Travel & Hospitality",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
   {
    "start": "2026-11-03",
    "end": "2026-11-06",
@@ -146,66 +46,6 @@
   },
   {
    "start": "2026-11-04",
-   "end": "2026-11-05",
-   "dates": "4–5 Nov 2026",
-   "name": "Boulder Trustworthy & Responsible AI Workshop",
-   "url": "https://trustworthyresponsible.ai/",
-   "city": "Boulder (SEEC, CU Boulder East Campus)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "CU Boulder and partner universities",
-   "note": "35+ speakers on trustworthy and responsible AI.",
-   "project": "45",
-   "project_name": "AI Ethics & Safety",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-04",
-   "end": "2026-11-05",
-   "dates": "4–5 Nov 2026",
-   "name": "CADISON International Conference (CIC) 2026",
-   "url": "https://cadison.com/CIC/en/",
-   "city": "Bad Soden am Taunus, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "CADISON",
-   "note": "Engineering data, digital twins and industrial plant design.",
-   "project": "10",
-   "project_name": "AI Engineering",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-04",
-   "end": "2026-11-05",
-   "dates": "4–5 Nov 2026",
-   "name": "Legal Innovators UK 2026",
-   "url": "https://www.legalinnovators.co.uk/",
-   "city": "London (The Minster Building)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Legal Innovators",
-   "note": "Legal-tech conference where UK firms test their AI strategy.",
-   "project": "06",
-   "project_name": "AI Law & Investigation",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-04",
    "end": "2026-11-07",
    "dates": "4–7 Nov 2026",
    "name": "GSA 2026 Annual Scientific Meeting – AgeTech Track",
@@ -218,46 +58,6 @@
    "note": "AgeTech sessions 5–7 Nov include ethics of AI for older adults.",
    "project": "16",
    "project_name": "AI Geriatric",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "dates": "5 Nov 2026",
-   "name": "BRXND NYC 2026",
-   "url": "https://www.brxnd.ai/",
-   "city": "New York (The Times Center)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "BRXND",
-   "note": "One-day conference on how brands and agencies use AI.",
-   "project": "28",
-   "project_name": "AI Marketing & Advertising",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "dates": "5 Nov 2026",
-   "name": "Literature and the Digital Age",
-   "url": "https://dublinbookfestival.com/event/literature-and-the-digital-age/",
-   "city": "Dublin (DCU)",
-   "country": "Ireland",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Dublin Book Festival with DCU",
-   "note": "How digital technologies and AI are changing how we write and read.",
-   "project": "24",
-   "project_name": "AI Literature",
    "india": false,
    "cardiology": false,
    "months": [
