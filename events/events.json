@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 251,
+ "count": 249,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -22,26 +22,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-06",
-   "end": "2026-11-08",
-   "dates": "6–8 Nov 2026",
-   "name": "Kids' AI Summit 2026 Thailand",
-   "url": "https://www.kigumigroup.com/kids-ai-summit-2026-thailand",
-   "city": "Bangkok (Wycombe Abbey)",
-   "country": "Thailand",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "The Kigumi Group",
-   "note": "First Thailand edition of the AI summit for children.",
-   "project": "15",
-   "project_name": "AI Kids",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
    ]
   },
   {
@@ -78,26 +58,6 @@
    "note": "Where art meets technology: the intelligence of landscapes, plants, animals and machines.",
    "project": "23",
    "project_name": "AI Music & Arts",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "dates": "7–8 Nov 2026",
-   "name": "AIMA London – AI Movie Awards",
-   "url": "https://www.aimovieawards.org/",
-   "city": "London (IET London)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "AIMA with James Drake Media",
-   "note": "International AI film festival: industry day 7 Nov, awards gala 8 Nov.",
-   "project": "01",
-   "project_name": "AI Filmmaking",
    "india": false,
    "cardiology": false,
    "months": [
