@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 249,
+ "count": 245,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -22,26 +22,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-06",
-   "end": "2026-11-09",
-   "dates": "6–9 Nov 2026",
-   "name": "AHA Scientific Sessions 2026",
-   "url": "https://professional.heart.org/en/meetings/scientific-sessions/programming/virtual-programming",
-   "city": "Chicago (McCormick Place)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "American Heart Association",
-   "note": "Late-breaking science on AI in CVD diagnosis; Health Innovation Pavilion 7–9 Nov.",
-   "project": "04",
-   "project_name": "AI Healthcare",
-   "india": false,
-   "cardiology": true,
-   "months": [
-    "2026-11"
    ]
   },
   {
@@ -78,66 +58,6 @@
    "note": "27th ISMIR conference on music AI and retrieval.",
    "project": "23",
    "project_name": "AI Music & Arts",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "dates": "9 Nov 2026",
-   "name": "AI in Action: Practical Applications for Nonprofits",
-   "url": "https://www.forvismazars.us/events/2026/11/ai-in-action-practical-applications-for-nonprofits",
-   "city": "Online",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "Forvis Mazars US",
-   "note": "Webinar, 1–2 pm ET; 1 CPE.",
-   "project": "44",
-   "project_name": "AI Social Impact",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "dates": "9 Nov 2026",
-   "name": "Machine Learning: Intro to AI for kids (series starts)",
-   "url": "https://extension.umaine.edu/event/machine-learning-intro-to-ai-afternoon/",
-   "city": "Online (Zoom)",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "UMaine Extension",
-   "note": "Free afternoon sessions introducing machine learning to young learners.",
-   "project": "15",
-   "project_name": "AI Kids",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "dates": "9 Nov 2026",
-   "name": "WAT 2026 – 13th Workshop on Asian Translation",
-   "url": "https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/index.html",
-   "city": "Hengqin, China (AACL-IJCNLP 2026)",
-   "country": "China",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "WAT",
-   "note": "Machine translation for Asian languages.",
-   "project": "25",
-   "project_name": "AI Languages & Translation",
    "india": false,
    "cardiology": false,
    "months": [
