@@ -334,6 +334,31 @@ html[data-theme=light] .jlist a.on{background:rgba(11,92,128,.1);color:#000;box-
 @media(min-width:900px){.top nav .nlong{display:none}}
 @media(min-width:1200px){.top nav .nlong{display:inline}.top nav{gap:2px}.top nav a{padding:8px 7px}}
 
+/* ---- 3D visuals (10 Nov 2026): header orbit (CSS only), 3D viewers (assets/js/space3d.js), 3D issue cover ---- */
+.orb3d{position:relative;display:inline-grid;place-items:center;flex:none;perspective:320px}
+.orb3d::before,.orb3d::after{content:"";position:absolute;inset:-5px;border-radius:50%;pointer-events:none;border:1.5px solid rgba(127,220,255,.6);border-left-color:transparent;border-right-color:transparent;transform:rotateX(72deg)}
+.orb3d::after{border-color:rgba(246,198,106,.6);border-top-color:transparent;border-bottom-color:transparent;transform:rotateY(70deg)}
+.orb3d.big::before,.orb3d.big::after{inset:-16px;border-width:2px}
+@media(prefers-reduced-motion:no-preference){.orb3d::before{animation:orb3dx 10s linear infinite}.orb3d::after{animation:orb3dy 14s linear infinite}}
+@keyframes orb3dx{from{transform:rotateX(72deg) rotateZ(0)}to{transform:rotateX(72deg) rotateZ(360deg)}}
+@keyframes orb3dy{from{transform:rotateY(70deg) rotateZ(0)}to{transform:rotateY(70deg) rotateZ(-360deg)}}
+.s3d{position:relative;margin:6px 0 0}
+.s3dstage{display:none;position:relative;width:100%;aspect-ratio:3/2;max-height:75vh;min-height:280px;border-radius:14px;overflow:hidden;background:radial-gradient(ellipse at 50% 45%,rgba(79,216,255,.08),rgba(6,11,34,0) 70%)}
+@media(max-width:640px){.s3dstage{aspect-ratio:1/1}}
+.s3d.on .s3dstage{display:block}.s3d.on .s3dfb{display:none}
+.s3dfb img{display:block;width:100%;height:auto;border-radius:14px}
+.s3dc{display:block;touch-action:pan-y;cursor:grab;border-radius:14px}
+.s3dc:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.s3dbar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;justify-content:space-between;margin-top:8px}
+.s3dinfo{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;margin:0;min-height:40px;flex:1 1 260px;overflow-wrap:anywhere}
+.s3dinfo b{flex:1 1 100%}.s3dsub,.s3dhint{font-size:.85rem;opacity:.8}
+.s3d:not(.on) .s3dctl,.s3d:not(.on) .s3dinfo{display:none}
+.s3dctl{display:flex;gap:6px}
+.s3dctl button{min-width:42px;min-height:42px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:inherit;font-size:1.1rem;cursor:pointer}
+.s3dctl button[aria-pressed="true"]{border-color:var(--gold);color:var(--gold)}
+.cov3d{margin:14px auto 4px;max-width:300px}.cov3d img{display:block;width:100%;height:auto;border-radius:12px;box-shadow:0 10px 40px rgba(0,0,0,.45)}
+.cov3d figcaption{font-size:.8rem;opacity:.75;text-align:center;margin-top:6px}
+
 /* light theme: generated colour overrides */
 html[data-theme=light] a:hover{color:var(--ink)}
 html[data-theme=light] h3{color:var(--ink)}
