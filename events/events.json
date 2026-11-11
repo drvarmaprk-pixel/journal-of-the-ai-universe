@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 245,
+ "count": 239,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -58,46 +58,6 @@
    "note": "27th ISMIR conference on music AI and retrieval.",
    "project": "23",
    "project_name": "AI Music & Arts",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-10",
-   "dates": "9–10 Nov 2026",
-   "name": "Agri AI Summit 2026",
-   "url": "https://www.agri-ai-summit.com/",
-   "city": "Anaheim, California",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Agri AI Summit",
-   "note": "3rd annual summit on AI, automation, data and drones in farming.",
-   "project": "02",
-   "project_name": "AI Agriculture",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-10",
-   "dates": "9–10 Nov 2026",
-   "name": "AUVSI Defense 2026",
-   "url": "https://www.auvsipathfinder.org/events/2026-auvsi-defense",
-   "city": "Washington DC",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "AUVSI",
-   "note": "Securing the edge and scaling autonomy for defence uncrewed systems.",
-   "project": "03",
-   "project_name": "AI Defence",
    "india": false,
    "cardiology": false,
    "months": [
@@ -338,86 +298,6 @@
    "note": "Theme: Beyond Generation.",
    "project": "48",
    "project_name": "AI AGI & ASI",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "dates": "10 Nov 2026",
-   "name": "Energy & Data Centres 2026",
-   "url": "https://edkraft.ca/conferences/energy-data-centres-2026",
-   "city": "Toronto (Hilton Toronto Airport)",
-   "country": "Canada",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "EDKraft",
-   "note": "Grid capacity, transmission and AI infrastructure.",
-   "project": "12",
-   "project_name": "AI Energy",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "dates": "10 Nov 2026",
-   "name": "Heads up: AI wearables enter the workplace (Web Summit session)",
-   "url": "https://websummit.com/sessions/lis26/100c941c-4996-410b-b438-61e7415ba706/heads-up-ai-wearables-enter-the-workplace/",
-   "city": "Lisbon",
-   "country": "Portugal",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Web Summit",
-   "note": "AI Summit stage session on AI wearables and smart glasses at work.",
-   "project": "41",
-   "project_name": "AI Consumer Devices & Wearables",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "dates": "10 Nov 2026",
-   "name": "OI26: Human Flourishing in an Age of AI",
-   "url": "https://www.organizedintelligence.ai/p/oi26-conference",
-   "city": "Salt Lake City (Utah State Capitol)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Organized Intelligence",
-   "note": "What technological progress should ultimately serve.",
-   "project": "21",
-   "project_name": "AI Spirituality",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "dates": "10 Nov 2026",
-   "name": "Tel Aviv AI Film Festival",
-   "url": "https://tlvaiff.com/en",
-   "city": "Tel Aviv (Cinematheque)",
-   "country": "Israel",
-   "region": "Middle East",
-   "format": "in-person",
-   "organiser": "Tel Aviv AI Film Festival (AI Week Tel Aviv)",
-   "note": "First edition: screenings, a competition and an Israel × India panel.",
-   "project": "01",
-   "project_name": "AI Filmmaking",
    "india": false,
    "cardiology": false,
    "months": [
