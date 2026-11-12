@@ -358,6 +358,31 @@ html[data-theme=light] .jlist a.on{background:rgba(11,92,128,.1);color:#000;box-
 .s3dctl button[aria-pressed="true"]{border-color:var(--gold);color:var(--gold)}
 .cov3d{margin:14px auto 4px;max-width:300px}.cov3d img{display:block;width:100%;height:auto;border-radius:12px;box-shadow:0 10px 40px rgba(0,0,0,.45)}
 .cov3d figcaption{font-size:.8rem;opacity:.75;text-align:center;margin-top:6px}
+/* Interactive daily-issue cover (from 12 Nov 2026). The 11 Nov still image keeps the rules above. */
+.cov3d.live{margin:18px auto 10px;max-width:720px;width:100%}
+.cov3d.live .s3dstage{aspect-ratio:4/5;max-height:80vh;min-height:320px;background:radial-gradient(ellipse at 50% 42%,rgba(79,216,255,.14),rgba(6,11,34,.92) 72%),#060b22;box-shadow:0 10px 40px rgba(0,0,0,.45)}
+@media(max-width:640px){.cov3d.live .s3dstage{aspect-ratio:4/5}}
+.cov3d-meta{text-align:center;margin:8px 0 0;padding:0 8px}
+.cov3d-meta.top{margin:0 0 8px}
+.cov3d-kicker{margin:0;font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ice)}
+.cov3d-title{margin:2px 0 0;font-family:"Playfair Display",Georgia,serif;font-weight:800;font-size:1.15rem;color:var(--gold)}
+.cov3d-date{margin:4px 0 0;font-family:"Playfair Display",Georgia,serif;font-weight:800;font-size:clamp(1.4rem,4vw,2rem);color:var(--ink)}
+.cov3d-stats{margin:8px 0 0;font-size:.95rem}
+.cov3d-top{margin:6px 0 0;font-size:.85rem;color:var(--gold);overflow-wrap:anywhere}
+.cov3d-legend{display:flex;flex-wrap:wrap;gap:8px 14px;justify-content:center;list-style:none;margin:10px 0 0;padding:0;font-size:.8rem}
+.cov3d-legend li{display:flex;align-items:center;gap:6px}
+.cov3d-legend i{display:inline-block;width:10px;height:10px;border-radius:50%;flex:none}
+.cov3d-credit{margin:8px 0 0;font-size:.8rem;opacity:.9;color:var(--ice)}
+
+.s3dlist{margin:6px 0 0;padding:0 0 0 1.15em;flex:1 1 100%;font-size:.85rem}
+.s3dlist li{margin:.2em 0}
+.s3dfb .viz{margin:0}
+.pulse .s3dstage{aspect-ratio:2.15/1;min-height:180px;max-height:36vh}
+.trends3d .s3dstage{aspect-ratio:16/9;min-height:260px}
+.skymap.full .s3dstage,.atlas3d .s3dstage{aspect-ratio:1/1;min-height:300px;max-height:80vh}
+.arch3d .s3dstage{aspect-ratio:4/3;min-height:300px}
+.evt3d .s3dstage{aspect-ratio:1/1;min-height:320px;max-height:80vh}
+@media(max-width:640px){.pulse .s3dstage{aspect-ratio:2.15/1;min-height:160px}.trends3d .s3dstage{aspect-ratio:16/9;min-height:200px}}
 
 /* light theme: generated colour overrides */
 html[data-theme=light] a:hover{color:var(--ink)}

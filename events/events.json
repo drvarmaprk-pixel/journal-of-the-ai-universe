@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 239,
+ "count": 230,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -59,86 +59,6 @@
    "project": "23",
    "project_name": "AI Music & Arts",
    "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "dates": "9–11 Nov 2026",
-   "name": "AI Leaders Summit",
-   "url": "https://conferences.denison.edu/ai-summit/",
-   "city": "Granville, Ohio (Denison University)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Denison University",
-   "note": "Higher-education leaders on AI strategy.",
-   "project": "18",
-   "project_name": "AI Education",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "dates": "9–11 Nov 2026",
-   "name": "DataSecAI 2026",
-   "url": "https://www.datasecai.io/",
-   "city": "Dallas",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "DataSecAI",
-   "note": "The largest gathering of AI-security leaders.",
-   "project": "42",
-   "project_name": "AI Cybersecurity",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "dates": "9–11 Nov 2026",
-   "name": "Glossy Beauty x Wellness Summit",
-   "url": "https://www.glossy.co/events/glossy-beauty-wellness-summit-nov-2026/",
-   "city": "Westlake Village, California",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Glossy",
-   "note": "Beauty leaders on new opportunities from technologies including AI.",
-   "project": "26",
-   "project_name": "AI Fashion & Beauty",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "dates": "9–11 Nov 2026",
-   "name": "Qiskit Fall Fest 2026 at IEM",
-   "url": "https://qff-26-iem.vercel.app/",
-   "city": "Kolkata (IEM) – day 1 in person, days 2–3 virtual",
-   "country": "India",
-   "region": "India",
-   "format": "hybrid",
-   "organiser": "IEM Kolkata",
-   "note": "Quantum computing fest with six tracks.",
-   "project": "35",
-   "project_name": "AI Quantum Computing",
-   "india": true,
    "cardiology": false,
    "months": [
     "2026-11"
@@ -306,66 +226,6 @@
   },
   {
    "start": "2026-11-10",
-   "end": "2026-11-11",
-   "dates": "10–11 Nov 2026",
-   "name": "AI and Games Conference 2026",
-   "url": "https://www.aiandgamesconference.com/",
-   "city": "London (Here East)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "AI and Games",
-   "note": "3rd edition of Europe's game-AI conference.",
-   "project": "29",
-   "project_name": "AI Gaming & Immersive Worlds",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "dates": "10–11 Nov 2026",
-   "name": "ELRIG Protein Sciences in Drug Discovery 2026",
-   "url": "https://elrig.org/portfolio/protein-sciences-in-drug-discovery-2026/",
-   "city": "Stevenage (GSK)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "ELRIG",
-   "note": "Free; strong focus on AI and data driving drug discovery.",
-   "project": "32",
-   "project_name": "AI Biotechnology",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "dates": "10–11 Nov 2026",
-   "name": "MIGS 2026",
-   "url": "https://migs.biz/en/migs26-sessions/",
-   "city": "Montreal",
-   "country": "Canada",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "MIGS",
-   "note": "Games industry summit, incl. 'Making Games with AI in the Room'.",
-   "project": "29",
-   "project_name": "AI Gaming & Immersive Worlds",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-10",
    "end": "2026-11-12",
    "dates": "10–12 Nov 2026",
    "name": "AI Engineer Code Summit 2026",
@@ -458,46 +318,6 @@
    "note": "Theme: Building the Silicon Backbone of Europe's AI Leadership.",
    "project": "36",
    "project_name": "AI Semiconductors",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "dates": "11 Nov 2026",
-   "name": "AI Creative Summit 2026",
-   "url": "https://www.aicreativesummit.co.uk/",
-   "city": "London (BFI Southbank)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "AI Creative Summit",
-   "note": "A festival of ideas on AI across media and creative work.",
-   "project": "08",
-   "project_name": "AI Journalism",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "dates": "11 Nov 2026",
-   "name": "Integrating AI into Virtual Reality for Mental Health Care",
-   "url": "https://thetechhub.stanford.edu/events/hubinars/integrating-ai-virtual-reality-mental-health-care",
-   "city": "Online",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "Stanford Mental Health Technology & Innovation Hub",
-   "note": "Hubinar panel, 12–1 pm PT.",
-   "project": "17",
-   "project_name": "AI Psychology",
    "india": false,
    "cardiology": false,
    "months": [
