@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 202,
+ "count": 196,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -46,46 +46,6 @@
   },
   {
    "start": "2026-11-12",
-   "end": "2026-11-14",
-   "dates": "12–14 Nov 2026",
-   "name": "6th Applied Active Inference Symposium",
-   "url": "https://activeinference.institute/projects/symposium/",
-   "city": "Online",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "Active Inference Institute",
-   "note": "Free; computational neuroscience, AI and robotics.",
-   "project": "33",
-   "project_name": "AI Neuroscience",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-12",
-   "end": "2026-11-14",
-   "dates": "12–14 Nov 2026",
-   "name": "Fundamentals of AI for Social-Sector Professionals",
-   "url": "https://cimindia.in/courses/ai-fundamentals-nov-2026/",
-   "city": "Online (Zoom)",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "CIM India",
-   "note": "Live evening sessions; ₹590 for NPOs.",
-   "project": "44",
-   "project_name": "AI Social Impact",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-12",
    "end": "2026-11-15",
    "dates": "12–15 Nov 2026",
    "name": "Religion in the Digital Age: AI Ethics and Eco-Theology",
@@ -118,86 +78,6 @@
    "note": "Free one-week global conference on AI for HR.",
    "project": "19",
    "project_name": "AI Work & Employment",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-13",
-   "end": "2026-11-14",
-   "dates": "13–14 Nov 2026",
-   "name": "SIAI 2026 – Social Impact of AI",
-   "url": "https://www.siai.co/",
-   "city": "Boston (Wentworth Institute) and online",
-   "country": "United States",
-   "region": "North America",
-   "format": "hybrid",
-   "organiser": "SIAI",
-   "note": "AI for the many: equity, agency and the public good.",
-   "project": "44",
-   "project_name": "AI Social Impact",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-13",
-   "end": "2026-11-14",
-   "dates": "13–14 Nov 2026",
-   "name": "The Art and Science of Creative AI",
-   "url": "https://www.creativeai.org.uk/",
-   "city": "London (UCL East)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "University College London",
-   "note": "Interdisciplinary symposium on creative AI.",
-   "project": "23",
-   "project_name": "AI Music & Arts",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "dates": "14 Nov 2026",
-   "name": "603 Writers' Conference",
-   "url": "https://nhwritersproject.org/2026-603-writers-conference/",
-   "city": "Concord, NH (Grappone Conference Center)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "New Hampshire Writers' Project",
-   "note": "Includes 'AI in the Literary World' panel.",
-   "project": "24",
-   "project_name": "AI Literature",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "dates": "14 Nov 2026",
-   "name": "Women in AI & Energy Transition Dialogue (COP31)",
-   "url": "https://www.womeninrenewables.org/cop31",
-   "city": "Antalya (Akra)",
-   "country": "Türkiye",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Women in Renewables Alliance",
-   "note": "COP31 side dialogue on AI and the energy transition.",
-   "project": "34",
-   "project_name": "AI Environment",
    "india": false,
    "cardiology": false,
    "months": [

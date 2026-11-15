@@ -1,7 +1,5 @@
-/* space3d.js: tiny self-hosted 3D viewer for the Journal of the AI Universe (no libraries, no trackers).
-   <div class="s3d" data-src="x.json" data-base="../">  .s3dstage (canvas goes here), .s3dfb (static image fallback), .s3dinfo, .s3dctl buttons
-   Drag to rotate, pinch or +/- to zoom, tap a point for its name and link. Lazy: starts only when scrolled near; pauses off-screen.
-   Respects prefers-reduced-motion (no auto-spin) and Save-Data (keeps the static image). */
+/* space3d.js: tiny 3D viewer, no libraries or trackers (Journal of the AI Universe). <div class="s3d" data-src data-base>: .s3dstage .s3dfb .s3dinfo .s3dctl.
+   Drag, pinch or +/-, tap. Lazy. Reduced motion: no spin. Save-Data: static image. box.s3dApi + "s3d:ready": cover_fly.js hook. */
 (function () {
   "use strict";
   var RM = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -197,6 +195,7 @@
     document.addEventListener("visibilitychange", function () { vis = !document.hidden; if (vis) wake(); });
     if ("ResizeObserver" in window) new ResizeObserver(size).observe(stage); else window.addEventListener("resize", size);
     size(); show(-1);
+    box.s3dApi={cam:function(o){if(o){if(o.yaw!=null)yaw=o.yaw;if(o.pitch!=null)pitch=o.pitch;if(o.zoom!=null)zoom=o.zoom;if(o.auto!=null)auto=o.auto&&!RM;wake()}return{yaw0:yaw0,pitch0:pitch0}},nodes:N,kind:d.kind,show:show};box.dispatchEvent(new CustomEvent("s3d:ready",{bubbles:true}));
   }
 
   function init(box) {
