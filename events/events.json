@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 196,
+ "count": 191,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -46,26 +46,6 @@
   },
   {
    "start": "2026-11-12",
-   "end": "2026-11-15",
-   "dates": "12–15 Nov 2026",
-   "name": "Religion in the Digital Age: AI Ethics and Eco-Theology",
-   "url": "https://fuo-nmi.fuo.edu.ng/",
-   "city": "Osogbo, Nigeria (Fountain University) and hybrid",
-   "country": "Nigeria",
-   "region": "Africa",
-   "format": "hybrid",
-   "organiser": "NASFAT & Fountain University",
-   "note": "International conference on AI ethics and eco-theology.",
-   "project": "21",
-   "project_name": "AI Spirituality",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-12",
    "end": "2026-11-18",
    "dates": "12–18 Nov 2026",
    "name": "HUMAN 2026",
@@ -79,26 +59,6 @@
    "project": "19",
    "project_name": "AI Work & Employment",
    "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "dates": "14–15 Nov 2026",
-   "name": "CAHOTECH 2026",
-   "url": "https://cahotech.com/",
-   "city": "Visakhapatnam (AMTZ Campus)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "CAHO",
-   "note": "Healthcare technology conclave: digital health, AI, automation and robotics.",
-   "project": "04",
-   "project_name": "AI Healthcare",
-   "india": true,
    "cardiology": false,
    "months": [
     "2026-11"
@@ -200,66 +160,6 @@
    "project_name": "AI Healthcare",
    "india": false,
    "cardiology": true,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "dates": "16 Nov 2026",
-   "name": "AI in Retail 2026",
-   "url": "https://aiinretail.co.uk/agenda/",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "AI in Retail",
-   "note": "Retail AI conference.",
-   "project": "07",
-   "project_name": "AI Commerce",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "dates": "16 Nov 2026",
-   "name": "Alzheimer's Insights Summit 4: From AI to Impact",
-   "url": "https://www.dementiaresearcher.nihr.ac.uk/event/alzheimers-insights-summit-4/",
-   "city": "Boston (Sheraton Boston, opening day of CTAD)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Alzheimer's Disease Data Initiative & ADDF",
-   "note": "Free half-day summit on AI in Alzheimer's discovery, trials and care.",
-   "project": "16",
-   "project_name": "AI Geriatric",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "dates": "16 Nov 2026",
-   "name": "Hour of AI: new activities launch",
-   "url": "https://code.org/en-US/hour-of-ai",
-   "city": "Online",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "Code.org",
-   "note": "New Hour of AI activities for every grade, with free webinars and a toolkit.",
-   "project": "15",
-   "project_name": "AI Kids",
-   "india": false,
-   "cardiology": false,
    "months": [
     "2026-11"
    ]

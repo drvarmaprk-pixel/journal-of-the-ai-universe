@@ -1,0 +1,39 @@
+/* Weekly digest carousels (dated issues only; linked from those pages, not from past issues).
+   Horizontal scroll-snap, dots, full-screen lightbox. No libraries. */
+.wkdig{margin:22px 0 4px;padding:18px 0 8px;border-top:1px dashed var(--line,rgba(246,198,106,.28))}
+.wkdig + .wkdig{border-top:1px dashed var(--line,rgba(246,198,106,.28))}
+.wkdig-k{margin:0 0 .25em;font:800 .72rem/1 Inter,system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--gold,#f6c66a)}
+.wkdig-h{margin:0 0 .15em;font:700 clamp(1.15rem,3.2vw,1.45rem)/1.25 "Playfair Display",Georgia,serif;color:var(--ink,#eef1f8)}
+.wkdig-car{position:relative;margin-top:12px}
+.wkdig-track{position:relative;display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;gap:0;
+  -webkit-overflow-scrolling:touch;scrollbar-width:none;overscroll-behavior-x:contain;outline:none}
+.wkdig-track::-webkit-scrollbar{display:none}
+.wkdig-track:focus-visible{outline:3px solid var(--gold,#f6c66a);outline-offset:3px}
+.wkdig-slide{flex:0 0 100%;scroll-snap-align:start;scroll-snap-stop:always;display:flex;justify-content:center;padding:0 2px}
+.wkdig-zoom{display:block;max-width:100%;border-radius:14px;line-height:0}
+.wkdig-zoom img{display:block;width:auto;max-width:min(100%,420px);height:auto;max-height:70vh;margin:0 auto;
+  border-radius:14px;border:1px solid var(--line,rgba(246,198,106,.28));background:#0a1024;
+  box-shadow:0 10px 28px rgba(0,0,0,.28)}
+html[data-theme=light] .wkdig-zoom img{box-shadow:0 8px 22px rgba(20,26,51,.12)}
+.wkdig-nav{display:flex;align-items:center;justify-content:center;gap:8px;margin:10px 0 0}
+.wkdig-prev,.wkdig-next{flex:none;width:44px;height:44px;border-radius:50%;border:1.5px solid var(--gold,#e7b85a);
+  background:transparent;color:var(--gold,#f6c66a);font-size:1.4rem;line-height:1;cursor:pointer}
+.wkdig-prev:disabled,.wkdig-next:disabled{opacity:.35;cursor:default}
+.wkdig-dots{display:flex;flex-wrap:wrap;justify-content:center;gap:2px;margin:0;padding:0;list-style:none}
+.wkdig-dot{width:22px;height:22px;border:0;background:transparent;cursor:pointer;position:relative;padding:0}
+.wkdig-dot::after{content:"";position:absolute;inset:7px;border-radius:50%;background:var(--mute,#b9c2d8);opacity:.55}
+.wkdig-dot[aria-current=true]::after{background:var(--gold,#f6c66a);opacity:1;inset:6px}
+.wkdig-cred{margin:10px 0 0;color:var(--mute,#b9c2d8);font-weight:600;font-size:.9rem}
+/* swipe-mode mini carousel */
+.sc .wkdig{margin:10px 0 0;padding:0;border:0}
+.sc .wkdig-h{display:none} /* the card already has the title as .shl */
+.sc .wkdig-k{margin-bottom:8px}
+.sc .wkdig-zoom img{max-width:100%;max-height:52dvh}
+.sc .wkdig-cred{margin:8px 0 0}
+/* lightbox (used on swipe pages; issue pages also get this so zoom is self-contained) */
+.wkdig-lb{position:fixed;inset:0;z-index:400;background:rgba(0,0,0,.94);display:flex;align-items:center;justify-content:center;padding:16px;padding-top:calc(16px + env(safe-area-inset-top))}
+.wkdig-lb[hidden]{display:none}
+.wkdig-lb img{display:block;width:auto;height:calc(100dvh - 56px);max-width:calc(100vw - 32px);max-height:calc(100dvh - 56px);object-fit:contain;border-radius:8px}
+.wkdig-lb button{position:absolute;top:max(10px, env(safe-area-inset-top));right:14px;min-width:44px;min-height:44px;font-size:2rem;background:rgba(0,0,0,.45);border:0;color:#fff;cursor:pointer;border-radius:22px}
+body.wkdig-lb-open .sbar,body.wkdig-lb-open .snav,body.wkdig-lb-open .top,body.wkdig-lb-open .jtoc,body.wkdig-lb-open .totop{visibility:hidden}
+@media(prefers-reduced-motion:reduce){.wkdig-track{scroll-behavior:auto}}
