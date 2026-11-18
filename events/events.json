@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 191,
+ "count": 180,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -65,46 +65,6 @@
    ]
   },
   {
-   "start": "2026-11-14",
-   "end": "2026-11-17",
-   "dates": "14–17 Nov 2026",
-   "name": "ACM ICAIF 2026 – AI in Finance",
-   "url": "https://icaif2026.org/",
-   "city": "Milan",
-   "country": "Italy",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "ACM",
-   "note": "International Conference on AI in Finance.",
-   "project": "05",
-   "project_name": "AI Finance",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-15",
-   "end": "2026-11-17",
-   "dates": "15–17 Nov 2026",
-   "name": "Newsroom Summit Study Tour 2026",
-   "url": "https://wan-ifra.org/events/newsroom-summit-study-tour-2026/",
-   "city": "Oslo",
-   "country": "Norway",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "WAN-IFRA",
-   "note": "Visits to leading Norwegian newsrooms before the summit.",
-   "project": "08",
-   "project_name": "AI Journalism",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
    "start": "2026-11-15",
    "end": "2026-11-18",
    "dates": "15–18 Nov 2026",
@@ -160,86 +120,6 @@
    "project_name": "AI Healthcare",
    "india": false,
    "cardiology": true,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-17",
-   "dates": "16–17 Nov 2026",
-   "name": "AI, Ethics and Faith after Magnifica Humanitas",
-   "url": "https://cdt-art-ai.ac.uk/news/events/ai-ethics-and-faith-after-magnifica-humanitas/",
-   "city": "London (Lambeth Palace)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "ART-AI (University of Bath CDT)",
-   "note": "Christian, Islamic and other faith perspectives on AI ethics.",
-   "project": "21",
-   "project_name": "AI Spirituality",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-17",
-   "dates": "16–17 Nov 2026",
-   "name": "Autonomous Vehicles & AI Europe 2026",
-   "url": "https://europe.autonomous-vehicles-conference.com/",
-   "city": "Frankfurt",
-   "country": "Germany",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Autonomous Vehicles & AI Europe",
-   "note": "5th annual conference on AVs and AI.",
-   "project": "13",
-   "project_name": "AI Transportation",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-17",
-   "dates": "16–17 Nov 2026",
-   "name": "Machine Learning in Drug Discovery Symposium",
-   "url": "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/agenda-2026",
-   "city": "Cambridge, MA (Broad Institute)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Broad Institute of MIT and Harvard",
-   "note": "Annual ML for drug-discovery symposium.",
-   "project": "32",
-   "project_name": "AI Biotechnology",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-17",
-   "dates": "16–17 Nov 2026",
-   "name": "WT | Wearable Technologies Conference 2026 Europe",
-   "url": "https://wearable-technologies.com/events/wt-wearable-technologies-conference-2026-europe",
-   "city": "Düsseldorf (at MEDICA)",
-   "country": "Germany",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "WT | Wearable Technologies",
-   "note": "Wearables conference including generative-AI innovation workshop.",
-   "project": "41",
-   "project_name": "AI Consumer Devices & Wearables",
-   "india": false,
-   "cardiology": false,
    "months": [
     "2026-11"
    ]
@@ -319,106 +199,6 @@
    "project": "43",
    "project_name": "AI Governance",
    "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "dates": "17 Nov 2026",
-   "name": "Age-Friendly AI Assembly",
-   "url": "https://agefriendlyai.ie/event/age-friendly-ai-assembly/",
-   "city": "Galway (Salthill Hotel)",
-   "country": "Ireland",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Age-Friendly AI",
-   "note": "Assembly on AI that supports ageing well.",
-   "project": "16",
-   "project_name": "AI Geriatric",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "dates": "17 Nov 2026",
-   "name": "AI Companions: Harmless Chatbot or Your Students' New Best Friend?",
-   "url": "https://sharemylesson.com/webinars/ai-companions-harmless-chatbot-or-students-best-friend",
-   "city": "Online",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "Share My Lesson with Common Sense Education",
-   "note": "Free webinar, 6–7 pm EST.",
-   "project": "15",
-   "project_name": "AI Kids",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "dates": "17 Nov 2026",
-   "name": "AI in Senior Living: Real Progress, Real Pitfalls, Real-Time Demos",
-   "url": "https://www.leadingagesoutheast.org/m/event_details.asp?id=2041517",
-   "city": "Online (Zoom)",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "LeadingAge Southeast",
-   "note": "1-hour CE webinar with a live ChatGPT demo; register by 12 Nov.",
-   "project": "16",
-   "project_name": "AI Geriatric",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "dates": "17 Nov 2026",
-   "name": "Founders First",
-   "url": "https://www.bcvp.com/founders-first",
-   "city": "Durham, NC (The Carolina Theatre)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "Bull City Venture Partners",
-   "note": "Founder case studies on building AI-native companies.",
-   "project": "47",
-   "project_name": "AI Startups & Investment",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "dates": "17 Nov 2026",
-   "name": "Using AI to Listen, Learn, and Act on Community Feedback",
-   "url": "https://ssir.org/webinars/entry/ai-community-feedback",
-   "city": "Online",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "Stanford Social Innovation Review",
-   "note": "Webinar, 1–2:30 pm ET.",
-   "project": "44",
-   "project_name": "AI Social Impact",
-   "india": false,
    "cardiology": false,
    "months": [
     "2026-11"
