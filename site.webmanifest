@@ -49,7 +49,7 @@
  "shortcuts": [
   {
    "name": "Latest issue",
-   "url": "/issues/2026-11-20/",
+   "url": "/issues/2026-11-21/",
    "icons": [
     {
      "src": "/assets/img/icon-192.png",
@@ -59,7 +59,7 @@
   },
   {
    "name": "Swipe the latest issue",
-   "url": "/issues/2026-11-20/swipe/",
+   "url": "/issues/2026-11-21/swipe/",
    "icons": [
     {
      "src": "/assets/img/icon-192.png",
