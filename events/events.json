@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 141,
+ "count": 131,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -45,26 +45,6 @@
    ]
   },
   {
-   "start": "2026-11-15",
-   "end": "2026-11-20",
-   "dates": "15–20 Nov 2026",
-   "name": "Dagstuhl Seminar 26471: Generative AI in Cardiology",
-   "url": "https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26471",
-   "city": "Schloss Dagstuhl, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Schloss Dagstuhl – Leibniz Center for Informatics",
-   "note": "ML researchers and cardiologists chart a roadmap for generative AI in cardiology.",
-   "project": "04",
-   "project_name": "AI Healthcare",
-   "india": false,
-   "cardiology": true,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
    "start": "2026-11-16",
    "end": "2026-11-21",
    "dates": "16–21 Nov 2026",
@@ -86,26 +66,6 @@
   },
   {
    "start": "2026-11-17",
-   "end": "2026-11-20",
-   "dates": "17–20 Nov 2026",
-   "name": "Formnext 2026",
-   "url": "https://formnext.mesago.com/frankfurt/en.html",
-   "city": "Frankfurt",
-   "country": "Germany",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Mesago Messe Frankfurt",
-   "note": "Additive manufacturing fair, including AI CAD tools.",
-   "project": "14",
-   "project_name": "AI Manufacturing",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
    "end": "2026-11-22",
    "dates": "17–22 Nov 2026",
    "name": "Entertainment Week Africa 2026 – Fashion and AI tracks",
@@ -118,86 +78,6 @@
    "note": "Seven industry tracks including fashion & beauty and AI & tech.",
    "project": "26",
    "project_name": "AI Fashion & Beauty",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "dates": "18–20 Nov 2026",
-   "name": "AEC.AI Summit 2026",
-   "url": "https://aecaisummit.org/",
-   "city": "Austin, Texas (JW Marriott)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "AEC.AI",
-   "note": "Hands-on, practical AI for architecture, engineering and construction.",
-   "project": "09",
-   "project_name": "AI Architecture",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "dates": "18–20 Nov 2026",
-   "name": "SIGraDi 2026",
-   "url": "https://sigradi.org/sigradi2026/",
-   "city": "Santiago, Chile",
-   "country": "Chile",
-   "region": "Latin America",
-   "format": "in-person",
-   "organiser": "SIGraDi",
-   "note": "30th conference on AI and the future of architectural practice and design.",
-   "project": "09",
-   "project_name": "AI Architecture",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "dates": "18–20 Nov 2026",
-   "name": "Singapore FinTech Festival 2026",
-   "url": "https://www.mas.gov.sg/news/media-releases/2026/singapore-fintech-festival-2026-to-explore-the-five-forces-rewiring-global-finance",
-   "city": "Singapore",
-   "country": "Singapore",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "Monetary Authority of Singapore",
-   "note": "Five forces rewiring finance, including how AI transforms productivity and growth.",
-   "project": "05",
-   "project_name": "AI Finance",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "dates": "18–20 Nov 2026",
-   "name": "Smart Technology Expo 2026",
-   "url": "https://smarttechnologyexpo.mx/en/",
-   "city": "Guadalajara (Expo Guadalajara)",
-   "country": "Mexico",
-   "region": "Latin America",
-   "format": "in-person",
-   "organiser": "Smart Technology Expo",
-   "note": "Industry 4.0, including AI and machine learning in automation.",
-   "project": "14",
-   "project_name": "AI Manufacturing",
    "india": false,
    "cardiology": false,
    "months": [
@@ -244,86 +124,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "dates": "19–20 Nov 2026",
-   "name": "HR Tech Atlas 2026",
-   "url": "https://hrone.cloud/hr-tech-atlas-2026/",
-   "city": "Online (India)",
-   "country": "India",
-   "region": "India",
-   "format": "online",
-   "organiser": "HROne",
-   "note": "Virtual summit on HR technology and AI choices in India.",
-   "project": "19",
-   "project_name": "AI Work & Employment",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "dates": "20 Nov 2026",
-   "name": "Elets BFSI AI Summit & Awards 2026",
-   "url": "https://events.eletsonline.com/bfsi-ai-summit/",
-   "city": "Mumbai (Sofitel BKC)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Elets Technomedia",
-   "note": "AI for banks, NBFCs, fintech and payments.",
-   "project": "05",
-   "project_name": "AI Finance",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "dates": "20 Nov 2026",
-   "name": "GenAI London 2026",
-   "url": "https://www.genailondon.uk/",
-   "city": "London (QEII Centre)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "GenAI London",
-   "note": "Conference for generative AI leaders and enthusiasts.",
-   "project": "37",
-   "project_name": "AI Foundation Models & Assistants",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "dates": "20 Nov 2026",
-   "name": "NAFEMS ASEAN Conference 2026",
-   "url": "https://www.nafems.org/events/nafems/2026/nafems-asean-conference/",
-   "city": "Singapore (Novotel on Stevens)",
-   "country": "Singapore",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "NAFEMS",
-   "note": "The impact of AI-based techniques on engineering simulation workflows.",
-   "project": "10",
-   "project_name": "AI Engineering",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
    ]
   },
   {
