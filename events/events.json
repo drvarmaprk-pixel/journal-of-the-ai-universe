@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 131,
+ "count": 124,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -39,26 +39,6 @@
    "project": "23",
    "project_name": "AI Music & Arts",
    "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-16",
-   "end": "2026-11-21",
-   "dates": "16–21 Nov 2026",
-   "name": "AICTE-ATAL FDP on Responsible AI Governance for LLMs",
-   "url": "https://mgit.ac.in/events/aicte-atal-fdp-on-responsible-ai-governance-for-large-language-models-16-21-nov-2026/",
-   "city": "Hyderabad (MGIT)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Mahatma Gandhi Institute of Technology",
-   "note": "Free six-day offline faculty programme, 50 seats.",
-   "project": "43",
-   "project_name": "AI Governance",
-   "india": true,
    "cardiology": false,
    "months": [
     "2026-11"
@@ -124,126 +104,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-20",
-   "end": "2026-11-21",
-   "dates": "20–21 Nov 2026",
-   "name": "Bharat AI Innovation 2026",
-   "url": "https://bharataiinnovation.com/",
-   "city": "Mumbai (World Trade Center)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Bharat AI Innovation",
-   "note": "India's B2B AI conference and GenAI expo.",
-   "project": "50",
-   "project_name": "AI Future Frontiers",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-20",
-   "end": "2026-11-21",
-   "dates": "20–21 Nov 2026",
-   "name": "CBSE National Teachers' Conference 2026: Computational Thinking & Understanding AI",
-   "url": "https://www.cbse.gov.in/cbsenew/documents/07_Circular_Acad_05052026.pdf",
-   "city": "Pune",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "CBSE",
-   "note": "National conference for teachers on CT and AI.",
-   "project": "18",
-   "project_name": "AI Education",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-20",
-   "end": "2026-11-21",
-   "dates": "20–21 Nov 2026",
-   "name": "Global Digital Health Summit 2026 – AI in Action",
-   "url": "https://www.globalsummit.health/gdhs2026",
-   "city": "New Delhi (Bharat Mandapam)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Global Digital Health Summit (GDHS)",
-   "note": "Theme: Implementing Artificial Intelligence – AI in Action.",
-   "project": "04",
-   "project_name": "AI Healthcare",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "dates": "21 Nov 2026",
-   "name": "AI-India 2026 – India's AI Developer Conference",
-   "url": "https://www.ai-india.ai/",
-   "city": "Pune",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "AI-India",
-   "note": "2nd edition; 12 talks, 500+ delegates.",
-   "project": "38",
-   "project_name": "AI Coding & Developer Tools",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "dates": "21 Nov 2026",
-   "name": "DevNext 2026",
-   "url": "https://techgig.com/devnext",
-   "city": "Hyderabad (The Park)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "TechGig",
-   "note": "Developer conference for tech builders in the AI era.",
-   "project": "38",
-   "project_name": "AI Coding & Developer Tools",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "dates": "21 Nov 2026",
-   "name": "Hour of Code: Generation AI Workshop",
-   "url": "https://la-nube.org/plan-your-day/calendar/hour-of-code-generation-ai-workshop-2026-11-21",
-   "city": "El Paso, Texas (La Nube)",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "La Nube",
-   "note": "Hands-on AI coding workshop for kids and families.",
-   "project": "15",
-   "project_name": "AI Kids",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
    ]
   },
   {
