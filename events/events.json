@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 124,
+ "count": 121,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -22,46 +22,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-06",
-   "end": "2026-11-22",
-   "dates": "6–22 Nov 2026",
-   "name": "Beta Festival 2026",
-   "url": "https://www.betafestival.ie/",
-   "city": "Dublin",
-   "country": "Ireland",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Beta Festival",
-   "note": "Where art meets technology: the intelligence of landscapes, plants, animals and machines.",
-   "project": "23",
-   "project_name": "AI Music & Arts",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-17",
-   "end": "2026-11-22",
-   "dates": "17–22 Nov 2026",
-   "name": "Entertainment Week Africa 2026 – Fashion and AI tracks",
-   "url": "https://ewafrica.com/tracks/",
-   "city": "Lagos",
-   "country": "Nigeria",
-   "region": "Africa",
-   "format": "in-person",
-   "organiser": "Entertainment Week Africa",
-   "note": "Seven industry tracks including fashion & beauty and AI & tech.",
-   "project": "26",
-   "project_name": "AI Fashion & Beauty",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
    ]
   },
   {
@@ -145,26 +105,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "dates": "22 Nov 2026",
-   "name": "DevFest Bhopal 2026",
-   "url": "https://devfest.bhopal.dev/",
-   "city": "Bhopal (Minto Hall)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "GDG Cloud Bhopal",
-   "note": "AI, cloud and developer conference.",
-   "project": "38",
-   "project_name": "AI Coding & Developer Tools",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
    ]
   },
   {
