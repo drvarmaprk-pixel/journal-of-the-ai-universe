@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 121,
+ "count": 114,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -68,26 +68,6 @@
   },
   {
    "start": "2026-11-21",
-   "end": "2026-11-24",
-   "dates": "21–24 Nov 2026",
-   "name": "AAR Annual Meeting – Artificial Intelligence and Religion Unit",
-   "url": "https://papers.aarweb.org/group/15481",
-   "city": "Denver",
-   "country": "United States",
-   "region": "North America",
-   "format": "in-person",
-   "organiser": "American Academy of Religion",
-   "note": "The AI and Religion programme unit meets at the AAR/SBL Annual Meeting.",
-   "project": "21",
-   "project_name": "AI Spirituality",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-21",
    "end": "2026-12-05",
    "dates": "21 Nov – 5 Dec 2026",
    "name": "DevSparks 2026 – Coimbatore (21 Nov) & Delhi (5 Dec)",
@@ -105,126 +85,6 @@
    "months": [
     "2026-11",
     "2026-12"
-   ]
-  },
-  {
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "dates": "24 Nov 2026",
-   "name": "Accessible AI Workshop for youth",
-   "url": "https://www.cnib.ca/en/event/accessible-ai-workshops-november",
-   "city": "Online (Zoom)",
-   "country": "",
-   "region": "",
-   "format": "online",
-   "organiser": "CNIB",
-   "note": "Accessible AI workshop in CNIB's children and youth programmes.",
-   "project": "15",
-   "project_name": "AI Kids",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "dates": "24 Nov 2026",
-   "name": "AI for Earth & Environmental Science Workshop 2026",
-   "url": "https://ecs.wgtn.ac.nz/Events/AIForEarth2026/",
-   "city": "Wellington (Victoria University, Laby Building)",
-   "country": "New Zealand",
-   "region": "Asia-Pacific",
-   "format": "in-person",
-   "organiser": "Victoria University of Wellington",
-   "note": "One-day AI × Earth workshop.",
-   "project": "34",
-   "project_name": "AI Environment",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "dates": "24 Nov 2026",
-   "name": "AI in Critical Infrastructure 2026",
-   "url": "https://aiincriticalinfrastructure.co.uk/",
-   "city": "London (240 Blackfriars Road)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "LTW365",
-   "note": "Senior energy, utilities and digital-infrastructure leaders on operational AI.",
-   "project": "12",
-   "project_name": "AI Energy",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "dates": "24 Nov 2026",
-   "name": "AI: Hope, Hesitation or Hype?",
-   "url": "https://www.sussex.ac.uk/broadcast/read/71123",
-   "city": "Brighton (Brighton Dome)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "University of Sussex & Brighton Dome",
-   "note": "Evening of talks and debate on AI's future.",
-   "project": "50",
-   "project_name": "AI Future Frontiers",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "dates": "24 Nov 2026",
-   "name": "Civo Navigate India 2026 – Sovereignty and AI edition",
-   "url": "https://www.civo.com/navigate/india/2026",
-   "city": "Bengaluru",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Civo",
-   "note": "Cloud, AI and DevOps conference.",
-   "project": "39",
-   "project_name": "AI Cloud & Data Centres",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "dates": "24 Nov 2026",
-   "name": "From AlphaGo to AGI – Thore Graepel",
-   "url": "https://www.lse.ac.uk/events/general-artificial-intelligence",
-   "city": "London (LSE)",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "London School of Economics",
-   "note": "Public lecture on the future of general AI, 6:30 pm.",
-   "project": "48",
-   "project_name": "AI AGI & ASI",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
    ]
   },
   {
