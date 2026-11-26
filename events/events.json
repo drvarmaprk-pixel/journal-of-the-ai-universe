@@ -1,6 +1,6 @@
 {
  "week": "2026-10-19",
- "count": 114,
+ "count": 111,
  "curated_by": "Dr.P.R.K.Varma",
  "events": [
   {
@@ -101,66 +101,6 @@
    "note": "Automation fair with industrial AI as a focus topic.",
    "project": "14",
    "project_name": "AI Manufacturing",
-   "india": false,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "dates": "25 Nov 2026",
-   "name": "AI Securecon Summit 2026",
-   "url": "https://aisecurecon.thinkinevents.org/",
-   "city": "Hyderabad",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "Thinkin Events",
-   "note": "AI-driven cybersecurity and fraud prevention for BFSI.",
-   "project": "42",
-   "project_name": "AI Cybersecurity",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "dates": "25 Nov 2026",
-   "name": "ET Realty & Beyond Summit Hyderabad",
-   "url": "https://realty.economictimes.indiatimes.com/realty-beyond-summit-hyderabad",
-   "city": "Hyderabad (Le Méridien)",
-   "country": "India",
-   "region": "India",
-   "format": "in-person",
-   "organiser": "ET Realty",
-   "note": "How AI, data and immersive tools are changing real estate.",
-   "project": "46",
-   "project_name": "AI Smart Cities & Real Estate",
-   "india": true,
-   "cardiology": false,
-   "months": [
-    "2026-11"
-   ]
-  },
-  {
-   "start": "2026-11-25",
-   "end": "2026-11-25",
-   "dates": "25 Nov 2026",
-   "name": "Fragrance Innovation Summit 2026",
-   "url": "https://www.fragranceinnovation.com/en/home/",
-   "city": "Paris",
-   "country": "France",
-   "region": "Europe",
-   "format": "in-person",
-   "organiser": "Fragrance Innovation Summit",
-   "note": "How artificial intelligence is reshaping fragrance creation and consumers.",
-   "project": "26",
-   "project_name": "AI Fashion & Beauty",
    "india": false,
    "cardiology": false,
    "months": [
